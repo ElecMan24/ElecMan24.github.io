@@ -1,4 +1,15 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+The Scouring Wind removed.
+Defend the Nexus removed.
+Tides of Vermin removed.
+Raze to Ruin removed.
+Await the Coming Dawn removed.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
