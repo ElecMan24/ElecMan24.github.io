@@ -1,4 +1,332 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Verminlord Warpseer added.
+Master Moulder added.
+Sigmar's Thunder added.
+Skaven Tactics added.
+Arch-Warlock added.
+Too Quick to Hit-Hit added.
+
+Verminlord Deceiver removed.
+Sigmar's Light removed.
+
+Skaven Clanrat
+rules_text: Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Vermintide[/i] — This creature can't block unless you control four or more Rats. => Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Ruination[/i] — This creature can't block unless the total mana value among cards in your graveyard is greater than or equal to 13.
+
+Skaven Clawlord
+rules_text: [i]Ruination[/i] — Whenever you sacrifice another permanent with mana value 1 or greater, create a 1/1 black Rat Peasant creature token with “This token can't block.” If the total mana value among cards in your graveyard is greater than or equal to {13}, create two of those tokens instead. => [i]Ruination[/i] — Whenever you sacrifice another permanent with mana value 1 or greater, create a 1/1 black Rat Peasant creature token with “This token can't block.” If the total mana value among cards in your graveyard is greater than or equal to 13, create two of those tokens instead.
+
+Cornered Rats
+rules_text: As an additional cost to cast this spell, discard a card.
+Target creature you control connives X times, where X is half the discarded card's mana value, rounded up. => [i]Ruinaiton[/i] — Choose one, if the total mana value among cards in your graveyard is greater than or equal to 13 you may choose one or more instead.
+• Target creature you control connives three times.
+• Cornered Rats deals X damage to any target, where X is half the greatest mana value among cards in your graveyard, rounded up.
+
+Warlock Bombardier
+rules_text: Whenever you sacrifice another permanent with mana value 3 or greater, this creature deals 3 damage to each opponent. This ability triggers only once each turn. => Whenever you sacrifice another permanent with mana value 1 or greater, this creature deals 3 damage to each opponent. This ability triggers only once each turn.
+
+Grey Seer
+rules_text: When this creature enters, it connives. 
+[i]Ruination[/i] — Whenever you discard one or more nonland cards, if the total mana value among cards in your graveyard is greater than or equal to 13. this creature deals 1 damage to any target. => When this creature enters, it connives. 
+[i]Ruination[/i] — Whenever you discard a card, if the total mana value among cards in your graveyard is greater than or equal to 13. this creature deals 1 damage to any target.
+pt: 2/2 => 1/2
+
+Thanquol and Boneripper
+rules_text: Trample, ward {2}
+At the start of combat on your turn, this creature connives twice.
+You may play lands and cast spells from among cards in your graveyard you've connived or surveiled this turn. => Trample
+At the start of combat on your turn, this creature connives twice.
+You may play lands and cast spells from among cards in your graveyard you've connived or surveiled this turn.
+
+Stormfiend
+rules_text: Squad—Sacrifice two Rats
+Whenever this creature attacks, it deals X damage to any target, where X is the greatest mana value among cards in your graveyard. => Squad—Sacrifice two creatures with mana value 1 or greater
+Haste
+Whenever this creature attacks, it deals X damage to any target, where X is the greatest mana value among cards in your graveyard.
+
+Hell Pit Abomination
+rules_text: Menace
+When this creature dies, create X 1/1 black Rat creature tokens with “This token can't block,” where X is the number of counters on this creature.
+Sacrifice a nonland permanent: Monstrosity X, where X is the sacrificed permanent's mana value. X can't be 0. => Menace
+When this creature dies, create X 1/1 black Rat creature tokens with “This token can't block,” where X half this creature's power, rounded up.
+Sacrifice a nonland permanent: Monstrosity X, where X is the sacrificed permanent's mana value. X can't be 0.
+
+Liege Kavalos
+rules_text: First strike
+[i]Master of Cavalry — [/i]Whenever you sacrifice one or more permanents with mana value 1 or greater, create a 2/2 black Skeleton Knight creature token.
+Whenever this creature attacks, surveil 2. => Menace
+[i]Master of Cavalry — [/i]Whenever you sacrifice one or more permanents with mana value 1 or greater, create a 2/2 black Skeleton Knight creature token.
+Whenever this creature attacks, surveil 2.
+
+Mortisan Soulreaper
+rules_text: Deathtouch
+Whenever you sacrifice one or more permanents, put a +1/+1 counter on this creature. => Deathtouch
+Whenever you sacrifice a permanent, put a +1/+1 counter on this creature.
+
+Alarith Stoneguard
+
+Enduring as Rock
+
+Sunmetal Weapons
+
+Ocari Dara, Spirefall
+rules_text: 
+I — Draw two cards.
+II — Each player chooses two creatures they control. Destroy all other non-Saga, nonland permanents.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards.
+II — Each player chooses two creatures they control. Destroy all other non-Saga, nonland permanents.
+III — Permanent spells you cast this turn have convoke.
+special_text: 
+I — Draw two cards.
+II — Each player chooses two creatures they control. Destroy all other non-Saga, nonland permanents.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards.
+II — Each player chooses two creatures they control. Destroy all other non-Saga, nonland permanents.
+III — Permanent spells you cast this turn have convoke.
+
+Scinari Loreseeker
+
+Vanari Bannerblade
+
+Light of the True Moon
+cost: {2}{W}{U} => {3}{W}
+
+Hurakan Windmage
+
+Unseen Force
+
+Realmgate
+
+Savage Lands
+
+Crumbling Necropolis
+
+Jungle Shrine
+
+Seaside Citadel
+
+Arcane Sanctum
+
+Ironweld Cogfort
+
+Wildercorps Hunter
+
+Ogor Leadbelcher
+
+Mournfang Rider
+
+Ogor Gorger
+
+Ironweld Great Cannon
+
+A Tool for Every Job
+
+Thundertusk Beastriders
+
+Bloodpelt Hunter
+
+Ogor Tyrant
+
+March of the Dawners
+
+City's Heraldry
+
+Coin Malleus
+
+Vanguard of Light
+
+Shining Company
+
+Clashing Tides
+
+Feast of Bones
+
+Roiling Roots
+
+Lumineth Sanctuary
+
+Sigmarite Strongpoint
+
+Skaven Warren
+
+Ogor Glutthold
+
+Ossiarchh Necropolis
+
+Vanari Lord Regent
+
+Settler's Gain
+
+Gothizzar
+
+The Gnaw
+
+Great Gutfort
+
+Hammerhal
+
+Rat Ogor
+
+Brood Terror
+rules_text: Menace
+[i]Lend a Claw —[/i] {3}{R}, Discard your hand: Draw X cards, where X is the greatest mana value among cards discarded this way. Activate only once per turn and only as a sorcery. => Menace
+[i]Lend a Claw —[/i] {3}{R}: Discard your hand, draw X cards, where X is the greatest mana value among cards discarded this way. Activate only once per turn and only as a sorcery.
+
+Skaven Plague Monk
+rules_text: Squad {3}{B} [i](As an additional cost to cast this spell, you may pay {3}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Deathtouch => Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Ruination — This creature has deathtouch if the total mana value among cards in your graveyard is greater than or equal to 13.
+pt: 1/1 => 2/1
+
+Mortisan Reconstruction
+
+Unbind
+
+Clawlord on Gnaw-beast
+rules_text: Menace
+[i]Cruel Commander —[/i] Sacrifice a creature: Creatures you control get +X/+0 until end of turn, where X is one plus the sacrificed creature's mana value. Activate only during your turn and only once each turn. => Menace
+[i]Cruel Captain —[/i] Sacrifice a creature: Creatures you control get +X/+0 until end of turn, where X is one plus the sacrificed creature's mana value. Activate only during your turn and only once each turn.
+
+Total Eclipse
+
+Ogor Irongut
+
+Globb Glittermaw
+
+Braggoth Vardruk
+
+Great Mawpot
+
+Shrine Luminor
+rules_text: {T}: Exile target nonland permanent you control, then return that card to the battlefield under your control. Activate only as a sorcery.
+Whenever you cast a spell that has convoke, untap this artifact. => {T}: Exile another target nonland permanent you control, then return that card to the battlefield under your control. Activate only as a sorcery.
+Whenever you cast a spell that has convoke, untap this artifact.
+
+Nexus Siphon
+
+Skaven Gnawhole
+
+Bloodfell Caves
+
+Blossoming Sands
+
+Dismal Backwater
+
+Jungle Hollow
+
+Rugged Highlands
+
+Scoured Barrens
+
+Saltwater Cliffs
+
+Thornwood Falls
+
+Tranquil Cove
+
+Wind-Scarred Crag
+
+Aetherquartz, Realmstone of Hsyh
+type: Enchantment Artifact => Artifact
+
+Grave-Sand, Realmstone of Shyish
+type: Enchantment Artifact => Artifact
+
+Varanite, Realmstone of Chaos
+type: Enchantment Artifact => Artifact
+
+Amberbone, Realmstone of Ghur
+type: Enchantment Artifact => Artifact
+
+Emberstone, Realmstone of Aqshy
+type: Enchantment Artifact => Artifact
+
+Scinari Calligrave
+
+Lightning Reactions
+
+Warpgale
+cost: {2}{U}{B}{R} => {1}{U}{B}{R}
+rules_text: This spell costs {2} less to cast if you've discarded a card this turn.
+Look at the top five cards of your library. Put two of those cards into your hand and the rest into your graveyard. Warpgale deals damage to target creature or battle equal to the greatest mana value among cards put into your graveyard this way. => [i]Ruinaiton[/i] — Look at the top five cards of your library. Put one of those cards into your hand and the rest into your graveyard. Warpgale deals damage to target creature or battle equal to the greatest mana value among cards put into your graveyard this way. If if there are cards with total mana value 13 or greater among cards in your graveyard, choose two cards instead.
+
+Fusil-cannon
+
+Splatter Cleaver
+
+Eshin Dagger
+
+Always More Bodies
+
+Alchemite Warforger
+
+Skaven Deathmaster
+rules_text: Flash
+When this creature enters, destroy target creature an opponent controls. => [i]Ruination[/i] — If the total mana value among cards in your graveyard is greater than or equal to 13, you may cast this spell as though it had flash.
+When this creature enters, destroy target creature an opponent controls.
+
+Ogor Butcher
+
+Ogor Slaughtermaster
+
+Ravenous Fortitude
+
+Icefall Yhetee
+
+Ogor Ironblaster
+
+Liege Immortis
+
+Lode of Saturation
+
+Grisly Repast
+
+Frostlord on Stonehorn
+
+Stonehorn Beastrider
+
+Frost Saber
+
+Gnoblar
+
+Law of the Maw
+
+Windleap
+
+Teclian Meditation
+
+Training Arena
+
+Vigor of Champions
+
+On the Mawpath
+
+Ironblaster's Hail Shot
+
+Agents of Fate
+
+The Liferoots
+
+Deflect Blame
+
+Wisdom of Champions
+
+Discipline of Champions
+
+Cunning of Champions
+
+Fury of Champions
+
+Hand of Dust
+
+Temporary Peace
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
