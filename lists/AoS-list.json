@@ -29,7 +29,7 @@
     },
     {
         "card_name": "Avalenor, Ancient Aelementor",
-        "number": 106,
+        "number": 107,
         "shape": "normal",
         "set": "AoS",
         "position": "63"
@@ -64,7 +64,7 @@
     },
     {
         "card_name": "The Liferoots",
-        "number": 114,
+        "number": 115,
         "shape": "normal split",
         "set": "AoS",
         "position": "203"
@@ -99,7 +99,7 @@
     },
     {
         "card_name": "Vigor of Champions",
-        "number": 121,
+        "number": 122,
         "shape": "normal",
         "set": "AoS",
         "position": "199"
@@ -133,8 +133,8 @@
         "position": "208"
     },
     {
-        "card_name": "Alarith Fortitude",
-        "number": 102,
+        "card_name": "Aelementiri Pilgrimage",
+        "number": 103,
         "shape": "normal",
         "set": "AoS",
         "position": "73"
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Alarith Mountain Spirit",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "AoS",
         "position": "89"
@@ -204,7 +204,7 @@
     },
     {
         "card_name": "Alarith Stoneguard",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "AoS",
         "position": "94"
@@ -232,14 +232,14 @@
     },
     {
         "card_name": "Training Arena",
-        "number": 100,
+        "number": 101,
         "shape": "normal",
         "set": "AoS",
         "position": "197"
     },
     {
         "card_name": "Amber Battlemage",
-        "number": 105,
+        "number": 106,
         "shape": "normal",
         "set": "AoS",
         "position": "84"
@@ -274,7 +274,7 @@
     },
     {
         "card_name": "City's Heraldry",
-        "number": 108,
+        "number": 109,
         "shape": "normal",
         "set": "AoS",
         "position": "120"
@@ -309,7 +309,7 @@
     },
     {
         "card_name": "Enduring as Rock",
-        "number": 109,
+        "number": 110,
         "shape": "normal",
         "set": "AoS",
         "position": "95"
@@ -344,7 +344,7 @@
     },
     {
         "card_name": "Roiling Roots",
-        "number": 118,
+        "number": 119,
         "shape": "normal split",
         "set": "AoS",
         "position": "126"
@@ -379,7 +379,7 @@
     },
     {
         "card_name": "Stonehorn Beastrider",
-        "number": 119,
+        "number": 120,
         "shape": "normal",
         "set": "AoS",
         "position": "191"
@@ -406,15 +406,15 @@
         "position": "180"
     },
     {
-        "card_name": "Ogor Ironblaster",
+        "card_name": "Meeting of Marshals",
         "number": 94,
         "shape": "normal",
         "set": "AoS",
-        "position": "186"
+        "position": "214"
     },
     {
         "card_name": "Charge of the Lumineth",
-        "number": 107,
+        "number": 108,
         "shape": "normal",
         "set": "AoS",
         "position": "65"
@@ -441,15 +441,15 @@
         "position": "0"
     },
     {
-        "card_name": "Skaven Tactics",
-        "number": 97,
+        "card_name": "Ogor Ironblaster",
+        "number": 95,
         "shape": "normal",
         "set": "AoS",
-        "position": "211"
+        "position": "186"
     },
     {
         "card_name": "Freeguild Cavalier",
-        "number": 110,
+        "number": 111,
         "shape": "normal",
         "set": "AoS",
         "position": "27"
@@ -476,15 +476,15 @@
         "position": "50"
     },
     {
-        "card_name": "Acolyte Globadier",
-        "number": 80,
+        "card_name": "Skaven Tactics",
+        "number": 98,
         "shape": "normal",
         "set": "AoS",
-        "position": "6"
+        "position": "211"
     },
     {
         "card_name": "Freeguild Storehouse",
-        "number": 111,
+        "number": 112,
         "shape": "normal",
         "set": "AoS",
         "position": "32"
@@ -511,15 +511,15 @@
         "position": "5"
     },
     {
-        "card_name": "Cracks Call",
-        "number": 84,
+        "card_name": "Acolyte Globadier",
+        "number": 80,
         "shape": "normal",
         "set": "AoS",
-        "position": "22"
+        "position": "6"
     },
     {
         "card_name": "Fusil-cannon",
-        "number": 112,
+        "number": 113,
         "shape": "normal",
         "set": "AoS",
         "position": "170"
@@ -546,15 +546,15 @@
         "position": "172"
     },
     {
-        "card_name": "Freeguild Fusilier",
-        "number": 86,
+        "card_name": "Cracks Call",
+        "number": 84,
         "shape": "normal",
         "set": "AoS",
-        "position": "26"
+        "position": "22"
     },
     {
         "card_name": "Hold Fast",
-        "number": 113,
+        "number": 114,
         "shape": "normal",
         "set": "AoS",
         "position": "80"
@@ -581,15 +581,15 @@
         "position": "7"
     },
     {
-        "card_name": "Frost Saber",
-        "number": 87,
+        "card_name": "Freeguild Fusilier",
+        "number": 86,
         "shape": "normal",
         "set": "AoS",
-        "position": "192"
+        "position": "26"
     },
     {
         "card_name": "Mountain Stance",
-        "number": 115,
+        "number": 116,
         "shape": "normal",
         "set": "AoS",
         "position": "75"
@@ -616,15 +616,15 @@
         "position": "193"
     },
     {
-        "card_name": "Ironblaster's Hail Shot",
-        "number": 90,
+        "card_name": "Frost Saber",
+        "number": 87,
         "shape": "normal",
         "set": "AoS",
-        "position": "201"
+        "position": "192"
     },
     {
         "card_name": "Mournfang Rider",
-        "number": 116,
+        "number": 117,
         "shape": "normal",
         "set": "AoS",
         "position": "112"
@@ -651,15 +651,15 @@
         "position": "189"
     },
     {
-        "card_name": "Ogor Leadbelcher",
-        "number": 95,
+        "card_name": "Ironblaster's Hail Shot",
+        "number": 90,
         "shape": "normal",
         "set": "AoS",
-        "position": "111"
+        "position": "201"
     },
     {
         "card_name": "Realmscribe's Mark",
-        "number": 117,
+        "number": 118,
         "shape": "normal",
         "set": "AoS",
         "position": "74"
@@ -686,15 +686,15 @@
         "position": "44"
     },
     {
-        "card_name": "Rat Ogor",
+        "card_name": "Ogor Leadbelcher",
         "number": 96,
         "shape": "normal",
         "set": "AoS",
-        "position": "138"
+        "position": "111"
     },
     {
         "card_name": "Vanari Auralan Sentinel",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "AoS",
         "position": "57"
@@ -721,15 +721,15 @@
         "position": "21"
     },
     {
-        "card_name": "Splatter Cleaver",
-        "number": 98,
+        "card_name": "Rat Ogor",
+        "number": 97,
         "shape": "normal",
         "set": "AoS",
-        "position": "171"
+        "position": "138"
     },
     {
         "card_name": "Wildercorps Ambuscade",
-        "number": 122,
+        "number": 123,
         "shape": "normal",
         "set": "AoS",
         "position": "83"
@@ -756,11 +756,11 @@
         "position": "200"
     },
     {
-        "card_name": "Thundertusk Beastriders",
+        "card_name": "Splatter Cleaver",
         "number": 99,
         "shape": "normal",
         "set": "AoS",
-        "position": "116"
+        "position": "171"
     },
     {
         "card_name": "e"
@@ -787,11 +787,11 @@
         "position": "184"
     },
     {
-        "card_name": "Zeal of Aqshy",
-        "number": 101,
+        "card_name": "Thundertusk Beastriders",
+        "number": 100,
         "shape": "normal",
         "set": "AoS",
-        "position": "28"
+        "position": "116"
     },
     {
         "card_name": "e"
@@ -818,7 +818,11 @@
         "position": "140"
     },
     {
-        "card_name": "e"
+        "card_name": "Zeal of Aqshy",
+        "number": 102,
+        "shape": "normal",
+        "set": "AoS",
+        "position": "28"
     },
     {
         "card_name": "e"
@@ -888,70 +892,70 @@
     "a->gold",
     {
         "card_name": "Hurakan Wind Spirit",
-        "number": 140,
+        "number": 141,
         "shape": "normal",
         "set": "AoS",
         "position": "90"
     },
     {
         "card_name": "Liege Immortis",
-        "number": 147,
+        "number": 148,
         "shape": "normal",
         "set": "AoS",
         "position": "187"
     },
     {
         "card_name": "Clawlord on Gnaw-beast",
-        "number": 130,
+        "number": 131,
         "shape": "normal",
         "set": "AoS",
         "position": "143"
     },
     {
         "card_name": "Bloodpelt Hunter",
-        "number": 126,
+        "number": 127,
         "shape": "normal",
         "set": "AoS",
         "position": "117"
     },
     {
         "card_name": "Alarith Stonemage",
-        "number": 123,
+        "number": 124,
         "shape": "normal",
         "set": "AoS",
         "position": "61"
     },
     {
         "card_name": "Hurakan Windmage",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
         "set": "AoS",
         "position": "101"
     },
     {
         "card_name": "Master Moulder",
-        "number": 149,
+        "number": 150,
         "shape": "normal",
         "set": "AoS",
         "position": "181"
     },
     {
         "card_name": "Ogor Gorger",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "AoS",
         "position": "113"
     },
     {
         "card_name": "Ogor Butcher",
-        "number": 156,
+        "number": 157,
         "shape": "normal",
         "set": "AoS",
         "position": "182"
     },
     {
         "card_name": "Freeguild Cavalier-Marshal",
-        "number": 134,
+        "number": 135,
         "shape": "normal",
         "set": "AoS",
         "position": "35"
@@ -964,14 +968,14 @@
     },
     {
         "card_name": "Warlock Bombardier",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "AoS",
         "position": "11"
     },
     {
         "card_name": "Wildercorps Hunter",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "AoS",
         "position": "110"
@@ -996,245 +1000,245 @@
     },
     {
         "card_name": "Arkhan, Mortarch of Sacriment",
-        "number": 125,
+        "number": 126,
         "shape": "normal",
         "set": "AoS",
         "position": "41"
     },
     {
         "card_name": "Stormfiend",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "AoS",
         "position": "15"
     },
     {
         "card_name": "Braggoth Vardruk",
-        "number": 128,
+        "number": 129,
         "shape": "normal",
         "set": "AoS",
         "position": "147"
     },
     {
         "card_name": "Pontifex Zenestra",
-        "number": 161,
+        "number": 162,
         "shape": "normal",
         "set": "AoS",
         "position": "79"
     },
     {
         "card_name": "Ellania and Ellathor, Warsages",
-        "number": 133,
+        "number": 134,
         "shape": "normal",
         "set": "AoS",
         "position": "71"
     },
     {
         "card_name": "Immortis Guard",
-        "number": 143,
+        "number": 144,
         "shape": "normal",
         "set": "AoS",
         "position": "38"
     },
     {
         "card_name": "Thanquol and Boneripper",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "AoS",
         "position": "14"
     },
     {
         "card_name": "Globb Glittermaw",
-        "number": 137,
+        "number": 138,
         "shape": "normal",
         "set": "AoS",
         "position": "146"
     },
     {
         "card_name": "Tahlia Vedra, First Marshal",
-        "number": 167,
+        "number": 168,
         "shape": "normal",
         "set": "AoS",
         "position": "78"
     },
     {
         "card_name": "Teclis and Celennar, Enlighened",
-        "number": 168,
+        "number": 169,
         "shape": "normal",
         "set": "AoS",
         "position": "70"
     },
     {
         "card_name": "Katakros, Mortarch of the Necropolis",
-        "number": 144,
+        "number": 145,
         "shape": "normal",
         "set": "AoS",
         "position": "51"
     },
     {
         "card_name": "Vizzik Skour",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "AoS",
         "position": "13"
     },
     {
         "card_name": "Ogor Irongut",
-        "number": 158,
+        "number": 159,
         "shape": "normal",
         "set": "AoS",
         "position": "145"
     },
     {
         "card_name": "Vandusian Guard",
-        "number": 172,
+        "number": 173,
         "shape": "normal",
         "set": "AoS",
         "position": "77"
     },
     {
         "card_name": "Vanari Bladelord",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "AoS",
         "position": "68"
     },
     {
         "card_name": "Bone-Tithe Nexus",
-        "number": 127,
+        "number": 128,
         "shape": "normal",
         "set": "AoS",
         "position": "86"
     },
     {
         "card_name": "The Mighty and the Cunning",
-        "number": 150,
+        "number": 151,
         "shape": "normal split",
         "set": "AoS",
         "position": "20"
     },
     {
         "card_name": "Frostlord on Stonehorn",
-        "number": 135,
+        "number": 136,
         "shape": "normal",
         "set": "AoS",
         "position": "190"
     },
     {
         "card_name": "Castelite Formation",
-        "number": 129,
+        "number": 130,
         "shape": "normal",
         "set": "AoS",
         "position": "34"
     },
     {
         "card_name": "Ocari Dara, Spirefall",
-        "number": 155,
+        "number": 156,
         "shape": "saga",
         "set": "AoS",
         "position": "97"
     },
     {
         "card_name": "Khenash-an, Staff of Spirits",
-        "number": 145,
+        "number": 146,
         "shape": "normal",
         "set": "AoS",
         "position": "42"
     },
     {
         "card_name": "MORE-MORE DOOM!!!",
-        "number": 151,
+        "number": 152,
         "shape": "normal",
         "set": "AoS",
         "position": "18"
     },
     {
         "card_name": "Great Mawpot",
-        "number": 138,
+        "number": 139,
         "shape": "normal",
         "set": "AoS",
         "position": "148"
     },
     {
         "card_name": "Dawnbringer Crusade",
-        "number": 132,
+        "number": 133,
         "shape": "saga",
         "set": "AoS",
         "position": "82"
     },
     {
         "card_name": "Scinari Loreseeker",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "AoS",
         "position": "98"
     },
     {
         "card_name": "Mortisan Soulmason",
-        "number": 152,
+        "number": 153,
         "shape": "normal",
         "set": "AoS",
         "position": "54"
     },
     {
         "card_name": "Skaven Gnawhole",
-        "number": 165,
+        "number": 166,
         "shape": "normal",
         "set": "AoS",
         "position": "151"
     },
     {
         "card_name": "Law of the Maw",
-        "number": 146,
+        "number": 147,
         "shape": "normal",
         "set": "AoS",
         "position": "194"
     },
     {
         "card_name": "Fusil Major",
-        "number": 136,
+        "number": 137,
         "shape": "normal",
         "set": "AoS",
         "position": "29"
     },
     {
         "card_name": "Shrine Luminor",
-        "number": 164,
+        "number": 165,
         "shape": "normal",
         "set": "AoS",
         "position": "149"
     },
     {
         "card_name": "Necropolis Stalker",
-        "number": 153,
+        "number": 154,
         "shape": "normal",
         "set": "AoS",
         "position": "37"
     },
     {
         "card_name": "Verminlord Warpseer",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "AoS",
         "position": "17"
     },
     {
         "card_name": "Ogor Tyrant",
-        "number": 160,
+        "number": 161,
         "shape": "normal",
         "set": "AoS",
         "position": "118"
     },
     {
         "card_name": "Nexus Siphon",
-        "number": 154,
+        "number": 155,
         "shape": "normal",
         "set": "AoS",
         "position": "150"
     },
     {
         "card_name": "Vanari Bannerblade",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "AoS",
         "position": "99"
@@ -1244,28 +1248,28 @@
     },
     {
         "card_name": "Cornered Rats",
-        "number": 131,
+        "number": 132,
         "shape": "normal",
         "set": "AoS",
         "position": "9"
     },
     {
         "card_name": "Icefall Yhetee",
-        "number": 142,
+        "number": 143,
         "shape": "normal",
         "set": "AoS",
         "position": "185"
     },
     {
         "card_name": "Alchemite Warforger",
-        "number": 124,
+        "number": 125,
         "shape": "normal",
         "set": "AoS",
         "position": "174"
     },
     {
         "card_name": "Lightning Reactions",
-        "number": 148,
+        "number": 149,
         "shape": "normal",
         "set": "AoS",
         "position": "168"
@@ -1275,14 +1279,14 @@
     },
     {
         "card_name": "Grey Seer",
-        "number": 139,
+        "number": 140,
         "shape": "normal",
         "set": "AoS",
         "position": "12"
     },
     {
         "card_name": "Ogor Slaughtermaster",
-        "number": 159,
+        "number": 160,
         "shape": "normal",
         "set": "AoS",
         "position": "183"
@@ -1292,7 +1296,7 @@
     },
     {
         "card_name": "Scinari Calligrave",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "AoS",
         "position": "167"
@@ -1302,7 +1306,7 @@
     },
     {
         "card_name": "Warpgale",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "AoS",
         "position": "169"
@@ -1338,77 +1342,77 @@
     },
     {
         "card_name": "Lumineth Sanctuary",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "AoS",
         "position": "127"
     },
     {
         "card_name": "Ogor Glutthold",
-        "number": 184,
+        "number": 185,
         "shape": "normal",
         "set": "AoS",
         "position": "130"
     },
     {
         "card_name": "Ossiarchh Necropolis",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "AoS",
         "position": "131"
     },
     {
         "card_name": "Sigmarite Strongpoint",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "AoS",
         "position": "128"
     },
     {
         "card_name": "Skaven Warren",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "AoS",
         "position": "129"
     },
     {
         "card_name": "Aetherquartz, Realmstone of Hsyh",
-        "number": 178,
+        "number": 179,
         "shape": "normal",
         "set": "AoS",
         "position": "162"
     },
     {
         "card_name": "Amberbone, Realmstone of Ghur",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "AoS",
         "position": "165"
     },
     {
         "card_name": "Coin Malleus",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "AoS",
         "position": "121"
     },
     {
         "card_name": "Emberstone, Realmstone of Aqshy",
-        "number": 181,
+        "number": 182,
         "shape": "normal",
         "set": "AoS",
         "position": "166"
     },
     {
         "card_name": "Grave-Sand, Realmstone of Shyish",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "AoS",
         "position": "163"
     },
     {
         "card_name": "Varanite, Realmstone of Chaos",
-        "number": 188,
+        "number": 189,
         "shape": "normal",
         "set": "AoS",
         "position": "164"
@@ -1437,35 +1441,35 @@
     "a->land",
     {
         "card_name": "Settler's Gain",
-        "number": 206,
+        "number": 207,
         "shape": "normal",
         "set": "AoS",
         "position": "133"
     },
     {
         "card_name": "Gothizzar",
-        "number": 195,
+        "number": 196,
         "shape": "normal",
         "set": "AoS",
         "position": "134"
     },
     {
         "card_name": "The Gnaw",
-        "number": 194,
+        "number": 195,
         "shape": "normal",
         "set": "AoS",
         "position": "135"
     },
     {
         "card_name": "Great Gutfort",
-        "number": 196,
+        "number": 197,
         "shape": "normal",
         "set": "AoS",
         "position": "136"
     },
     {
         "card_name": "Hammerhal",
-        "number": 197,
+        "number": 198,
         "shape": "normal",
         "set": "AoS",
         "position": "137"
@@ -1487,35 +1491,35 @@
     },
     {
         "card_name": "Tranquil Cove",
-        "number": 208,
+        "number": 209,
         "shape": "normal",
         "set": "AoS",
         "position": "160"
     },
     {
         "card_name": "Dismal Backwater",
-        "number": 193,
+        "number": 194,
         "shape": "normal",
         "set": "AoS",
         "position": "154"
     },
     {
         "card_name": "Bloodfell Caves",
-        "number": 190,
+        "number": 191,
         "shape": "normal",
         "set": "AoS",
         "position": "152"
     },
     {
         "card_name": "Rugged Highlands",
-        "number": 201,
+        "number": 202,
         "shape": "normal",
         "set": "AoS",
         "position": "156"
     },
     {
         "card_name": "Blossoming Sands",
-        "number": 191,
+        "number": 192,
         "shape": "normal",
         "set": "AoS",
         "position": "153"
@@ -1537,35 +1541,35 @@
     },
     {
         "card_name": "Scoured Barrens",
-        "number": 204,
+        "number": 205,
         "shape": "normal",
         "set": "AoS",
         "position": "157"
     },
     {
         "card_name": "Saltwater Cliffs",
-        "number": 202,
+        "number": 203,
         "shape": "normal",
         "set": "AoS",
         "position": "158"
     },
     {
         "card_name": "Jungle Hollow",
-        "number": 198,
+        "number": 199,
         "shape": "normal",
         "set": "AoS",
         "position": "155"
     },
     {
         "card_name": "Wind-Scarred Crag",
-        "number": 209,
+        "number": 210,
         "shape": "normal",
         "set": "AoS",
         "position": "161"
     },
     {
         "card_name": "Thornwood Falls",
-        "number": 207,
+        "number": 208,
         "shape": "normal",
         "set": "AoS",
         "position": "159"
@@ -1587,42 +1591,42 @@
     },
     {
         "card_name": "Realmgate",
-        "number": 200,
+        "number": 201,
         "shape": "normal",
         "set": "AoS",
         "position": "103"
     },
     {
         "card_name": "Arcane Sanctum",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "AoS",
         "position": "108"
     },
     {
         "card_name": "Crumbling Necropolis",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "AoS",
         "position": "105"
     },
     {
         "card_name": "Jungle Shrine",
-        "number": 199,
+        "number": 200,
         "shape": "normal",
         "set": "AoS",
         "position": "106"
     },
     {
         "card_name": "Savage Lands",
-        "number": 203,
+        "number": 204,
         "shape": "normal",
         "set": "AoS",
         "position": "104"
     },
     {
         "card_name": "Seaside Citadel",
-        "number": 205,
+        "number": 206,
         "shape": "normal",
         "set": "AoS",
         "position": "107"
@@ -1656,35 +1660,35 @@
     },
     {
         "card_name": "Plains",
-        "number": 210,
+        "number": 211,
         "shape": "normal",
         "set": "AoS",
         "position": "175"
     },
     {
         "card_name": "Island",
-        "number": 211,
+        "number": 212,
         "shape": "normal",
         "set": "AoS",
         "position": "176"
     },
     {
         "card_name": "Swamp",
-        "number": 212,
+        "number": 213,
         "shape": "normal",
         "set": "AoS",
         "position": "177"
     },
     {
         "card_name": "Mountain",
-        "number": 213,
+        "number": 214,
         "shape": "normal",
         "set": "AoS",
         "position": "178"
     },
     {
         "card_name": "Forest",
-        "number": 214,
+        "number": 215,
         "shape": "normal",
         "set": "AoS",
         "position": "179"
