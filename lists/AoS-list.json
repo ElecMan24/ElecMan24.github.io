@@ -1392,7 +1392,11 @@
         "position": "167"
     },
     {
-        "card_name": "e"
+        "card_name": "Master Crafted Soul Gem",
+        "number": 165,
+        "shape": "normal",
+        "set": "AoS",
+        "position": "219"
     },
     {
         "card_name": "Warpgale",

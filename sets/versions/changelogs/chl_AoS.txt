@@ -1,4 +1,39 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Master Crafted Soul Gem added.
+
+
+Skaven Deathmaster
+rules_text: [i]Ruination[/i] — If the total mana value among cards in your graveyard is greater than or equal to 13, you may cast this spell as though it had flash.
+When this creature enters, destroy target creature an opponent controls. => [i]Ruination[/i] — This spell has flash as long as the total mana value among cards in your graveyard is greater than or equal to 13.
+When this creature enters, destroy target creature an opponent controls.
+
+Icefall Yhetee
+rules_text: Menace
+Whenever you activate an Engorge or Monstrosity ability, you may pay {1}, if you do, return this card from your graveyard to the battlefield tapped. => Menace
+Whenever you activate an Engorge or Monstrosity ability, you may pay {2}, if you do, return this card from your graveyard to the battlefield tapped.
+
+Ogor Firebelly
+rules_text: Whenever you sacrifice a permanent with mana value 1 or greater, this creature deals X damage to any target, where X is half the sacrificed permanent's mana value, rounded up. => [i]Torrent of Flame[/i] — Whenever you sacrifice a permanent with mana value 1 or greater, this creature deals X damage to any target, where X is half the sacrificed permanent's mana value, rounded up.
+
+Raze to Ruin
+type: Sorcery => Instant
+rules_text: Choose one —
+• Exile target artifact or battle. Draw a card.
+• Raze to Ruin deals X damage to target creature, where X is the greatest mana value among permanents you control. If that creature would die this turn, exile it instead. => Choose one —
+• Exile target artifact.
+• Raze to Ruin deals X damage to target creature, where X is the greatest mana value among permanents you control. If that creature would die this turn, exile it instead.
+
+
+type: Creature — Rat Peasant => 
+cost: {B} => 
+rules_text: Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Ruination[/i] — This creature can't block unless the total mana value among cards in your graveyard is greater than or equal to 13. => 
+pt: 1/1 => 
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Ossiarch Necropolis added.
