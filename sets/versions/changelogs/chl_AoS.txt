@@ -1,4 +1,48 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+First Blood added.
+
+
+Mortisan Soulreaper
+rules_text: Deathtouch
+Whenever you sacrifice a permanent, put a +1/+1 counter on this creature. => Deathtouch
+Whenever you sacrifice another permanent, put a +1/+1 counter on this creature.
+
+Ogor Tyrant
+pt: 4/5 => 5/4
+
+Ogor Irongut
+rules_text: Squad—Sacrifice nonland permanents with total mana value 3 or greater.
+Trample, haste
+Exhaust — Engorge {3}{B}{R}{G}: Put a double strike counter and three +1/+1 counters on this creature. => Squad—Sacrifice nonland permanents with total mana value 3 or greater.
+Trample, haste
+Exhaust — Engorge {3}{B}{R}{G}: Put a double strike counter and a +1/+1 counter on this creature. Activate only as a sorcery.
+
+Braggoth Vardruk
+rules_text: Menace, trample, ward {2}
+Engorge — {3}{B}{R}{G}: Monstrosity X, where X is the greatest mana value among permanents you've sacrificed this turn.
+Whenever you sacrifice a permanent, this creature deals X damage to any target, where X is the sacrificed permanent's mana value. => Menace, trample
+Engorge — {3}{B}{R}{G}: Monstrosity X, where X is the greatest mana value among permanents you've sacrificed this turn.
+Whenever you sacrifice a permanent, this creature deals X damage to any target, where X is the sacrificed permanent's mana value.
+
+Great Mawpot
+cost: {B}{R}{G} => {1}{B}{R}{G}
+
+Warpgale
+cost: {1}{U}{B}{R} => {2}{U}{B}{R}
+
+Alchemite Warforger
+
+Grisly Repast
+
+Frostlord on Stonehorn
+cost: {3}{B}{R}{G} => {4}{B}{R}{G}
+
+Vital Alignment
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Feral Foray added.
