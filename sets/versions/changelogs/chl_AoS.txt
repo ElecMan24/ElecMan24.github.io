@@ -1,4 +1,136 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Ossiarch Necropolis added.
+Weeping Blade added.
+Prime Necrophoros added.
+Saved for Later added.
+Drain Vitality added.
+Artisan's Key added.
+Vital Alignment added.
+The Vice added.
+Gulping Bite added.
+Huskard on Thundertusk added.
+Ogor Firebelly added.
+Ghur's Truth added.
+Blood Vulture Reconnisance added.
+Collect the Bone-Tithe added.
+Ribcracker added.
+Raze to Ruin added.
+Chaintrap's Vice added.
+Trampling Charge added.
+Expand the Mawpath added.
+
+Ossiarchh Necropolis removed.
+Eshin Dagger removed.
+Hand of Dust removed.
+Temporary Peace removed.
+
+Verminlord Warpseer
+rules_text: Ward—Discard a nonland card.
+Whenever this creature attacks, each creature you control connives.
+[i]Ruination [/i]— Whenever this creature connives, if there are cards with total mana value 13 or greater among cards in your graveyard, this creature deals damage to target creature or battle equal to the greatest mana value among cards connived this way. => Ward—Discard a nonland card.
+Whenever this creature attacks, each attacking creature you control connives.
+[i]Ruination [/i]— Whenever this creature connives, if there are cards with total mana value 13 or greater among cards in your graveyard, this creature deals damage to target creature or battle equal to the greatest mana value among cards connived this way.
+pt: 3/4 => 3/5
+
+Relentless Discipline
+rules_text: At the beginning each end step, untap target creature you control. => When this enchantment enters, create a 1/1 white Skeleton Soldier creature token.
+Creatures you control have vigilance.
+
+Mortisan Ossifector
+rules_text: When this creature enters, return up to one target nonland permanent to its owners hand with mana value X or less, where X is the greatest mana value among permanents you control. => When this creature enters, return up to one target nonland permanent with mana value 1 or greater to its owners hand. If you controlled that permanent, surveil 2, then draw two cards.
+
+Aelementiri Pilgrimage
+
+Ocari Dara, Spirefall
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards.
+II — Each player chooses two creatures they control. Destroy all other non-Saga, nonland permanents.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token.
+III — Permanent spells you cast this turn have convoke.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards.
+II — Each player chooses two creatures they control. Destroy all other non-Saga, nonland permanents.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token.
+III — Permanent spells you cast this turn have convoke.
+
+Jungle Shrine
+
+Mournfang Rider
+rules_text: Trample
+Engorge — {3}{G}: Create a Food token. [i](You may activate this ability by sacrificing a permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i] => Trample
+Engorge — {3}{G}: Put two +1/+1 counters on this creature. [i](You may activate this ability by sacrificing a permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]
+pt: 5/4 => 4/4
+
+Feast of Bones
+cost: {2}{B} => {1}{B}
+
+Lumineth Sanctuary
+rules_text: When this artifact enters, search your library for a basic Forest, Plains, or Island card, reveal it, put it into your hand, then shuffle.
+{1}{G}{W}{U}, {T}, Sacrifice this artifact: Return target card with convoke from your graveyard to your hand. => When this artifact enters, search your library for a basic Forest, Plains, or Island card, reveal it, put it into your hand, then shuffle.
+{3}{G}{W}{U}, {T}, Sacrifice this artifact: Create a 5/5 green Elemental Spirit creature token. Activate only as a sorcery.
+
+Sigmarite Strongpoint
+rules_text: When this artifact enters, search your library for a basic Mountain, Forest, or Plains card, reveal it, put it into your hand, then shuffle.
+{1}{R}{G}{W}, {T}, Sacrifice this artifact: Untap each creature you control. Activate only as a sorcery. => When this artifact enters, search your library for a basic Mountain, Forest, or Plains card, reveal it, put it into your hand, then shuffle.
+{1}{R}{G}{W}, {T}, Sacrifice this artifact: Create three 1/1 red Human Soldier creature tokens. Activate only as a sorcery.
+
+Skaven Warren
+rules_text: When this artifact enters, search your library for a basic Island, Swamp, or Mountain card, reveal it, put it into your hand, then shuffle.
+{1}{U}{B}{R}, {T}, Sacrifice this artifact: Target creature you control connives twice. Activate only as a sorcery. [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i] => When this artifact enters, search your library for a basic Island, Swamp, or Mountain card, reveal it, put it into your hand, then shuffle.
+{2}{U}{B}{R}, {T}, Sacrifice this artifact: Create four 1/1 black Rat creature tokens with “This token can't block.” They gain menace and haste until end of turn. Activate only as a sorcery.
+
+Ogor Glutthold
+rules_text: When this artifact enters, search your library for a basic Swamp, Mountain, or Forest card, reveal it, put it into your hand, then shuffle.
+{1}{B}{R}{G}, {T}, Sacrifice this artifact: Return target non-artifact permanent card from your graveyard to your hand. Activate only as a sorcery. => When this artifact enters, search your library for a basic Swamp, Mountain, or Forest card, reveal it, put it into your hand, then shuffle.
+{1}{B}{R}{G}, {T}, Sacrifice this artifact: Create a 3/3 black Ogre Mercenary creature token. Activate only as a sorcery.
+
+Ogor Irongut
+
+Globb Glittermaw
+cost: {1}{B}{R}{G} => {2}{B}{R}{G}
+rules_text: Trample
+Whenever Globb Glittermaw enters or attacks, you may exile target nonland permanent card from a graveyard, if you do, create a token that's a copy of the exiled card, except it's a Food artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life” and loses all other card types and abilities. => Trample
+Whenever you sacrifice a permanent with mana value 1 or greater, you may return target permanent card with lesser mana value from your graveyard to the battlefield tapped. This ability triggers only once each turn.
+Engorge — {1}{B}{R}{G}: Draw a card and put two +1/+1 counters on this creature. Activate only once each turn.
+pt: 5/4 => 5/5
+
+Braggoth Vardruk
+
+Skaven Gnawhole
+rules_text: [i]Ruination —[/i] {T}, Surveil 2. If the total mana value among cards in your graveyard is greater than or equal to 13, create a 1/1 black Rat Peasant creature token with “This token can't block.” => [i]Ruination —[/i] {T}, Surveil 2. If the total mana value among cards in your graveyard is greater than or equal to 13, for each opponent, create a 1/1 black Rat Peasant creature token with “This token can't block.”
+
+Skaven Deathmaster
+cost: {2}{B}{B} => {3}{B}
+
+Icefall Yhetee
+rules_text: Menace
+Whenever you activate an Engorge ability, you may pay {1}, if you do, return this card from your graveyard to the battlefield. => Menace
+Whenever you activate an Engorge or Monstrosity ability, you may pay {1}, if you do, return this card from your graveyard to the battlefield tapped.
+
+Skaven Tactics
+
+Arch-Warlock
+
+Too Quick to Hit-Hit
+rules_text: Target creature you control connives and can't be blocked this turn. [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i] => Target creature you control connives and gains hexproof until . [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Meeting of Marshals
+
+
+type: Creature — Rat Peasant => 
+cost: {B} => 
+rules_text: Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Ruination[/i] — This creature can't block unless the total mana value among cards in your graveyard is greater than or equal to 13. => 
+pt: 1/1 => 
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Aelementiri Pilgrimage added.
