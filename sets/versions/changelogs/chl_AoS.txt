@@ -1,4 +1,130 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Mortek Archer added.
+
+The Mighty and the Cunning removed.
+Saved for Later removed.
+
+Thanquol and Boneripper
+rules_text: Trample
+At the start of combat on your turn, this creature connives twice.
+You may play lands and cast spells from among cards in your graveyard you've connived or surveiled this turn. => Trample
+At the start of combat on your turn, this creature connives.
+You may play lands and cast spells from among cards in your graveyard you've connived or surveiled this turn.
+
+Ogor Glutton
+rules_text: Squad {3}{B}
+Menace
+Engorge — {3}{B}: This creature gets +2/+2 until end of turn. Activate only during your turn and only once each turn. [i](You may activate this ability by sacrificing a permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i] => Squad {3}{B}
+Menace
+Engorge — {3}{B}: This creature gets +2/+2 until end of turn. Activate only during your turn and only once each turn. [i](You may activate this ability by sacrificing another permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]
+
+Alarith Stoneguard
+rules_text: Squad {2}{G}
+[i]Fortitude of the Earth[/i] — Whenever this creature becomes tapped, prevent all combat damage that would be dealt to target creature you control. => Squad {2}{G}
+[i]Fortitude of the Earth[/i] — Whenever this creature becomes tapped, prevent all combat damage that would be dealt to target creature you control this turn.
+
+Ogor Leadbelcher
+rules_text: Squad {2}{R}
+Reach
+Engorge — {3}{R}: This creature deals 2 damage to each opponent. Activate only during your turn and only once each turn. [i](You may activate this ability by sacrificing a permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i] => Squad {2}{R}
+Reach
+Engorge — {3}{R}: This creature deals 2 damage to each opponent. Activate only during your turn and only once each turn. [i](You may activate this ability by sacrificing another permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]
+
+Mournfang Rider
+rules_text: Trample
+Engorge — {3}{G}: Put two +1/+1 counters on this creature. [i](You may activate this ability by sacrificing a permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i] => Trample
+Engorge — {3}{G}: Put two +1/+1 counters on this creature. [i](You may activate this ability by sacrificing another permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]
+
+Ogor Tyrant
+rules_text: Menace, trample
+[i]Bully in the First Degree[/i] — Engorge {2}{B}{R}{G}: You lose X life and draw X cards, where X is the greatest mana value among permanents you've sacrificed this turn. Activate only during your turn and only once each turn. => Menace, trample
+Engorge — {2}{B}{R}{G}: You lose X life and draw X cards, where X is the greatest mana value among permanents you've sacrificed this turn. Activate only during your turn and only once each turn.
+
+Ogor Irongut
+rules_text: Squad—Sacrifice nonland permanents with total mana value 3 or greater.
+Trample, haste
+Exhaust — Engorge {3}{B}{R}{G}: Put a double strike counter and a +1/+1 counter on this creature. Activate only as a sorcery. => Squad—Sacrifice nonland permanents with total mana value 3 or greater.
+Trample, haste
+Engorge — Exhaust — {3}{B}{R}{G}: Put a double strike counter and a +1/+1 counter on this creature. Activate only as a sorcery.
+
+Braggoth Vardruk
+rules_text: Menace, trample
+Engorge — {3}{B}{R}{G}: Monstrosity X, where X is the greatest mana value among permanents you've sacrificed this turn.
+Whenever you sacrifice a permanent, this creature deals X damage to any target, where X is the sacrificed permanent's mana value. => Menace, trample
+Engorge — {3}{B}{R}{G}: Monstrosity X, where X is the greatest mana value among permanents you've sacrificed this turn.
+Whenever you sacrifice a permanent with mana value 1 or greater, this creature deals X damage to any target, where X is the sacrificed permanent's mana value.
+
+Icefall Yhetee
+rules_text: Menace
+Whenever you activate an Engorge or Monstrosity ability, you may pay {2}, if you do, return this card from your graveyard to the battlefield tapped. => Menace
+Whenever you activate an Engorge or Monstrosity ability, you may pay {1}, if you do, return this card from your graveyard to the battlefield tapped.
+
+Vigor of Champions
+cost: {2}{G} => {1}{G}
+
+Wisdom of Champions
+cost: {2}{U} => {1}{U}
+
+Discipline of Champions
+cost: {2}{W} => {1}{W}
+rules_text: Whenever you tap one or more creatures you control, put a resolve counter on this enchantment. This ability triggers only once each turn.
+At the beginning of your end step, if this enchantment has six or more resolve counters on it, create X 1/1 white Elf Soldier creature tokens, where X is half the number of resolve counters on this enchantment, rounded up. => Whenever you tap one or more creatures you control, put a resolve counter on this enchantment. This ability triggers only once each turn.
+At the beginning of your end step, if this enchantment has four or more resolve counters on it, create X 1/1 white Elf Soldier creature tokens, where X is half the number of resolve counters on this enchantment, rounded up.
+
+Cunning of Champions
+cost: {2}{B} => {1}{B}
+
+Fury of Champions
+cost: {2}{R} => {1}{R}
+rules_text: Whenever one or more creatures you control attack, put a resolve counter on this enchantment. This ability triggers only once each turn.
+At the beginning of combat on your turn, this enchantment deals X damage to any target, where X is half the number of resolve counters on this enchantment, rounded up. => Whenever one or more creatures you control attack, put a resolve counter on this enchantment. This ability triggers only once each turn.
+{2}{R}: Copy target activated ability X times, where X is half the number of resolve counters on this enchantment, rounded up. Activate only if there are four or more resolve counters on this enchantment.
+
+Too Quick to Hit-Hit
+rules_text: Target creature you control connives and gains hexproof until . [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i] => Target creature you control connives and gains hexproof until end of turn. [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Drain Vitality
+
+Artisan's Key
+rules_text: When this artifact enters or leaves the battlefield, return up to one target artifact or creature card with mana value 2 or less from your graveyard to the battlefield.
+{2}, {T}, Sacrifice this artifact: Exile target player's graveyard. Draw a card.
+Reconstruct => When this artifact enters or leaves the battlefield, return up to one target artifact or creature card with mana value 2 or less from your graveyard to the battlefield.
+{2}, {T}, Sacrifice this artifact: Exile target player's graveyard. Draw a card.
+
+Vital Alignment
+
+The Vice
+
+Gulping Bite
+
+Huskard on Thundertusk
+
+Ogor Firebelly
+
+Ghur's Truth
+
+Blood Vulture Reconnisance
+
+Collect the Bone-Tithe
+
+Ribcracker
+
+Raze to Ruin
+
+Chaintrap's Vice
+
+Trampling Charge
+
+Feral Foray
+
+Expand the Mawpath
+
+First Blood
+
+
+VERSION 10 CHANGELOG
 ====================
 
 First Blood added.
