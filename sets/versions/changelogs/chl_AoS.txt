@@ -1,4 +1,461 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Knife to the Heart added.
+Master Crafted Soul Gem added.
+Chaintrap's Grip added.
+Icebrow Hunter added.
+Vermin's Cunning added.
+Skilled Manipulation added.
+Realigned Formation added.
+Better Part of Valor added.
+Offering to Horned Rat added.
+
+Unseen Force removed.
+Clashing Tides removed.
+Chaintrap's Vice removed.
+
+Skaven Clanrat
+
+Stormvermin
+
+Night Runner
+
+Warplock Jezzail
+
+Gnawhole Ambush
+
+Devious Schemes
+
+Acolyte Globadier
+
+Skaven Clawlord
+
+Warlock Bombardier
+
+Ogor Glutton
+
+Cracks Call
+
+Mortek Guard
+
+Gothizzar Harvester
+
+Freeguild Steelhelm
+
+Freeguild Fusilier
+
+Freeguild Cavalier
+
+Zeal of Aqshy
+
+Fusil Major
+
+Freeguild Marshal
+
+Freeguild Garrison
+
+Freeguild Storehouse
+
+Bright Battlemage
+
+Castelite Formation
+
+Freeguild Cavalier-Marshal
+
+Tetratic Cohort
+
+Necropolis Stalker
+
+Immortis Guard
+
+Reform Ranks
+
+Relentless Discipline
+
+Arkhan, Mortarch of Sacriment
+
+Khenash-an, Staff of Spirits
+
+Helm of Tyranny
+
+Kavalos Deathrider
+
+Liege Kavalos
+
+Marrowpact
+
+Mortisan Boneshaper
+
+Mortisan Soulreaper
+rules_text: Deathtouch
+Whenever you sacrifice another permanent, put a +1/+1 counter on this creature. => Deathtouch
+Whenever you sacrifice another permanent, put X +1/+1 counters on this creature, where X is one plus the sacrificed permanent's mana value.
+
+Mortisan Ossifector
+
+Counter Strike
+
+Katakros, Mortarch of the Necropolis
+
+Mortisan Council
+type: Instant => Sorcery
+rules_text: Draw three cards, then discard a card. => Surveil 2, then draw two cards.
+
+Mortek Crawler
+
+Mortisan Soulmason
+
+Kavalos Lance
+
+Vanari Auralan Warden
+
+Vanari Auralan Sentinel
+
+Vanari Dawnrider
+
+Scinari Cathallar
+
+Scinari Enlightener
+
+Alarith Stonemage
+
+Sevireth, Wind Lord
+
+Avalenor, Ancient Aelementor
+
+Call the Warhost
+
+Charge of the Lumineth
+
+Darkness of the Soul
+cost: {6}{U}{U} => {4}{U}{U}
+
+Beam of Hysh
+
+Vanari Bladelord
+
+Vanari Starshard Ballista
+
+Teclis and Celennar, Enlighened
+
+Ellania and Ellathor, Warsages
+
+Move Like the Wind
+
+Aelementiri Pilgrimage
+
+Realmscribe's Mark
+
+Mountain Stance
+
+Scinari Brilliance
+
+Vandusian Guard
+
+Tahlia Vedra, First Marshal
+
+Pontifex Zenestra
+
+Hold Fast
+
+Stand Sentinel
+
+Dawnbringer Crusade
+
+Wildercorps Ambuscade
+
+Amber Battlemage
+
+Celestial Battlemage
+
+Bone-Tithe Nexus
+
+Morghast Archai
+
+Morghast Harbinger
+
+Alarith Mountain Spirit
+
+Hurakan Wind Spirit
+
+Hurakan Windcharger
+
+Travel the Waterways
+
+Ydrilan Riverblade
+
+Alarith Stoneguard
+
+Enduring as Rock
+
+Sunmetal Weapons
+
+Ocari Dara, Spirefall
+
+Scinari Loreseeker
+
+Vanari Bannerblade
+
+Light of the True Moon
+
+Hurakan Windmage
+cost: {1}{W}{U} => {2}{W}
+
+Realmgate
+
+Savage Lands
+
+Crumbling Necropolis
+
+Jungle Shrine
+
+Seaside Citadel
+
+Arcane Sanctum
+
+Ironweld Cogfort
+
+Wildercorps Hunter
+
+Ogor Leadbelcher
+
+Mournfang Rider
+
+Ogor Gorger
+
+Ironweld Great Cannon
+
+A Tool for Every Job
+
+Thundertusk Beastriders
+
+Bloodpelt Hunter
+
+Ogor Tyrant
+
+March of the Dawners
+
+City's Heraldry
+
+Coin Malleus
+
+Vanguard of Light
+
+Shining Company
+
+Feast of Bones
+
+Roiling Roots
+
+Lumineth Sanctuary
+
+Sigmarite Strongpoint
+
+Skaven Warren
+
+Ogor Glutthold
+
+Ossiarch Necropolis
+
+Vanari Lord Regent
+
+Settler's Gain
+
+Gothizzar
+
+The Gnaw
+
+Great Gutfort
+
+Hammerhal
+
+Rat Ogor
+
+Brood Terror
+
+Skaven Plague Monk
+
+Mortisan Reconstruction
+
+Unbind
+
+Clawlord on Gnaw-beast
+cost: {2}{B}{R} => {3}{B}
+
+Total Eclipse
+
+Ogor Irongut
+
+Globb Glittermaw
+
+Braggoth Vardruk
+
+Great Mawpot
+
+Shrine Luminor
+
+Nexus Siphon
+
+Skaven Gnawhole
+
+Bloodfell Caves
+
+Blossoming Sands
+
+Dismal Backwater
+
+Jungle Hollow
+
+Rugged Highlands
+
+Scoured Barrens
+
+Saltwater Cliffs
+
+Thornwood Falls
+
+Tranquil Cove
+
+Wind-Scarred Crag
+
+Aetherquartz, Realmstone of Hsyh
+
+Grave-Sand, Realmstone of Shyish
+
+Varanite, Realmstone of Chaos
+
+Amberbone, Realmstone of Ghur
+
+Emberstone, Realmstone of Aqshy
+
+Scinari Calligrave
+
+Lightning Reactions
+
+Warpgale
+
+Fusil-cannon
+
+Splatter Cleaver
+
+Weeping Blade
+
+Always More Bodies
+
+Alchemite Warforger
+
+Skaven Deathmaster
+
+Master Moulder
+
+Ogor Butcher
+cost: {1}{R}{G} => {2}{G}
+pt: 3/4 => 3/3
+
+Ogor Slaughtermaster
+
+Ravenous Fortitude
+
+Icefall Yhetee
+
+Ogor Ironblaster
+
+Liege Immortis
+
+Lode of Saturation
+
+Grisly Repast
+
+Frostlord on Stonehorn
+
+Stonehorn Beastrider
+
+Frost Saber
+
+Gnoblar
+
+Law of the Maw
+
+Windleap
+
+Teclian Meditation
+
+Training Arena
+
+Sigmar's Thunder
+
+Vigor of Champions
+
+On the Mawpath
+
+Ironblaster's Hail Shot
+
+Agents of Fate
+
+The Liferoots
+
+Deflect Blame
+
+Wisdom of Champions
+
+Discipline of Champions
+
+Cunning of Champions
+
+Fury of Champions
+
+Skaven Tactics
+
+Arch-Warlock
+
+Too Quick to Hit-Hit
+
+Meeting of Marshals
+
+Prime Necrophoros
+
+Drain Vitality
+
+Artisan's Key
+
+Vital Alignment
+
+The Vice
+
+Gulping Bite
+
+Huskard on Thundertusk
+
+Ogor Firebelly
+
+Ghur's Truth
+
+Blood Vulture Reconnisance
+
+Collect the Bone-Tithe
+
+Ribcracker
+
+Raze to Ruin
+
+Trampling Charge
+
+Feral Foray
+
+Expand the Mawpath
+
+First Blood
+
+Mortek Archer
+cost: {1}{W} => {1}{U}
+rules_text: Squad {2}{W}
+When this creature enters, surveil 2. => Squad {2}{U}
+When this creature enters, surveil 1.
+Reconstruct [i](You may cast this card from your graveyard by sacrificing a permanent in addition to paying its other costs. If you do, it enters with a finality counter on it.)[/i]
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Mortek Archer added.
