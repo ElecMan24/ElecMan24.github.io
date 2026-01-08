@@ -1,4 +1,19 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Across the Plains
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Cities or Lumineth.
+Cities — At the start of combat on your turn, create two 1/1 red Human Soldier creature tokens. Put a +1/+1 counter on each of those tokens.
+Lumineth — Permanent spells you cast have convoke. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Cities or Lumineth.
+Cities — At the start of combat on your turn, create two 1/1 red Human Soldier creature tokens. Put a +1/+1 counter on each of those tokens.
+Lumineth — At the beginning of your end step, if you control two or more tapped creatures, draw a card.
+
+
+VERSION 17 CHANGELOG
 ====================
 
 
