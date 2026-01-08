@@ -1,4 +1,20 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+Across the Plains
+type:  => Battle — Control Point
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Cities or Lumineth.
+Cities — Creatures you control have “{T}: Add two mana of any color. Spend this mana only to activate abilities.”
+Lumineth — Creatures you control have “Whenever this creature becomes tapped, crate a 1/1 white Elf Soldier creature token.” => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Cities or Lumineth.
+Cities — Creatures you control have “{T}: Add two mana of any color. Spend this mana only to activate abilities.”
+Lumineth — Creatures with mana value 1 or greater you control have “Whenever this creature becomes tapped, crate a 1/1 white Elf Soldier creature token.”
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Mortek Ballista added.

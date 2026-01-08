@@ -1233,7 +1233,7 @@
     {
         "card_name": "Across the Plains",
         "number": 171,
-        "shape": "normal",
+        "shape": "normal split",
         "set": "AoS",
         "position": "260"
     },
