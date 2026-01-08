@@ -1,4 +1,16 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Mortek Ballista added.
+Curse of Years added.
+Teclian Ladder added.
+Mantle of Command added.
+Bait and Trap added.
+Plague Priest added.
+
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Power Struggle added.
