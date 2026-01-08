@@ -1,4 +1,13 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+Call of the Blizzard
+rules_text: X target creatures you control get +X/+X until end of turn, where X is the total mana value among permanents you control. => X different target creatures you control get +X/+X until end of turn, where X is the total mana value among permanents you control.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 
