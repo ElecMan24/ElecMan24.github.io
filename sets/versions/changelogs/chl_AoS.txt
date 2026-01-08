@@ -1,4 +1,131 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Power Struggle added.
+Offering to the Horned Rat added.
+Ogor Maneater added.
+Endless Tides of Vermin added.
+The Lurkers Below added.
+Power in Numbers added.
+Lines of Communication added.
+Excelsior Warpriest added.
+Protection of Nagash added.
+Eat your Fill! added.
+Freeguild Command Corps added.
+Officer's Stratagem added.
+Skryre Inginuity added.
+Hire Muscle added.
+Grizzled Veteran added.
+Scouring Light of Teclis added.
+Diversionary Tactic added.
+Perfect Scheme added.
+Scourging of Ghyran added.
+Aqua Ghyranis added.
+Call of the Blizzard added.
+A Clash of Gods added.
+They Came from Below added.
+Wreck and Ruin added.
+The Place that Hungers added.
+Across the Plains added.
+Vokmortain, Voice of Nagash added.
+Lyrior Uthralle added.
+Krittok Foulblade added.
+Gorlok Blackpowder added.
+Iscilla Thorian added.
+
+Feast of Bones removed.
+Offering to Horned Rat removed.
+
+Acolyte Globadier
+rules_text: Squad {2}{R}
+This creature can't block.
+When this creature dies, it deals 1 damage to any target. => Squad {1}{R}
+This creature can't block.
+When this creature dies, it deals 1 damage to any target.
+
+Warlock Bombardier
+
+Grey Seer
+
+Cracks Call
+
+Freeguild Cavalier
+rules_text: Squad {2}{G}
+Regiment {4}{G}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery. [i](While paying a Regiment cost, you can tap your creatures to help. Each creature you tap while activating this ability pays for 1 or one mana of that creature's color.)[/i] => Squad {2}{G}
+Regiment {4}{G}: Put a +1/+1 counter on target creature you control. You can't activate this ability during combat. [i](While paying a Regiment cost, you can tap your creatures to help. Each creature you tap while activating this ability pays for 1 or one mana of that creature's color.)[/i]
+
+Fusil Major
+
+Mortisan Soulreaper
+
+Aelementiri Pilgrimage
+
+Alarith Stoneguard
+
+Thundertusk Beastriders
+
+Shining Company
+rules_text: Creatures can't attack you or battles you control unless their controller pays {X} for each of those creatures, where X is the number of creatures you control that share a name with one or more other creatures on the battlefield. => Creatures can't attack you or battles you control unless their controller pays {X} for each of those creatures, where X is the number of tapped creatures you control.
+
+Skaven Warren
+
+Ogor Glutthold
+
+Rat Ogor
+
+Globb Glittermaw
+
+Braggoth Vardruk
+
+Great Mawpot
+
+Master Moulder
+cost: {U}{B} => {1}{U}{B}
+pt: 1/2 => 1/3
+
+Ogor Slaughtermaster
+
+Icefall Yhetee
+
+Ogor Ironblaster
+cost: {4}{R} => {5}{R}
+rules_text: Haste
+Engorge — Exhaust — {3}{R}: This Vehicle becomes an artifact creature. Put a +1/+1 counter on this Vehicle. => Haste
+Engorge — Exhaust — {3}{R}: This Vehicle becomes an artifact creature. Put a +1/+1 counter on this Vehicle.
+Crew 3
+
+Frostlord on Stonehorn
+
+Frost Saber
+cost: {R} => {G}
+rules_text: Squad {1}{R} [i](As an additional cost to cast this spell, you may pay {1}{R} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Haste => Squad {1}{G} [i](As an additional cost to cast this spell, you may pay {1}{G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When this creature dies, put a +1/+1 counter on target creature you control.
+
+Law of the Maw
+
+Training Arena
+
+On the Mawpath
+rules_text: As an additional cost to cast this spell, sacrifice a creature or artifact.
+Draw two cards and create a Food token. => As an additional cost to cast this spell, sacrifice a creature or artifact.
+You gain life equal to the sacrificed permanent's mana value. Draw two cards.
+
+Deflect Blame
+rules_text: As an additional cost to cast this spell, discard a card or pay {2}.
+Change the target of target spell or ability with a single target. => As an additional cost to cast this spell, discard a card or pay {3}.
+Change the target of target spell or ability with a single target.
+
+Skaven Tactics
+
+Ogor Firebelly
+
+Collect the Bone-Tithe
+
+Ribcracker
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Knife to the Heart added.
