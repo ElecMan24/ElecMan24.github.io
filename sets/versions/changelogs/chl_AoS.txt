@@ -1,4 +1,38 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Wreck and Ruin
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Ogors or Skaven.
+Ogors — At the start of combat on your turn, put X +1/+1 counters on target creature you control, where X is the greatest mana value among permanents you've sacrificed this turn.
+Skaven — At the start of combat on your turn, you may discard a card, if you do, each creature you control with mana value 1 or greater connives. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Ogors or Skaven.
+Ogors — At the start of combat on your turn, put X +1/+1 counters on target creature you control, where X is the greatest mana value among permanents you've sacrificed this turn.
+Skaven — At the start of combat on your turn, you may sacrifice a permanent or discard a card, if you do, target creature you control connives X times, where X is its mana value.
+
+The Place that Hungers
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Cities or Ogors.
+Cities — Whenever you activate the ability of a creature you control, creatures you control get +X/+X and haste, where X is the number of creatures you control. This ability triggers only once each turn.
+Ogors — Whenever you activate the ability of a creature you control, return target land card from your graveyard to the battlefield tapped, this ability triggers only once each turn. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Cities or Ogors.
+Cities — Whenever you activate the ability of a creature you control that isn't a mana ability, creatures you control get +X/+X and haste, where X is the number of creatures you control. This ability triggers only once each turn.
+Ogors — Whenever you activate the ability of a creature you control that isn't a mana ability, return target land card from your graveyard to the battlefield tapped, this ability triggers only once each turn.
+pt:  => 6
+
+Across the Plains
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Cities or Lumineth.
+Cities — Creatures you control have “{T}: Add two mana of any color. Spend this mana only to activate abilities.”
+Lumineth — Creatures with mana value 1 or greater you control have “Whenever this creature becomes tapped, crate a 1/1 white Elf Soldier creature token.” => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Cities or Lumineth.
+Cities — At the start of combat on your turn, create two 1/1 red Human Soldier creature tokens. Put a +1/+1 counter on each of those tokens.
+Lumineth — Permanent spells you cast have convoke.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 
