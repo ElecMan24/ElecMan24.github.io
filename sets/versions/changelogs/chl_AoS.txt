@@ -1,4 +1,25 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+Fragile Peace added.
+
+
+Power Struggle
+cost: {1}{B} => {2}{B}
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 5 defense counters on it.)[/i]
+Whenever you attack, you may sacrifice a permanent with mana value 1 or greater, if you do, put two +1/+1 counters on target creature you control. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters on it.)[/i]
+Whenever you attack, you may sacrifice a permanent with mana value 1 or greater, if you do, put two +1/+1 counters on target creature you control.
+
+Lines of Communication
+cost: {1}{W} => {W}
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters on it.)[/i]
+At the start of combat on your turn, target creature you control gains enlist until end of turn. [i](As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)[/i]
+ => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters on it.)[/i]
+At the start of combat on your turn, target creature you control gains enlist until end of turn. [i](As a creature with enlist attacks you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to that creature's until end of turn.)[/i]
+pt: 4 => 3
+
+
+VERSION 19 CHANGELOG
 ====================
 
 
