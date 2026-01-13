@@ -1,4 +1,49 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Cyclic Shifts added.
+
+The Liferoots removed.
+
+Dawnbringer Crusade
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+
+Vital Alignment
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 3 defense counters on it.)[/i]
+At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on target creature you control. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters on it.)[/i]
+At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on target creature you control.
+
+Trampling Charge
+
+Lines of Communication
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters on it.)[/i]
+At the start of combat on your turn, target creature you control gains enlist until end of turn. [i](As a creature with enlist attacks you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to that creature's until end of turn.)[/i] => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 3 defense counters on it.)[/i]
+At the start of combat on your turn, target creature you control gains enlist until end of turn. [i](As a creature with enlist attacks you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to that creature's until end of turn.)[/i]
+
+A Clash of Gods
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Lumineth or Ossiarch.
+Lumineth — Whenever a creature with mana value 1 or greater enters, create a 1/1 white Elf Soldier creature token. This ability triggers only once each turn.
+Ossiarch — Whenever a creature you control leaves the battlefield during your turn, tap up to one target creature you don't control. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Lumineth or Ossiarch.
+Lumineth — Creatures you control have ward {2}.
+Ossiarch — Whenever a creature you control leaves the battlefield during your turn, tap up to one target creature you don't control.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Fragile Peace added.

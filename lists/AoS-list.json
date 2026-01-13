@@ -29,7 +29,7 @@
     },
     {
         "card_name": "Iscilla Thorian",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "AoS",
         "position": "265"
@@ -168,8 +168,8 @@
         "position": "19"
     },
     {
-        "card_name": "The Liferoots",
-        "number": 158,
+        "card_name": "Cyclic Shifts",
+        "number": 147,
         "shape": "normal split",
         "set": "AoS",
         "position": "201"
@@ -449,7 +449,7 @@
     },
     {
         "card_name": "Enduring as Rock",
-        "number": 147,
+        "number": 148,
         "shape": "normal",
         "set": "AoS",
         "position": "94"
@@ -484,7 +484,7 @@
     },
     {
         "card_name": "Grizzled Veteran",
-        "number": 154,
+        "number": 155,
         "shape": "normal",
         "set": "AoS",
         "position": "249"
@@ -519,7 +519,7 @@
     },
     {
         "card_name": "Huskard on Thundertusk",
-        "number": 156,
+        "number": 157,
         "shape": "normal",
         "set": "AoS",
         "position": "218"
@@ -764,7 +764,7 @@
     },
     {
         "card_name": "Expand the Mawpath",
-        "number": 148,
+        "number": 149,
         "shape": "normal",
         "set": "AoS",
         "position": "228"
@@ -799,7 +799,7 @@
     },
     {
         "card_name": "Freeguild Cavalier",
-        "number": 149,
+        "number": 150,
         "shape": "normal",
         "set": "AoS",
         "position": "26"
@@ -834,7 +834,7 @@
     },
     {
         "card_name": "Freeguild Storehouse",
-        "number": 150,
+        "number": 151,
         "shape": "normal",
         "set": "AoS",
         "position": "31"
@@ -869,7 +869,7 @@
     },
     {
         "card_name": "Frost Saber",
-        "number": 151,
+        "number": 152,
         "shape": "normal",
         "set": "AoS",
         "position": "190"
@@ -904,7 +904,7 @@
     },
     {
         "card_name": "Fusil-cannon",
-        "number": 152,
+        "number": 153,
         "shape": "normal",
         "set": "AoS",
         "position": "168"
@@ -939,7 +939,7 @@
     },
     {
         "card_name": "Ghur's Truth",
-        "number": 153,
+        "number": 154,
         "shape": "normal",
         "set": "AoS",
         "position": "220"
@@ -974,7 +974,7 @@
     },
     {
         "card_name": "Hold Fast",
-        "number": 155,
+        "number": 156,
         "shape": "normal",
         "set": "AoS",
         "position": "79"
