@@ -1,4 +1,56 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+
+
+Arkhan, Mortarch of Sacriment
+rules_text: Flying, hexproof from instants and sorceries
+Whenever a creature or artifact you control enters, if it entered from your graveyard or you cast it from your graveyard, you may pay {1}, if you do, surveil 2, then draw a card. => Flying, hexproof from instants and sorceries
+Whenever a creature or artifact you control enters, if it entered or was cast from a graveyard, you may pay {1}, if you do, surveil 2, then draw a card.
+
+Ocari Dara, Spirefall
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token.
+III — Permanent spells you cast this turn have convoke. => 
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token.
+III — Permanent spells you cast this turn have convoke.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token.
+III — Permanent spells you cast this turn have convoke. => 
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token.
+III — Permanent spells you cast this turn have convoke.
+
+Liege Immortis
+rules_text: Vigilance
+When this creature enters, draw a card. Then discard a card. If this creature entered from your graveyard or you cast it from your graveyard, draw two cards instead.
+Reconstruct => Vigilance
+When this creature enters, draw a card. Then discard a card. If this creature entered or was cast from a graveyard, draw two cards instead.
+Reconstruct
+
+Feral Foray
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 3 defense counters on it.)[/i]
+At the beginning of your end step, if you attacked with a creature this turn, create a tapped Treasure token. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 3 defense counters on it.)[/i]
+[i]Raid[/i] — At the beginning of your end step, if you attacked with a creature this turn, create a tapped Treasure token.
+
+The Lurkers Below
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters on it.)[/i]
+Whenever you attack, create a 1/1 black Rat Peasent creature token with “This token can't block.” that's tapped and attacking. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters on it.)[/i]
+Whenever you attack, create a 1/1 black Rat Peasant creature token with “This token can't block.” that's tapped and attacking.
+
+Vokmortain, Voice of Nagash
+rules_text: Ward—Exile three cards from your graveyard.
+If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. If that permanent entered from a graveyard or was cast from a graveyard, that ability triggers two additional times instead. => Ward—Exile three cards from your graveyard.
+If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. If that permanent entered or was cast from a graveyard, that ability triggers two additional times instead.
+
+Iscilla Thorian
+rules_text: Activated abilities of permanents you control have Regiment. => Activated abilities of permanents you control that aren't mana abilities have Regiment.
+
+
+VERSION 21 CHANGELOG
 ====================
 
 Cyclic Shifts added.
