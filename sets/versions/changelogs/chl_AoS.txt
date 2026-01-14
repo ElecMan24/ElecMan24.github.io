@@ -1,4 +1,26 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+
+
+Krittok Foulblade
+pt: 2/5 => 2/4
+
+
+VERSION 25 CHANGELOG
+====================
+
+
+
+Krittok Foulblade
+rules_text: First strike, deathtouch
+[i]A Reputation for Cunning[/i] — If you would connive, you may instead surveil 1, then connive.
+Whenever Krittok enters or attacks, he connives. When he connives this way, another target creature you control gains your choice of first strike or deathtouch until end of turn. => First strike, deathtouch
+[i]A Reputation for Cunning[/i] — If you would connive, you may instead surveil 1, then connive.
+Whenever Krittok Foulblade enters or attacks, he connives. When he connives this way, another target creature you control gains your choice of first strike or deathtouch until end of turn.
+
+
+VERSION 24 CHANGELOG
 ====================
 
 
