@@ -1,4 +1,67 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+
+
+Dawnbringer Crusade
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+
+Ocari Dara, Spirefall
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token.
+III — Permanent spells you cast this turn have convoke. => 
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token.
+III — Permanent spells you cast this turn have convoke.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token.
+III — Permanent spells you cast this turn have convoke. => 
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token.
+III — Permanent spells you cast this turn have convoke.
+
+Aetherquartz, Realmstone of Hsyh
+rules_text: {T}: Add {G}, {W}, or {U}.
+{G}{W}{U}, {T}, Sacrifice this permanent: Draw a card. => {T}: Add {G}, {W}, or {U}.
+{G}{W}{U}, {T}, Sacrifice this artifact: Draw a card.
+
+Grave-Sand, Realmstone of Shyish
+rules_text: {T}: Add {W}, {U}, or {B}.
+{W}{U}{B}, {T}, Sacrifice this permanent: Draw a card. => {T}: Add {W}, {U}, or {B}.
+{W}{U}{B}, {T}, Sacrifice this artifact: Draw a card.
+
+Varanite, Realmstone of Chaos
+rules_text: {T}: Add {U}, {B} or {R}.
+{U}{B}{R}, {T}, Sacrifice this permanent: Draw a card. => {T}: Add {U}, {B} or {R}.
+{U}{B}{R}, {T}, Sacrifice this artifact: Draw a card.
+
+Amberbone, Realmstone of Ghur
+rules_text: {T}: Add {B}, {R}, or {G}.
+{B}{R}{G}, {T}, Sacrifice this permanent: Draw a card. => {T}: Add {B}, {R}, or {G}.
+{B}{R}{G}, {T}, Sacrifice this artifact: Draw a card.
+
+Emberstone, Realmstone of Aqshy
+rules_text: {T}: Add {R}, {G}, or {W}.
+{R}{G}{W}, {T}, Sacrifice this permanent: Draw a card. => {T}: Add {R}, {G}, or {W}.
+{R}{G}{W}, {T}, Sacrifice this artifact: Draw a card.
+
+
+VERSION 26 CHANGELOG
 ====================
 
 
