@@ -684,7 +684,7 @@
 			"name": "Vanari Starshard Ballista",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Kindred Artifact — Elf Vehicle",
+			"type": "Artifact — Vehicle",
 			"collector_number": "37",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/68.png"

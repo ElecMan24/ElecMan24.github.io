@@ -1,4 +1,18 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+
+
+Vanari Starshard Ballista
+type: Kindred Artifact — Elf Vehicle => Artifact — Vehicle
+
+Thundertusk Beastriders
+rules_text: {4}{R}: Monstrosity 4 [i](If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)[/i]
+Whenever this creature attacks, if it's monstrous, it deals 1 damage to each creature and battle defending player controls. => {4}{R}: Monstrosity 2 [i](If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)[/i]
+Whenever this creature attacks, if it's monstrous, it deals 1 damage to each creature and battle defending player controls.
+
+
+VERSION 28 CHANGELOG
 ====================
 
 
