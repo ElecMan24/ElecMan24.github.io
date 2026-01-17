@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Morghast Archai",
-        "number": 49,
+        "number": 50,
         "shape": "normal",
         "set": "AoS",
         "position": "86"
@@ -182,7 +182,7 @@
         "position": "61"
     },
     {
-        "card_name": "Vanari Lord Regent",
+        "card_name": "Vanari Lord Regent on Lightcourser",
         "number": 67,
         "shape": "normal",
         "set": "AoS",
@@ -392,11 +392,11 @@
         "position": "99"
     },
     {
-        "card_name": "Knife to the Heart",
+        "card_name": "Kavalos War Chariot",
         "number": 48,
-        "shape": "normal split",
+        "shape": "normal",
         "set": "AoS",
-        "position": "122"
+        "position": "266"
     },
     {
         "card_name": "Grisly Repast",
@@ -427,11 +427,11 @@
         "position": "241"
     },
     {
-        "card_name": "Mortek Ballista",
-        "number": 51,
-        "shape": "normal",
+        "card_name": "Knife to the Heart",
+        "number": 49,
+        "shape": "normal split",
         "set": "AoS",
-        "position": "266"
+        "position": "122"
     },
     {
         "card_name": "Lode of Saturation",
@@ -847,11 +847,11 @@
         "position": "54"
     },
     {
-        "card_name": "Mortek Archer",
-        "number": 50,
+        "card_name": "Mortek Crawler",
+        "number": 51,
         "shape": "normal",
         "set": "AoS",
-        "position": "230"
+        "position": "52"
     },
     {
         "card_name": "Eat your Fill!",
@@ -882,11 +882,11 @@
         "position": "22"
     },
     {
-        "card_name": "Mortek Crawler",
+        "card_name": "Mortek Triax",
         "number": 52,
         "shape": "normal",
         "set": "AoS",
-        "position": "52"
+        "position": "230"
     },
     {
         "card_name": "Eshin Surprise",
@@ -1225,7 +1225,7 @@
     },
     {
         "card_name": "The Place that Hungers",
-        "number": 214,
+        "number": 215,
         "shape": "normal split",
         "set": "AoS",
         "position": "259"
@@ -1245,15 +1245,15 @@
         "position": "89"
     },
     {
-        "card_name": "Liege Immortis",
-        "number": 200,
+        "card_name": "Master Moulder",
+        "number": 204,
         "shape": "normal",
         "set": "AoS",
-        "position": "185"
+        "position": "179"
     },
     {
         "card_name": "Ogor Gorger",
-        "number": 210,
+        "number": 211,
         "shape": "normal",
         "set": "AoS",
         "position": "111"
@@ -1273,18 +1273,18 @@
         "position": "60"
     },
     {
-        "card_name": "Prime Necrophoros",
-        "number": 217,
+        "card_name": "Liege Mortek",
+        "number": 200,
         "shape": "normal",
         "set": "AoS",
         "position": "211"
     },
     {
-        "card_name": "Master Moulder",
-        "number": 204,
+        "card_name": "Mortis Reapers",
+        "number": 206,
         "shape": "normal",
         "set": "AoS",
-        "position": "179"
+        "position": "185"
     },
     {
         "card_name": "Warlock Bombardier",
@@ -1345,7 +1345,7 @@
     },
     {
         "card_name": "Pontifex Zenestra",
-        "number": 216,
+        "number": 217,
         "shape": "normal",
         "set": "AoS",
         "position": "78"
@@ -1408,7 +1408,7 @@
     },
     {
         "card_name": "Ogor Irongut",
-        "number": 211,
+        "number": 212,
         "shape": "normal",
         "set": "AoS",
         "position": "143"
@@ -1457,7 +1457,7 @@
     },
     {
         "card_name": "Ocari Dara, Spirefall",
-        "number": 209,
+        "number": 210,
         "shape": "saga",
         "set": "AoS",
         "position": "96"
@@ -1471,7 +1471,7 @@
     },
     {
         "card_name": "Plague Priest",
-        "number": 215,
+        "number": 216,
         "shape": "normal",
         "set": "AoS",
         "position": "271"
@@ -1499,7 +1499,7 @@
     },
     {
         "card_name": "Mortisan Soulmason",
-        "number": 206,
+        "number": 207,
         "shape": "normal",
         "set": "AoS",
         "position": "53"
@@ -1534,7 +1534,7 @@
     },
     {
         "card_name": "Necropolis Stalker",
-        "number": 207,
+        "number": 208,
         "shape": "normal",
         "set": "AoS",
         "position": "36"
@@ -1548,14 +1548,14 @@
     },
     {
         "card_name": "Ogor Tyrant",
-        "number": 213,
+        "number": 214,
         "shape": "normal",
         "set": "AoS",
         "position": "116"
     },
     {
         "card_name": "Nexus Siphon",
-        "number": 208,
+        "number": 209,
         "shape": "normal",
         "set": "AoS",
         "position": "148"
@@ -1653,7 +1653,7 @@
     },
     {
         "card_name": "Ogor Slaughtermaster",
-        "number": 212,
+        "number": 213,
         "shape": "normal",
         "set": "AoS",
         "position": "181"

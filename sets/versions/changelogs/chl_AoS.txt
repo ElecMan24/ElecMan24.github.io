@@ -1,4 +1,20 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+Vanari Lord Regent on Lightcourser added.
+Mortis Reapers added.
+Liege Mortek added.
+Mortek Triax added.
+Kavalos War Chariot added.
+
+Vanari Lord Regent removed.
+Liege Immortis removed.
+Prime Necrophoros removed.
+Mortek Archer removed.
+Mortek Ballista removed.
+
+
+VERSION 29 CHANGELOG
 ====================
 
 

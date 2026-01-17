@@ -365,7 +365,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Creature — Skeleton Soldier",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/36.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/52.png"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Creature — Skeleton Wizard Noble",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/53.png"
 			}
@@ -785,7 +785,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Elder Human Cleric",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/78.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Skeleton Horror",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/86.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Enchantment — Saga",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/96.png"
 			}
@@ -1115,7 +1115,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Ogre Berserker",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/111.png"
 			}
@@ -1165,7 +1165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Creature — Ogre Warrior",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/116.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Battle — Control Point",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/122.png"
 			}
@@ -1301,7 +1301,7 @@
 			}
 		},
 		{
-			"name": "Vanari Lord Regent",
+			"name": "Vanari Lord Regent on Lightcourser",
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Elf Knight",
@@ -1435,7 +1435,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Creature — Ogre Warrior",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/143.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Artifact",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/148.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Creature — Ogre Wizard",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/181.png"
 			}
@@ -1851,11 +1851,11 @@
 			}
 		},
 		{
-			"name": "Liege Immortis",
+			"name": "Mortis Reapers",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Creature — Skeleton Soldier Noble",
-			"collector_number": "200",
+			"type": "Creature — Skeleton Assassin",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/185.png"
 			}
@@ -2111,11 +2111,11 @@
 			}
 		},
 		{
-			"name": "Prime Necrophoros",
+			"name": "Liege Mortek",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Skeleton Soldier",
-			"collector_number": "217",
+			"type": "Creature — Skeleton Soldier Noble",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/211.png"
 			}
@@ -2301,11 +2301,11 @@
 			}
 		},
 		{
-			"name": "Mortek Archer",
+			"name": "Mortek Triax",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Skeleton Archer",
-			"collector_number": "50",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/230.png"
 			}
@@ -2595,7 +2595,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Battle — Control Point",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/259.png"
 			}
@@ -2661,11 +2661,11 @@
 			}
 		},
 		{
-			"name": "Mortek Ballista",
+			"name": "Kavalos War Chariot",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "51",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/266.png"
 			}
@@ -2715,7 +2715,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Creature — Rat Cleric",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/271.png"
 			}
@@ -2771,7 +2771,7 @@
 	2 Ogor Tyrant
 	2 Shining Company
 	2 Power Struggle
-	2 Vanari Lord Regent
+	2 Vanari Lord Regent on Lightcourser
 	2 Settler's Gain
 	2 Gothizzar
 	2 The Gnaw
@@ -2879,7 +2879,7 @@
 	4 Ogor Butcher
 	4 Ogor Slaughtermaster
 	4 Icefall Yhetee
-	4 Liege Immortis
+	4 Mortis Reapers
 	4 Lode of Saturation
 	4 Grisly Repast
 	4 Stonehorn Beastrider
@@ -2887,7 +2887,7 @@
 	4 Skaven Tactics
 	4 Arch-Warlock
 	4 Meeting of Marshals
-	4 Prime Necrophoros
+	4 Liege Mortek
 	4 Drain Vitality
 	4 Artisan's Key
 	4 Vital Alignment
@@ -2910,7 +2910,7 @@
 	4 The Lurkers Below
 	4 Lines of Communication
 	4 Grizzled Veteran
-	4 Mortek Ballista
+	4 Kavalos War Chariot
 	4 Curse of Years
 	4 Teclian Ladder
 	4 Mantle of Command
@@ -2991,7 +2991,7 @@
 	8 Blood Vulture Reconnisance
 	8 Ribcracker
 	8 Expand the Mawpath
-	8 Mortek Archer
+	8 Mortek Triax
 	8 Vermin's Cunning
 	8 Skilled Manipulation
 	8 Realigned Formation
@@ -3134,7 +3134,7 @@
 	6 Skaven Warren
 	6 Ogor Glutthold
 	6 Ossiarch Necropolis
-	2 Vanari Lord Regent
+	2 Vanari Lord Regent on Lightcourser
 	2 Settler's Gain
 	2 Gothizzar
 	2 The Gnaw
@@ -3184,7 +3184,7 @@
 	12 Ravenous Fortitude
 	6 Icefall Yhetee
 	12 Ogor Ironblaster
-	6 Liege Immortis
+	6 Mortis Reapers
 	6 Lode of Saturation
 	6 Grisly Repast
 	2 Frostlord on Stonehorn
@@ -3210,7 +3210,7 @@
 	6 Arch-Warlock
 	12 Too Quick to Hit-Hit
 	6 Meeting of Marshals
-	6 Prime Necrophoros
+	6 Liege Mortek
 	6 Drain Vitality
 	6 Artisan's Key
 	6 Vital Alignment
@@ -3229,7 +3229,7 @@
 	6 Feral Foray
 	12 Expand the Mawpath
 	6 First Blood
-	12 Mortek Archer
+	12 Mortek Triax
 	6 Icebrow Hunter
 	12 Vermin's Cunning
 	12 Skilled Manipulation
@@ -3265,7 +3265,7 @@
 	1 Krittok Foulblade
 	1 Gorlok Blackpowder
 	1 Iscilla Thorian
-	6 Mortek Ballista
+	6 Kavalos War Chariot
 	6 Curse of Years
 	6 Teclian Ladder
 	6 Mantle of Command
@@ -3403,7 +3403,7 @@
 	15 Skaven Warren
 	15 Ogor Glutthold
 	15 Ossiarch Necropolis
-	7 Vanari Lord Regent
+	7 Vanari Lord Regent on Lightcourser
 	7 Settler's Gain
 	7 Gothizzar
 	7 The Gnaw
@@ -3453,7 +3453,7 @@
 	6 Ravenous Fortitude
 	15 Icefall Yhetee
 	6 Ogor Ironblaster
-	15 Liege Immortis
+	15 Mortis Reapers
 	15 Lode of Saturation
 	15 Grisly Repast
 	7 Frostlord on Stonehorn
@@ -3479,7 +3479,7 @@
 	15 Arch-Warlock
 	6 Too Quick to Hit-Hit
 	15 Meeting of Marshals
-	15 Prime Necrophoros
+	15 Liege Mortek
 	15 Drain Vitality
 	15 Artisan's Key
 	15 Vital Alignment
@@ -3498,7 +3498,7 @@
 	15 Feral Foray
 	6 Expand the Mawpath
 	15 First Blood
-	6 Mortek Archer
+	6 Mortek Triax
 	15 Icebrow Hunter
 	6 Vermin's Cunning
 	6 Skilled Manipulation
@@ -3534,7 +3534,7 @@
 	4 Krittok Foulblade
 	4 Gorlok Blackpowder
 	4 Iscilla Thorian
-	15 Mortek Ballista
+	15 Kavalos War Chariot
 	15 Curse of Years
 	15 Teclian Ladder
 	15 Mantle of Command
