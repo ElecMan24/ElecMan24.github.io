@@ -1,4 +1,47 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+
+
+Scinari Cathallar
+cost: {2}{W} => {1}{W}
+rules_text: [i]Absorb Despair[/i] — When this creature enters, you may exile another target nonland permanent you control, then return that card to the battlefield under its owner's control. => [i]Absorb Despair[/i] — At the beginning of your end step, untap another target creature you control.
+pt: 0/5 => 0/4
+
+Wildercorps Ambuscade
+cost: {2}{G} => {G}
+rules_text: Choose one —
+• Target creature gets +3/+3 and reach until end of turn.
+• Crate a 2/2 red and green Human Scout creature token. => Target creature gets +2/+2 and gains reach until end of turn. Untap it.
+
+Shining Company
+cost: {2}{W} => {3}{W}
+
+Great Gutfort
+
+Teclian Meditation
+type: Sorcery => Instant
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Scry 2, then draw two cards. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Draw two cards.
+
+Blood Vulture Reconnisance
+cost: {2}{B} => {1}{B}
+rules_text: Target opponent reveals their hand. You choose a nonland card from it and exile that card. Put a +1/+1 counter on up to one target creature you control. => Choose one —
+• Target opponent reveals their hand. You choose a creature card from it and exile that card. 
+• Target creature gets -2/-2 until end of turn.
+
+Power in Numbers
+type: Battle => Battle — Control Point
+cost: {1}{W} => {W}{W}
+
+Excelsior Warpriest
+cost: {2}{W} => {1}{W}
+rules_text: Lifelink
+Whenever this creature becomes tapped, you gain 2 life and scry 1. => Whenever this creature becomes tapped, you gain 2 life and scry 1.
+
+
+VERSION 32 CHANGELOG
 ====================
 
 Blessing of the Gulping God added.
