@@ -822,7 +822,7 @@
             "number": 196,
             "color_identity": "WUB",
             "cost": "{2}{W}{U}{B}",
-            "rules_text": "Squad\u2013{W}{U}{B}\nThis creature enters a double strike counter on it.\nSacrifice this creature: Target creature you control gains indestructible until end of turn. Put all counters on this creature onto that creature.\nReconstruct",
+            "rules_text": "Squad\u2013{W}{U}{B}\nDouble strike\nSacrifice this creature: Creatures and artifacts you control you control gain hexproof and indestructible until end of turn.\nReconstruct",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",

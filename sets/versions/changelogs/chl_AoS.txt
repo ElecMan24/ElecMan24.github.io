@@ -1,4 +1,19 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+
+
+Immortis Guard
+rules_text: Squad—{W}{U}{B}
+This creature enters a double strike counter on it.
+Sacrifice this creature: Target creature you control gains indestructible until end of turn. Put all counters on this creature onto that creature.
+Reconstruct => Squad—{W}{U}{B}
+Double strike
+Sacrifice this creature: Creatures and artifacts you control you control gain hexproof and indestructible until end of turn.
+Reconstruct
+
+
+VERSION 30 CHANGELOG
 ====================
 
 Vanari Lord Regent on Lightcourser added.
