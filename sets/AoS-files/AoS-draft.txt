@@ -95,7 +95,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Instant",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/9.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Creature — Rat Wizard",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/12.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/28.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/34.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Creature — Skeleton Soldier",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/37.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/41.png"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Creature — Skeleton Noble Soldier",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/50.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Creature — Elf Wizard Warrior",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/70.png"
 			}
@@ -815,7 +815,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/81.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Artifact",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/85.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}{U}",
 			"type": "Creature — Elemental Spirit",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/89.png"
 			}
@@ -1155,7 +1155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Ogre Ranger",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/115.png"
 			}
@@ -1445,7 +1445,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Legendary Creature — Ogre Warrior Noble",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/144.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Legendary Creature — Ogre Warrior",
-			"collector_number": "180",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/145.png"
 			}
@@ -1465,7 +1465,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Artifact",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/146.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Creature — Yeti",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/183.png"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{R}{G}",
 			"type": "Creature — Ogre Warrior",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/188.png"
 			}
@@ -1921,11 +1921,11 @@
 			}
 		},
 		{
-			"name": "Law of the Maw",
+			"name": "Blessing of the Gulping God",
 			"rarity": "rare",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "199",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/192.png"
 			}
@@ -2125,7 +2125,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Instant",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/212.png"
 			}
@@ -2175,7 +2175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Instant",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/217.png"
 			}
@@ -2565,7 +2565,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Battle — Control Point",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/256.png"
 			}
@@ -2788,7 +2788,7 @@
 	2 Skaven Gnawhole
 	2 Always More Bodies
 	2 Frostlord on Stonehorn
-	2 Law of the Maw
+	2 Blessing of the Gulping God
 	2 Training Arena
 	2 Vigor of Champions
 	2 Agents of Fate
@@ -3191,7 +3191,7 @@
 	6 Stonehorn Beastrider
 	12 Frost Saber
 	12 Gnoblar
-	2 Law of the Maw
+	2 Blessing of the Gulping God
 	12 Windleap
 	12 Teclian Meditation
 	2 Training Arena
@@ -3460,7 +3460,7 @@
 	15 Stonehorn Beastrider
 	6 Frost Saber
 	6 Gnoblar
-	7 Law of the Maw
+	7 Blessing of the Gulping God
 	6 Windleap
 	6 Teclian Meditation
 	7 Training Arena

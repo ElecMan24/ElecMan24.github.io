@@ -1204,7 +1204,7 @@
     "a->gold",
     {
         "card_name": "A Clash of Gods",
-        "number": 182,
+        "number": 183,
         "shape": "normal split",
         "set": "AoS",
         "position": "256"
@@ -1239,7 +1239,7 @@
     },
     {
         "card_name": "Hurakan Wind Spirit",
-        "number": 194,
+        "number": 195,
         "shape": "normal",
         "set": "AoS",
         "position": "89"
@@ -1260,7 +1260,7 @@
     },
     {
         "card_name": "Bloodpelt Hunter",
-        "number": 178,
+        "number": 179,
         "shape": "normal",
         "set": "AoS",
         "position": "115"
@@ -1302,7 +1302,7 @@
     },
     {
         "card_name": "Freeguild Cavalier-Marshal",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "AoS",
         "position": "34"
@@ -1338,7 +1338,7 @@
     },
     {
         "card_name": "Braggoth Vardruk",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "AoS",
         "position": "145"
@@ -1352,14 +1352,14 @@
     },
     {
         "card_name": "Ellania and Ellathor, Warsages",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "AoS",
         "position": "70"
     },
     {
         "card_name": "Immortis Guard",
-        "number": 196,
+        "number": 197,
         "shape": "normal",
         "set": "AoS",
         "position": "37"
@@ -1373,7 +1373,7 @@
     },
     {
         "card_name": "Globb Glittermaw",
-        "number": 190,
+        "number": 191,
         "shape": "normal",
         "set": "AoS",
         "position": "144"
@@ -1394,7 +1394,7 @@
     },
     {
         "card_name": "Katakros, Mortarch of the Necropolis",
-        "number": 197,
+        "number": 198,
         "shape": "normal",
         "set": "AoS",
         "position": "50"
@@ -1429,7 +1429,7 @@
     },
     {
         "card_name": "Bone-Tithe Nexus",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "AoS",
         "position": "85"
@@ -1442,15 +1442,15 @@
         "position": "18"
     },
     {
-        "card_name": "Frostlord on Stonehorn",
-        "number": 188,
+        "card_name": "Blessing of the Gulping God",
+        "number": 178,
         "shape": "normal",
         "set": "AoS",
-        "position": "188"
+        "position": "192"
     },
     {
         "card_name": "Castelite Formation",
-        "number": 181,
+        "number": 182,
         "shape": "normal",
         "set": "AoS",
         "position": "33"
@@ -1464,7 +1464,7 @@
     },
     {
         "card_name": "Khenash-an, Staff of Spirits",
-        "number": 198,
+        "number": 199,
         "shape": "normal",
         "set": "AoS",
         "position": "41"
@@ -1477,15 +1477,15 @@
         "position": "271"
     },
     {
-        "card_name": "Great Mawpot",
-        "number": 191,
+        "card_name": "Frostlord on Stonehorn",
+        "number": 189,
         "shape": "normal",
         "set": "AoS",
-        "position": "146"
+        "position": "188"
     },
     {
         "card_name": "Dawnbringer Crusade",
-        "number": 184,
+        "number": 185,
         "shape": "saga",
         "set": "AoS",
         "position": "81"
@@ -1512,15 +1512,15 @@
         "position": "149"
     },
     {
-        "card_name": "Law of the Maw",
-        "number": 199,
+        "card_name": "Great Mawpot",
+        "number": 192,
         "shape": "normal",
         "set": "AoS",
-        "position": "192"
+        "position": "146"
     },
     {
         "card_name": "Fusil Major",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "AoS",
         "position": "28"
@@ -1576,14 +1576,14 @@
     },
     {
         "card_name": "Cornered Rats",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "AoS",
         "position": "9"
     },
     {
         "card_name": "Gulping Bite",
-        "number": 193,
+        "number": 194,
         "shape": "normal",
         "set": "AoS",
         "position": "217"
@@ -1604,21 +1604,21 @@
     },
     {
         "card_name": "Drain Vitality",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "AoS",
         "position": "212"
     },
     {
         "card_name": "Grey Seer",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "AoS",
         "position": "12"
     },
     {
         "card_name": "Icefall Yhetee",
-        "number": 195,
+        "number": 196,
         "shape": "normal",
         "set": "AoS",
         "position": "183"

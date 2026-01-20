@@ -1,4 +1,12 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+Blessing of the Gulping God added.
+
+Law of the Maw removed.
+
+
+VERSION 31 CHANGELOG
 ====================
 
 
