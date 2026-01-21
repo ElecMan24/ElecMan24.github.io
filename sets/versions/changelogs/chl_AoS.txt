@@ -1,4 +1,225 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+Terramorphic Expanse added.
+
+Aetherquartz, Realmstone of Hsyh removed.
+Grave-Sand, Realmstone of Shyish removed.
+Varanite, Realmstone of Chaos removed.
+Amberbone, Realmstone of Ghur removed.
+Emberstone, Realmstone of Aqshy removed.
+
+Scinari Calligrave
+
+Lightning Reactions
+
+Warpgale
+
+Fusil-cannon
+
+Splatter Cleaver
+
+Weeping Blade
+
+Always More Bodies
+
+Alchemite Warforger
+
+Skaven Deathmaster
+
+Master Moulder
+
+Ogor Butcher
+
+Ogor Slaughtermaster
+
+Ravenous Fortitude
+
+Icefall Yhetee
+
+Ogor Ironblaster
+
+Mortis Reapers
+
+Lode of Saturation
+
+Grisly Repast
+
+Frostlord on Stonehorn
+
+Stonehorn Beastrider
+
+Frost Saber
+
+Gnoblar
+
+Blessing of the Gulping God
+
+Windleap
+
+Teclian Meditation
+
+Training Arena
+
+Sigmar's Thunder
+
+Vigor of Champions
+
+On the Mawpath
+
+Ironblaster's Hail Shot
+
+Agents of Fate
+
+Cyclic Shifts
+
+Deflect Blame
+
+Wisdom of Champions
+
+Discipline of Champions
+
+Cunning of Champions
+
+Fury of Champions
+
+Skaven Tactics
+
+Arch-Warlock
+
+Too Quick to Hit-Hit
+
+Meeting of Marshals
+
+Liege Mortek
+
+Drain Vitality
+
+Artisan's Key
+
+Vital Alignment
+
+The Vice
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+At the beginning of your end step, each opponent may sacrifices a creature. Each player who doesn't loses 3 life. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+At the beginning of your end step, each opponent may sacrifice a creature. Each player who doesn't loses 3 life.
+
+Master Crafted Soul Gem
+
+Gulping Bite
+
+Huskard on Thundertusk
+
+Ogor Firebelly
+
+Ghur's Truth
+
+Blood Vulture Reconnisance
+
+Collect the Bone-Tithe
+
+Ribcracker
+
+Raze to Ruin
+
+Chaintrap's Grip
+
+Trampling Charge
+
+Feral Foray
+
+Expand the Mawpath
+
+First Blood
+
+Mortek Triax
+
+Icebrow Hunter
+
+Vermin's Cunning
+
+Skilled Manipulation
+
+Realigned Formation
+
+Better Part of Valor
+
+Offering to the Horned Rat
+
+Ogor Maneater
+
+Endless Tides of Vermin
+
+The Lurkers Below
+
+Power in Numbers
+
+Lines of Communication
+
+Excelsior Warpriest
+
+Protection of Nagash
+
+Eat your Fill!
+
+Freeguild Command Corps
+
+Officer's Stratagem
+
+Skryre Inginuity
+
+Hire Muscle
+
+Grizzled Veteran
+
+Scouring Light of Teclis
+
+Diversionary Tactic
+
+Perfect Scheme
+
+Scourging of Ghyran
+
+Aqua Ghyranis
+
+Call of the Blizzard
+
+A Clash of Gods
+
+They Came from Below
+
+Wreck and Ruin
+
+The Place that Hungers
+
+Across the Plains
+
+Vokmortain, Voice of Nagash
+
+Lyrior Uthralle
+
+Krittok Foulblade
+
+Gorlok Blackpowder
+
+Iscilla Thorian
+
+Kavalos War Chariot
+
+Curse of Years
+
+Teclian Ladder
+
+Mantle of Command
+
+Bait and Trap
+
+Plague Priest
+
+Fragile Peace
+
+
+VERSION 33 CHANGELOG
 ====================
 
 
