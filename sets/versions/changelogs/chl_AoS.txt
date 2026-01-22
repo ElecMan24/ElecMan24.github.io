@@ -1,4 +1,116 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+
+
+Helm of Tyranny
+cost: {1}{U} => {U}
+rules_text: Equipped creature gets +1/+1.
+Whenever equipped creature attacks a battle, creatures your opponents control get -1/-0 until end of turn.
+Equip {1}{U} => Equipped creature gets +1/+1.
+Whenever equipped creature attacks, if you control a battle, creatures your opponents control get -1/-0 until end of turn.
+Equip {1}{U}
+
+Sunmetal Weapons
+rules_text: Equipped creature has first strike during your turn.
+Equipped whenever equipped creature attacks a battle, other creatures you control get +1/+0 until end of turn.
+Equip {1}{W} => Equipped creature gets +1/+1.
+Equipped creature has first strike during your turn.
+Equipped creature has Battle Cry if you control a battle. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Equip {1}{W}
+
+Settler's Gain
+rules_text: This land enters tapped unless you control an Island or Forest.
+{T}: Add {W}.
+{2}{W}, {T}: The next spell you cast this turn has convoke. => This land enters tapped unless you control an Island or Forest.
+{T}: Add {W}.
+{1}{W}, {T}: The next spell you cast this turn has convoke.
+
+Gothizzar
+rules_text: This land enters tapped unless you control a Plains or Swamp.
+{T}: Add {U}.
+{2}{U}, {T}: Surveil 2. => This land enters tapped unless you control a Plains or Swamp.
+{T}: Add {U}.
+{3}{U}, {T}: Surveil 2.
+
+The Gnaw
+rules_text: This land enters tapped unless you control an Island or Mountain.
+{T}: Add {B}.
+{2}{B}, {T}: Target creature you control connives. Activate only as a sorcery. => This land enters tapped unless you control an Island or Mountain.
+{T}: Add {B}.
+{2}{B}, {T}: Target creature you control connives.
+
+Great Gutfort
+rules_text: This land enters tapped unless you control a Swamp or Forest
+{T}: Add {R}.
+{2}{R}: Target creature you control gets +X/+0 until end of turn, where X is its mana value. Activate only as a sorcery. => This land enters tapped unless you control a Swamp or Forest
+{T}: Add {R}.
+{2}{R}, {T}: Target creature you control gets +X/+0 until end of turn, where X is its mana value. Activate only as a sorcery.
+
+Hammerhal
+rules_text: This land enters tapped unless you control a Mountain or Plains.
+{T}: Add {G}.
+{G}, {T}: The next activated ability of a creature you activate this turn that isn't a mana ability can't be countered. => This land enters tapped unless you control a Mountain or Plains.
+{T}: Add {G}.
+{1}{G}, {T}: Add {G}. If that mana is spent to activate the ability of a creature you control that isn't a mana ability, copy that ability.
+
+Fusil-cannon
+rules_text: Equipped creature gets +1/+1 and has reach.
+Whenever equipped creature attacks a battle, untap it at end of turn.
+Equip {1}{G} => Equipped creature gets +1/+1 and has reach.
+Whenever equipped creature attacks, if you control a battle, untap it at end of turn.
+Equip {1}{G}
+
+Splatter Cleaver
+rules_text: Equipped creature gets +1/+0 and has menace.
+Whenever equipped creature becomes blocked, if it was attacking a battle, create a Food token.
+Equip {1}{R} => Equipped creature gets +1/+0 and has menace.
+Whenever equipped creature becomes blocked, if you control a battle, create a Food token.
+Equip {1}{R}
+
+Weeping Blade
+rules_text: Equipped creature has deathtouch during your turn.
+When equipped creature deals combat damage to a battle, you may sacrifice this Equipment, if you do, reduce the number of defense counters on that battle to 0.
+Equip {1}{B} => Equipped creature has deathtouch during your turn.
+When equipped creature deals combat damage to a battle, you may sacrifice this Equipment, if you do, reduce the number of defense counters on that battle to 0.
+Equip {B}
+
+Vigor of Champions
+rules_text: Whenever you activate the ability of a creature you control that isn't a mana ability, put a resolve counter on this enchantment. This ability triggers only once each turn.
+As long as this enchantment has six or more resolve counters on it, creature you control gain trample and get +X/+X, where X is the half the number of resolve counters on this enchantment, rounded up. => Whenever a creature you control with mana value 1 or greater enters, put a resolve counter on this enchantment.
+As long as this enchantment has six or more resolve counters on it, creature you control gain trample and get +3/+3.
+
+Wisdom of Champions
+rules_text: Whenever you discard one or more cards, put a resolve counter on this enchantment. This ability triggers only once each turn.
+At the beginning of your end step, if this enchantment has four or more resolve counters on it, scry X, where X is half the number of resolve counters on this enchantment, rounded up, then draw a card. => Whenever you discard one or more cards, put a resolve counter on this enchantment.
+At the beginning of your end step, if this enchantment has five or more resolve counters on it, scry 1, then draw a card.
+
+Discipline of Champions
+rules_text: Whenever you tap one or more creatures you control, put a resolve counter on this enchantment. This ability triggers only once each turn.
+At the beginning of your end step, if this enchantment has four or more resolve counters on it, create X 1/1 white Elf Soldier creature tokens, where X is half the number of resolve counters on this enchantment, rounded up. => Whenever you tap one or more creatures you control, put a resolve counter on this enchantment. This ability triggers only once each turn.
+At the beginning of your end step, if this enchantment has four or more resolve counters on it, create two 2/2 blue Elf Knight creature tokens with vigilance.
+
+Cunning of Champions
+rules_text: Whenever you sacrifice one or more permanents with mana value 1 or greater, put a resolve counter on this enchantment. This ability triggers only once each turn.
+At the beginning of your end step, if this enchantment has four or more resolve counters on it, return target nonland permanent card from your graveyard to the battlefield with mana value X or less, where X is half the number of resolve counters on this enchantment, rounded up. => Whenever you sacrifice one or more permanents with mana value 1 or greater, put a resolve counter on this enchantment.
+At the beginning of your end step, if this enchantment has three or more resolve counters on it, return target nonland permanent card from your graveyard to your hand.
+
+Fury of Champions
+rules_text: Whenever one or more creatures you control attack, put a resolve counter on this enchantment. This ability triggers only once each turn.
+{2}{R}: Copy target activated ability X times, where X is half the number of resolve counters on this enchantment, rounded up. Activate only if there are four or more resolve counters on this enchantment. => Whenever you activate the ability of a creature you control that isn't a mana ability, put a resolve counter on this enchantment. This ability triggers only once each turn.
+{X}{X}: Copy target activated ability you control X times. Activate only if there are four or more resolve counters on this enchantment. This ability can't be copied and X can't be 0.
+
+Perfect Scheme
+
+Gorlok Blackpowder
+pt: 5/3 => 5/5
+
+Iscilla Thorian
+rules_text: Activated abilities of permanents you control that aren't mana abilities have Regiment. => Whenever you activate the ability of a creature you control that isn't a mana ability, you may put a creature card and/or a land card from your hand onto the battlefield. This ability triggers only once each turn.
+Regiment {6}{G}{G}: Creatures you control get +X/+X and gain trample until end of turn, where X is the number of lands you control.
+
+
+VERSION 35 CHANGELOG
 ====================
 
 

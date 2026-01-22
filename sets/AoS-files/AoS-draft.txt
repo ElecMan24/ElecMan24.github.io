@@ -423,7 +423,7 @@
 		{
 			"name": "Helm of Tyranny",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{U}",
 			"type": "Artifact — Equipment",
 			"collector_number": "47",
 			"image_uris": {
