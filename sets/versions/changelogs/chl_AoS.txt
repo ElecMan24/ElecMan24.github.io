@@ -1,4 +1,31 @@
-﻿VERSION 34 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+
+
+Fusil Major
+rules_text: Reach
+When this creature enters, create a 3/4 red and green Ogre Soldier creature token named Ogor Warhulk with trample and “Creatures you control named Fusil Major have Ward {1}.”
+[i]Mark Targets[/i] — Regiment {2}{R}{G}{W}, {T}: Choose target creature you don't control. Each creature you control deals 1 damage to that creature. => Reach
+When this creature enters, create a 3/4 red and green Ogre Soldier creature token named Ogor Warhulk with trample and “Creatures you control named Fusil Major have Ward {1}.”
+[i]Mark Targets[/i] — Regiment {2}{R}{G}{W}: Choose target creature you don't control. Each creature you control deals 1 damage to that creature.
+
+Ellania and Ellathor, Warsages
+cost: {G}{W}{U} => {1}{G}{W}{U}
+rules_text: First strike, vigilance, ward {1}
+When this creature enters, draw X cards, where X is one plus the number of permanents you control with convoke.
+Whenever you cast a spell that has convoke, untap Ellania and Ellathor and put a +1/+1 counter on them. => First strike, vigilance
+You may look at the top card of your library any time.
+You may play lands and cast permanent spells or spells with convoke from the top of your library.
+Whenever you cast a spell that has convoke, untap Ellania and Ellathor and put a +1/+1 counter on them.
+
+Perfect Scheme
+cost: {X}{U}{U} => {2}{U}{U}
+rules_text: X different target creatures you control connive. Those creatures can't be blocked this turn. [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i] => As an additional cost to cast this spell, return a creature you control to its owner's hand.
+Return all creatures your opponents control with mana value X or less to their owner's hands, where X is one plus the mana value of the returned creature.
+
+
+VERSION 34 CHANGELOG
 ====================
 
 Terramorphic Expanse added.

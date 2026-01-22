@@ -703,7 +703,7 @@
 		{
 			"name": "Ellania and Ellathor, Warsages",
 			"rarity": "mythic",
-			"mana_cost": "{G}{W}{U}",
+			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Elf Wizard Warrior",
 			"collector_number": "187",
 			"image_uris": {
@@ -2473,7 +2473,7 @@
 		{
 			"name": "Perfect Scheme",
 			"rarity": "rare",
-			"mana_cost": "{X}{U}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "55",
 			"image_uris": {
