@@ -1,4 +1,39 @@
-﻿VERSION 36 CHANGELOG
+﻿VERSION 37 CHANGELOG
+====================
+
+
+
+Warplock Jezzail
+rules_text: Reach
+[i]Ruination[/i] — {T}: This creature deals 1 damage to any target. Activate only as a sorcery. If there are cards with total mana value 13 or greater among cards in your graveyard, it deals 2 damage to that target instead. => Reach
+[i]Ruination[/i] — {T}: This creature deals 1 damage to any target. If there are cards with total mana value 13 or greater among cards in your graveyard, it deals 2 damage to that target instead.
+pt: 4/2 => 3/2
+
+Wildercorps Ambuscade
+cost: {G} => {1}{G}
+rules_text: Target creature gets +2/+2 and gains reach until end of turn. Untap it. => Target creature gets +X/+X until end of turn, where X is the greatest mana value among permanents you control. Untap it.
+
+Alarith Mountain Spirit
+rules_text: Convoke
+Trample, reach
+This creature enters with a shield counter on it. => Convoke
+Vigilance, trample
+This creature enters with a shield counter on it.
+
+Fusil-cannon
+cost: {1}{G} => {G}
+rules_text: Equipped creature gets +1/+1 and has reach.
+Whenever equipped creature attacks, if you control a battle, untap it at end of turn.
+Equip {1}{G} => Equipped creature gets +2/+2.
+Whenever equipped creature attacks, if you control a battle, untap it at end of turn.
+Equip {1}{G}
+
+Call of the Blizzard
+cost: {X}{X}{G} => {4}{G}
+rules_text: X different target creatures you control get +X/+X until end of turn, where X is the total mana value among permanents you control. => Choose two creatures you control with mana value 1 or greater. You draw X cards and the chosen creatures get +X/+X and gain trample until end of turn, where X is the difference between the chosen creatures' mana values.
+
+
+VERSION 36 CHANGELOG
 ====================
 
 
