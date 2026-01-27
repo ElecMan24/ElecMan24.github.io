@@ -2553,7 +2553,7 @@
 		{
 			"name": "Across the Plains",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}{W}",
+			"mana_cost": "{1}{G}{W}",
 			"type": "Battle — Control Point",
 			"collector_number": "172",
 			"image_uris": {

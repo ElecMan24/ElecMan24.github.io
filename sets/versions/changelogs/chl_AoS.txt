@@ -1,4 +1,22 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+
+
+Verminlord Warpseer
+rules_text: Ward—Discard a nonland card.
+Whenever this creature attacks, each attacking creature you control connives.
+[i]Ruination [/i]— Whenever this creature connives, if there are cards with total mana value 13 or greater among cards in your graveyard, this creature deals damage to target creature or battle equal to the greatest mana value among cards connived this way. => Ward—Discard a nonland card.
+[i]Ruination [/i]— Whenever this creature attacks, each attacking creature you control connives. If there are cards with total mana value 13 or greater among cards in your graveyard, when it connives this way, this creature deals damage to target creature or battle equal to the mana value of the connived card.
+
+Call of the Blizzard
+rules_text: Choose two creatures you control with mana value 1 or greater. You draw X cards and the chosen creatures get +X/+X and gain trample until end of turn, where X is the difference between the chosen creatures' mana values. => Choose two creatures you control. You draw X cards and the chosen creatures get +X/+X and gain trample until end of turn, where X is the difference between the chosen creatures' mana values.
+
+Across the Plains
+cost: {2}{G}{W} => {1}{G}{W}
+
+
+VERSION 37 CHANGELOG
 ====================
 
 
