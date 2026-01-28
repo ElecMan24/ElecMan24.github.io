@@ -1,4 +1,43 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+
+
+Vanari Dawnrider
+rules_text: Squad {3}{U} [i](As an additional cost to cast this spell, you may pay {3}{U} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Vigilance
+[i]Deathly Furrows[/i] — When this creature enters, return target creature with mana value 2 or less to its owner's hand. => Squad {3}{U} [i](As an additional cost to cast this spell, you may pay {3}{U} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Vigilance
+[i]Deathly Furrows[/i] — When this creature enters, return up to one target creature with mana value 2 or less to its owner's hand.
+
+Great Gutfort
+rules_text: This land enters tapped unless you control a Swamp or Forest
+{T}: Add {R}.
+{2}{R}, {T}: Target creature you control gets +X/+0 until end of turn, where X is its mana value. Activate only as a sorcery. => This land enters tapped unless you control a Swamp or Forest
+{T}: Add {R}.
+{1}{R}, {T}: Target creature you control gets +X/+0 until end of turn, where X is its mana value. Activate only as a sorcery.
+
+Warpgale
+rules_text: Look at the top five cards of your library. Put two of those cards into your hand and the rest into your graveyard. Warpgale deals damage to target creature or battle equal to the greatest mana value among cards put into your graveyard this way. => Look at the top three cards of your library. Put one of those cards into your hand and the rest into your graveyard. Warpgale deals damage to target creature or battle equal to the greatest mana value among cards put into your graveyard this way.
+
+A Clash of Gods
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Lumineth or Ossiarch.
+Lumineth — Creatures you control have ward {2}.
+Ossiarch — Whenever a creature you control leaves the battlefield during your turn, tap up to one target creature you don't control. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Lumineth or Ossiarch.
+Lumineth — Whenever a creature with mana value 1 or greater you control enters, create a 2/2 blue Elf Knight creature token with vigilance. 
+Ossiarch — Whenever a creature you control leaves the battlefield during your turn, tap up to one target creature you don't control and put a stun counter on it.
+
+Plague Priest
+rules_text: Deathtouch
+Discard a card: Target creature you control gets -X/-X until end of turn, where X is half the discarded card's mana value. Activate only during your turn and only once each turn.
+[i]Ruination —[/i] Other creatures you control have deathtouch if the total mana value among cards in your graveyard is greater than or equal to 13. => Deathtouch
+Discard a card: Target creature gets -X/-X until end of turn, where X is half the discarded card's mana value. Activate only during your turn and only once each turn.
+[i]Ruination —[/i] Other creatures you control have deathtouch if the total mana value among cards in your graveyard is greater than or equal to 13.
+
+
+VERSION 38 CHANGELOG
 ====================
 
 
