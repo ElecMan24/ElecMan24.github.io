@@ -1,4 +1,20 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 41 CHANGELOG
+====================
+
+Path to Glory: Cities added.
+Path to Glory: Ossiarch added.
+Path to Glory: Lumineth added.
+Path to Glory: Skaven added.
+Path to Glory: Ogors added.
+
+Vigor of Champions removed.
+Wisdom of Champions removed.
+Discipline of Champions removed.
+Cunning of Champions removed.
+Fury of Champions removed.
+
+
+VERSION 40 CHANGELOG
 ====================
 
 

@@ -55,7 +55,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/5.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/7.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Rat Mutant",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/16.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Battle — Control Point",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Ogre Mercenary",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/20.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Skeleton Soldier",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/22.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Skeleton Horror",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/23.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/24.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/30.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Skeleton Horror",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/35.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/38.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Skeleton Knight",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Skeleton Knight Noble",
-			"collector_number": "87",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Skeleton Wizard",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/46.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Skeleton Wizard",
-			"collector_number": "92",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/47.png"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/54.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Archer",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/56.png"
 			}
@@ -575,7 +575,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Elf Knight",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/57.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/59.png"
 			}
@@ -715,7 +715,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{2}{W}",
 			"type": "Instant",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/71.png"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "162",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/73.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/75.png"
 			}
@@ -875,7 +875,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Skeleton Horror",
-			"collector_number": "90",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/87.png"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elf Knight Archer",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/90.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{2}{U}",
 			"type": "Instant",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/91.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/99.png"
 			}
@@ -1005,7 +1005,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/100.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/107.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Ogre Mercenary",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/109.png"
 			}
@@ -1125,7 +1125,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/112.png"
 			}
@@ -1175,7 +1175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/117.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Battle — Control Point",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/124.png"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Elf Knight",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/130.png"
 			}
@@ -1395,7 +1395,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "91",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/139.png"
 			}
@@ -1405,7 +1405,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/140.png"
 			}
@@ -1425,7 +1425,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/142.png"
 			}
@@ -1795,7 +1795,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/179.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact",
-			"collector_number": "88",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/181.png"
 			}
@@ -1825,7 +1825,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact — Food",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/182.png"
 			}
@@ -1845,7 +1845,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Ogre Warrior",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/184.png"
 			}
@@ -1865,7 +1865,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Goblin Ogre",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/186.png"
 			}
@@ -1895,7 +1895,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/189.png"
 			}
@@ -1921,11 +1921,11 @@
 			}
 		},
 		{
-			"name": "Vigor of Champions",
+			"name": "Path to Glory: Cities",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "169",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/192.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/193.png"
 			}
@@ -1945,7 +1945,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/194.png"
 			}
@@ -1981,41 +1981,41 @@
 			}
 		},
 		{
-			"name": "Wisdom of Champions",
+			"name": "Path to Glory: Ossiarch",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "70",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/198.png"
 			}
 		},
 		{
-			"name": "Discipline of Champions",
+			"name": "Path to Glory: Lumineth",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "9",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/199.png"
 			}
 		},
 		{
-			"name": "Cunning of Champions",
+			"name": "Path to Glory: Skaven",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "76",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/200.png"
 			}
 		},
 		{
-			"name": "Fury of Champions",
+			"name": "Path to Glory: Ogors",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "116",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/201.png"
 			}
@@ -2045,7 +2045,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/204.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/205.png"
 			}
@@ -2145,7 +2145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Ogre Wizard",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/214.png"
 			}
@@ -2185,7 +2185,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "163",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/218.png"
 			}
@@ -2215,7 +2215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/221.png"
 			}
@@ -2265,7 +2265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Ogre Ranger",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/226.png"
 			}
@@ -2275,7 +2275,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/227.png"
 			}
@@ -2285,7 +2285,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/228.png"
 			}
@@ -2315,7 +2315,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/231.png"
 			}
@@ -2325,7 +2325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Ogre Pirate",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/232.png"
 			}
@@ -2335,7 +2335,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/233.png"
 			}
@@ -2345,7 +2345,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Battle — Control Point",
-			"collector_number": "89",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/234.png"
 			}
@@ -2365,7 +2365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Battle — Control Point",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/236.png"
 			}
@@ -2375,7 +2375,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/237.png"
 			}
@@ -2395,7 +2395,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/239.png"
 			}
@@ -2415,7 +2415,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/241.png"
 			}
@@ -2435,7 +2435,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/243.png"
 			}
@@ -2475,7 +2475,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/247.png"
 			}
@@ -2485,7 +2485,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/248.png"
 			}
@@ -2565,7 +2565,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Skeleton Wizard",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/256.png"
 			}
@@ -2575,7 +2575,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Elf Knight Noble",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/257.png"
 			}
@@ -2585,7 +2585,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Rat Soldier",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/258.png"
 			}
@@ -2595,7 +2595,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Ogre Pirate",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/259.png"
 			}
@@ -2750,13 +2750,13 @@
 	2 Frostlord on Stonehorn
 	2 Blessing of the Gulping God
 	2 Training Arena
-	2 Vigor of Champions
+	2 Path to Glory: Cities
 	2 Agents of Fate
 	2 Cyclic Shifts
-	2 Wisdom of Champions
-	2 Discipline of Champions
-	2 Cunning of Champions
-	2 Fury of Champions
+	2 Path to Glory: Ossiarch
+	2 Path to Glory: Lumineth
+	2 Path to Glory: Skaven
+	2 Path to Glory: Ogors
 	2 Power in Numbers
 	2 Scouring Light of Teclis
 	2 Perfect Scheme
@@ -3147,16 +3147,16 @@
 	12 Teclian Meditation
 	2 Training Arena
 	12 Sigmar's Thunder
-	2 Vigor of Champions
+	2 Path to Glory: Cities
 	12 On the Mawpath
 	12 Ironblaster's Hail Shot
 	2 Agents of Fate
 	2 Cyclic Shifts
 	6 Deflect Blame
-	2 Wisdom of Champions
-	2 Discipline of Champions
-	2 Cunning of Champions
-	2 Fury of Champions
+	2 Path to Glory: Ossiarch
+	2 Path to Glory: Lumineth
+	2 Path to Glory: Skaven
+	2 Path to Glory: Ogors
 	6 Skaven Tactics
 	6 Arch-Warlock
 	12 Too Quick to Hit-Hit
@@ -3412,16 +3412,16 @@
 	6 Teclian Meditation
 	7 Training Arena
 	6 Sigmar's Thunder
-	7 Vigor of Champions
+	7 Path to Glory: Cities
 	6 On the Mawpath
 	6 Ironblaster's Hail Shot
 	7 Agents of Fate
 	7 Cyclic Shifts
 	15 Deflect Blame
-	7 Wisdom of Champions
-	7 Discipline of Champions
-	7 Cunning of Champions
-	7 Fury of Champions
+	7 Path to Glory: Ossiarch
+	7 Path to Glory: Lumineth
+	7 Path to Glory: Skaven
+	7 Path to Glory: Ogors
 	15 Skaven Tactics
 	15 Arch-Warlock
 	6 Too Quick to Hit-Hit
