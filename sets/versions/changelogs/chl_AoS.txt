@@ -1,4 +1,16 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+
+
+Morghast Archai
+pt: 3/3 => 4/4
+
+Morghast Harbinger
+pt: 3/3 => 4/4
+
+
+VERSION 39 CHANGELOG
 ====================
 
 
