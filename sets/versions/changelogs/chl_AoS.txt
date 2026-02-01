@@ -1,4 +1,33 @@
-﻿VERSION 42 CHANGELOG
+﻿VERSION 43 CHANGELOG
+====================
+
+
+
+Stormfiend
+rules_text: Squad—Sacrifice two creatures with mana value 1 or greater
+Haste
+Whenever this creature attacks, it deals X damage to any target, where X is the greatest mana value among cards in your graveyard. => Squad—Sacrifice two creatures with mana value 1 or greater.
+Haste
+Whenever this creature attacks, it deals X damage to any target, where X is the greatest mana value among cards in your graveyard.
+
+Necropolis Stalker
+rules_text: Squad—Discard cards with total mana value 4 or greater
+First strike, vigilance
+Reconstruct => Squad—Discard cards with total mana value 4 or greater.
+First strike, vigilance
+Reconstruct
+
+Immortis Guard
+rules_text: Squad—{W}{U}{B}
+Double strike
+Sacrifice this creature: Creatures and artifacts you control you control gain hexproof and indestructible until end of turn.
+Reconstruct => Squad {W}{U}{B}
+Double strike
+Sacrifice this creature: Creatures and artifacts you control you control gain hexproof and indestructible until end of turn.
+Reconstruct
+
+
+VERSION 42 CHANGELOG
 ====================
 
 Vigor of Champions added.
