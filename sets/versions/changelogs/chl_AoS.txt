@@ -1,4 +1,257 @@
-﻿VERSION 41 CHANGELOG
+﻿VERSION 42 CHANGELOG
+====================
+
+Vigor of Champions added.
+Wisdom of Champions added.
+Discipline of Champions added.
+Cunning of Champions added.
+Fury of Champions added.
+Balefire Brazier added.
+
+Path to Glory: Cities removed.
+Path to Glory: Ossiarch removed.
+Path to Glory: Lumineth removed.
+Path to Glory: Skaven removed.
+Path to Glory: Ogors removed.
+Ogor Maneater removed.
+
+Skaven Clanrat
+rules_text: Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Ruination[/i] — This creature can't block unless the total mana value among cards in your graveyard is greater than or equal to 13. => Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Seething Swarm — [/i]When this creature dies, create a 1/1 black Rat Peasant creature token with “This token can't block.”
+
+Cornered Rats
+rules_text: [i]Ruinaiton[/i] — Choose one. If the total mana value among cards in your graveyard is greater than or equal to 13 choose one or more instead.
+• Target creature you control connives twice.
+• Cornered Rats deals X damage to any target, where X is half the greatest mana value among cards in your graveyard, rounded up. => As an additional cost to cast this spell, discard a card.
+Destroy target creature. Create X 1/1 black Rat Peasant creature tokens with “This token can't block.”, where X is the destroyed creature's mana value.
+
+Thanquol and Boneripper
+rules_text: Trample
+At the start of combat on your turn, this creature connives.
+You may play lands and cast spells from among cards in your graveyard you've connived or surveiled this turn. => Trample
+Whenever you sacrifice a creature, choose one that hasn't been chosen this turn —
+• This creature connives.
+• You may cast an instant or sorcery spell with mana value X or less from your graveyard, where X is one plus the sacrificed creature's mana value. If that spell would be put into your graveyard, exile it instead.
+
+Freeguild Storehouse
+rules_text: At the beginning of your end step, if you control three or more tapped creatures, put a storage counter on this artifact.
+Remove two storage counters from this artifact: Create your choice of a Clue, Food or Treasure token. Activate only as a sorcery. => This artifact enters with two storage counters on it.
+At the beginning of your end step, if you control three or more tapped creatures, put a storage counter on this artifact.
+Remove two storage counters from this artifact: Create your choice of a Clue, Food or Treasure token. Activate only as a sorcery.
+
+Relentless Discipline
+rules_text: When this enchantment enters, create a 1/1 white Skeleton Soldier creature token.
+Creatures you control have vigilance. => Whenever one or more creatures and/or artifacts you control leave the battlefield during your turn, create a 1/1 white Skeleton Soldier creature token. This ability triggers only once each turn.
+
+Mortisan Ossifector
+rules_text: When this creature enters, return up to one target nonland permanent with mana value 1 or greater to its owners hand. If you controlled that permanent, surveil 2, then draw two cards. => At the beginning of each end step, if you discarded one or more cards this turn, draw a card.
+
+Scinari Enlightener
+rules_text: [i]Rune of Enthlai[/i] — When this creature enters, copy the next spell you cast with convoke this turn when you cast it. => Flash
+[i]Rune of Enthlai[/i] — When this creature enters, copy the next spell you cast with convoke this turn when you cast it. You may choose new targets for the copy.
+
+Alarith Stonemage
+cost: {1}{G}{W} => {2}{G}
+
+Darkness of the Soul
+type: Sorcery => Instant
+cost: {4}{U}{U} => {6}{U}{U}
+
+Vanari Bladelord
+cost: {2}{G}{W}{U} => {3}{G}{W}{U}
+rules_text: Convoke
+Squad {1}{G}{W}{U}
+Double strike, vigilance
+When this creature enters, put X +1/+1 counters on it, where X is the number of tapped creature you control. => Convoke
+Squad {G}{W}{U}
+Double strike, vigilance
+When this creature enters, put X +1/+1 counters on it, where X is the number of tapped creature you control.
+
+Teclis and Celennar, Enlighened
+rules_text: Flying, vigilance, ward {2}
+Whenever you cast a spell that has convoke, you may exile up to X other target creatures you control, where X is the amount of mana spent to cast that spell, then return those cards to the battlefield under their owner's control. => Flying, vigilance, ward {2}
+Whenever you cast a spell that has convoke, you may exile up to X other target creatures you control, where X is the amount of mana spent to cast that spell. Then, return those cards to the battlefield under their owner's control tapped.
+
+Morghast Archai
+pt: 4/4 => 3/3
+
+Morghast Harbinger
+pt: 4/4 => 3/3
+
+Alarith Mountain Spirit
+cost: {5}{G}{G} => {5}{G}{W}
+
+Alarith Stoneguard
+rules_text: Squad {2}{G}
+[i]Fortitude of the Earth[/i] — Whenever this creature becomes tapped, prevent all combat damage that would be dealt to target creature you control this turn. => Squad {3}{G}
+[i]Fortitude of the Earth[/i] — Whenever this creature becomes tapped, prevent all combat damage that would be dealt to target creature you control this turn.
+
+Ocari Dara, Spirefall
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token with vigilance.
+III — Permanent spells you cast this turn have convoke.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token with vigilance.
+III — Permanent spells you cast this turn have convoke.
+
+Ogor Tyrant
+rules_text: Menace, trample
+Engorge — {2}{B}{R}{G}: You lose X life and draw X cards, where X is the greatest mana value among permanents you've sacrificed this turn. Activate only during your turn and only once each turn. => Trample, lifelink
+Engorge — {2}{B}{R}{G}: This creature deals X damage to any target, where X is the greatest mana value among permanents you've sacrificed this turn. Activate only during your turn and only once each turn.
+
+City's Heraldry
+rules_text: Enchant land.
+As this Aura enters, choose two different colors.
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana from among the chosen colors. => Enchant land.
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
+
+Lumineth Sanctuary
+rules_text: When this artifact enters, search your library for a basic Forest, Plains, or Island card, reveal it, put it into your hand, then shuffle.
+{3}{G}{W}{U}, {T}, Sacrifice this artifact: Create a 5/5 green Elemental Spirit creature token. Activate only as a sorcery. => When this artifact enters, search your library for a basic Forest, Plains, or Island card, reveal it, put it into your hand, then shuffle.
+{3}{G}{W}{U}, {T}, Sacrifice this artifact: Create a 5/5 green Elemental Spirit creature token with vigilance. Activate only as a sorcery.
+
+Great Gutfort
+rules_text: This land enters tapped unless you control a Swamp or Forest
+{T}: Add {R}.
+{1}{R}, {T}: Target creature you control gets +X/+0 until end of turn, where X is its mana value. Activate only as a sorcery. => This land enters tapped unless you control a Swamp or Forest
+{T}: Add {R}.
+{2}{R}, {T}: Target creature you control gets +X/+0 until end of turn, where X is its mana value. Activate only as a sorcery.
+
+Skaven Gnawhole
+rules_text: [i]Ruination —[/i] {T}, Surveil 2. If the total mana value among cards in your graveyard is greater than or equal to 13, for each opponent, create a 1/1 black Rat Peasant creature token with “This token can't block.” => [i]Ruination —[/i] {T}: Draw a card, then discard a card. If the total mana value among cards in your graveyard is greater than or equal to 13, for each opponent, create a 1/1 black Rat Peasant creature token with “This token can't block.”
+
+Warpgale
+cost: {2}{U}{B}{R} => {3}{U}{B}{R}
+
+Mortis Reapers
+rules_text: Deathtouch
+When this creature enters, draw a card. Then discard a card. If this creature entered from a graveyard or was cast from a graveyard, draw two cards instead.
+Reconstruct => Deathtouch
+When this creature enters, draw a card. If this creature entered from a graveyard or was cast from a graveyard, draw two cards instead. Then discard a card.
+Reconstruct
+pt: 3/3 => 2/2
+
+Arch-Warlock
+rules_text: [i]Overseer of the Enginecovens[/i] — Whenever you cast an artifact spell with mana value 1 or greater, up to one target creature you control connives. => [i]Overseer of the Enginecovens[/i] — Whenever Arch-Warlock or an artifact with mana value 1 or greater enters under your control, up to one target creature you control connives.
+
+Liege Mortek
+rules_text: Whenever one or more other creatures you control leave the battlefield without dying, surveil 1.
+At the beginning of your end step, you may exile another target creature or artifact you control, then return that card to the battlefield under its owner's control. => Whenever one or more other creatures and/or artifacts you control leave the battlefield without dying, surveil 1.
+At the beginning of your end step, you may exile another target creature or artifact you control, then return that card to the battlefield under its owner's control.
+
+Master Crafted Soul Gem
+rules_text: When this artifact enters, exile target creature card from a graveyard with a craft counter on it.
+{T}: Target creature you control gains flying until end of turn if a creature card in exile with one or more craft counters on it has flying. The same is true for first strike, double strike, deathtouch, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Activate only as a sorcery. => When this artifact enters, exile target creature card from a graveyard with a craft counter on it.
+{2}, {T}: Target creature you control becomes a copy of target card in exile with one or more craft counters on it. Activate only as a sorcery.
+
+Mortek Triax
+rules_text: Squad {2}{U}
+When this creature enters, surveil 1.
+Reconstruct [i](You may cast this card from your graveyard by sacrificing a permanent in addition to paying its other costs. If you do, it enters with a finality counter on it.)[/i] => Squad {2}{U}
+When this creature enters, draw a card, then discard a card.
+Reconstruct [i](You may cast this card from your graveyard by sacrificing a permanent in addition to paying its other costs. If you do, it enters with a finality counter on it.)[/i]
+
+Endless Tides of Vermin
+
+The Lurkers Below
+
+Power in Numbers
+
+Lines of Communication
+
+Excelsior Warpriest
+
+Protection of Nagash
+
+Eat your Fill!
+
+Freeguild Command Corps
+
+Officer's Stratagem
+
+Skryre Inginuity
+
+Hire Muscle
+
+Grizzled Veteran
+
+Scouring Light of Teclis
+rules_text: Choose a creature you control, destroy all other untapped creatures. => Choose a creature you control, if it is tapped, destroy all untapped creatures. Otherwise, destroy all tapped creatures.
+
+Diversionary Tactic
+
+Perfect Scheme
+
+Scourging of Ghyran
+
+Aqua Ghyranis
+
+Call of the Blizzard
+cost: {4}{G} => {2}{G}
+rules_text: Choose two creatures you control. You draw X cards and the chosen creatures get +X/+X and gain trample until end of turn, where X is the difference between the chosen creatures' mana values. => Target creature you control gets +X/+X until end of turn, where X is its mana value. It deals damage equal to its power to target creature you don't control.
+
+A Clash of Gods
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Lumineth or Ossiarch.
+Lumineth — Whenever a creature with mana value 1 or greater you control enters, create a 2/2 blue Elf Knight creature token with vigilance. 
+Ossiarch — Whenever a creature you control leaves the battlefield during your turn, tap up to one target creature you don't control and put a stun counter on it. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Lumineth or Ossiarch.
+Lumineth — Creatures you control have ward {2}.
+Ossiarch — Whenever a creature you control leaves the battlefield during your turn, tap up to one target creature you don't control.
+
+They Came from Below
+
+Wreck and Ruin
+
+The Place that Hungers
+
+Across the Plains
+
+Vokmortain, Voice of Nagash
+
+Lyrior Uthralle
+
+Krittok Foulblade
+
+Gorlok Blackpowder
+
+Iscilla Thorian
+
+Kavalos War Chariot
+
+Curse of Years
+
+Teclian Ladder
+rules_text: Whenever you cast a spell that has convoke, put an enlightenment counter on this enchantment.
+Remove three enlightenment counters from this enchantment: Create a 5/5 green Elemental Spirit creature token. Activate only once each turn. => Whenever you cast a spell that has convoke, put an enlightenment counter on this enchantment.
+Remove two enlightenment counters from this enchantment: Create a 5/5 green Elemental Spirit creature token with vigilance. Activate only once each turn.
+
+Mantle of Command
+
+Bait and Trap
+
+Plague Priest
+rules_text: Deathtouch
+Discard a card: Target creature gets -X/-X until end of turn, where X is half the discarded card's mana value. Activate only during your turn and only once each turn.
+[i]Ruination —[/i] Other creatures you control have deathtouch if the total mana value among cards in your graveyard is greater than or equal to 13. => Deathtouch
+Discard a card: Target creature you control gets -X/-X until end of turn, where X is half the discarded card's mana value. Activate only during your turn and only once each turn.
+[i]Ruination —[/i] Other creatures you control have deathtouch if the total mana value among cards in your graveyard is greater than or equal to 13.
+
+Fragile Peace
+
+Terramorphic Expanse
+
+
+VERSION 41 CHANGELOG
 ====================
 
 Path to Glory: Cities added.
