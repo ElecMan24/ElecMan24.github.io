@@ -1,4 +1,33 @@
-﻿VERSION 43 CHANGELOG
+﻿VERSION 44 CHANGELOG
+====================
+
+Freeguild Marshal on Griffon added.
+
+Bait and Trap removed.
+
+Hell Pit Abomination
+
+Wildercorps Ambuscade
+rules_text: Target creature gets +X/+X until end of turn, where X is the greatest mana value among permanents you control. Untap it. => Target creature gets +3/+3 until end of turn. Untap it.
+
+Grizzled Veteran
+rules_text: Enchant creature
+Enchanted creature gets +X/+X, where X is the greatest mana value among permanents you control. => Enchant creature
+Enchanted creature has “Whenever this creature attacks, it gets +X/+X, where X is the number of creatures you control.”
+
+Aqua Ghyranis
+rules_text: {T}: Add one mana of any color. Spend this mana only to cast creature spells or activate abilities of creatures.
+{T}: Draw a card, activate only if you control four or more tapped creatures. => {T}: Add one mana of any color. Spend this mana only to cast creature spells or activate abilities of creatures.
+Regiment {3}, {T}: Draw a card.
+
+Mantle of Command
+rules_text: Enchant creature
+Whenever enchanted creature deals combat damage to a player or battle, create that many 1/1 red Human Soldier creature tokens. => Enchant creature
+Enchanted creature has Battle Cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Enchanted creature has “Whenever this creature attacks, create two 1/1 red Human Soldier creature tokens that are tapped and attacking.”
+
+
+VERSION 43 CHANGELOG
 ====================
 
 

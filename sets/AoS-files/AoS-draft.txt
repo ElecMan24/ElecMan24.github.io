@@ -95,7 +95,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Instant",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/9.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/34.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Elf Wizard Warrior",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/70.png"
 			}
@@ -815,7 +815,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/81.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Artifact",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/85.png"
 			}
@@ -1155,7 +1155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Ogre Ranger",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/115.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Legendary Creature — Ogre Warrior",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/145.png"
 			}
@@ -1875,7 +1875,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/187.png"
 			}
@@ -2075,7 +2075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Instant",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/207.png"
 			}
@@ -2505,7 +2505,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Battle — Control Point",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/250.png"
 			}
@@ -2641,11 +2641,11 @@
 			}
 		},
 		{
-			"name": "Bait and Trap",
+			"name": "Freeguild Marshal on Griffon",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{G}{W}",
-			"type": "Instant",
-			"collector_number": "177",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/264.png"
 			}
@@ -2873,7 +2873,7 @@
 	4 Curse of Years
 	4 Teclian Ladder
 	4 Mantle of Command
-	4 Bait and Trap
+	4 Freeguild Marshal on Griffon
 	4 Fragile Peace
 [common(7)]
 	8 Skaven Clanrat
@@ -3219,7 +3219,7 @@
 	6 Curse of Years
 	6 Teclian Ladder
 	6 Mantle of Command
-	6 Bait and Trap
+	6 Freeguild Marshal on Griffon
 	2 Plague Priest
 	6 Fragile Peace
 	12 Terramorphic Expanse
@@ -3484,7 +3484,7 @@
 	15 Curse of Years
 	15 Teclian Ladder
 	15 Mantle of Command
-	15 Bait and Trap
+	15 Freeguild Marshal on Griffon
 	7 Plague Priest
 	15 Fragile Peace
 	6 Terramorphic Expanse

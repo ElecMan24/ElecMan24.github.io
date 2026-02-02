@@ -1204,7 +1204,7 @@
     "a->gold",
     {
         "card_name": "A Clash of Gods",
-        "number": 183,
+        "number": 182,
         "shape": "normal split",
         "set": "AoS",
         "position": "250"
@@ -1260,7 +1260,7 @@
     },
     {
         "card_name": "Bloodpelt Hunter",
-        "number": 179,
+        "number": 178,
         "shape": "normal",
         "set": "AoS",
         "position": "115"
@@ -1302,7 +1302,7 @@
     },
     {
         "card_name": "Freeguild Cavalier-Marshal",
-        "number": 188,
+        "number": 187,
         "shape": "normal",
         "set": "AoS",
         "position": "34"
@@ -1338,7 +1338,7 @@
     },
     {
         "card_name": "Braggoth Vardruk",
-        "number": 181,
+        "number": 180,
         "shape": "normal",
         "set": "AoS",
         "position": "145"
@@ -1352,7 +1352,7 @@
     },
     {
         "card_name": "Ellania and Ellathor, Warsages",
-        "number": 187,
+        "number": 186,
         "shape": "normal",
         "set": "AoS",
         "position": "70"
@@ -1429,7 +1429,7 @@
     },
     {
         "card_name": "Bone-Tithe Nexus",
-        "number": 180,
+        "number": 179,
         "shape": "normal",
         "set": "AoS",
         "position": "85"
@@ -1443,14 +1443,14 @@
     },
     {
         "card_name": "Blessing of the Gulping God",
-        "number": 178,
+        "number": 177,
         "shape": "normal",
         "set": "AoS",
         "position": "187"
     },
     {
         "card_name": "Castelite Formation",
-        "number": 182,
+        "number": 181,
         "shape": "normal",
         "set": "AoS",
         "position": "33"
@@ -1485,7 +1485,7 @@
     },
     {
         "card_name": "Dawnbringer Crusade",
-        "number": 185,
+        "number": 184,
         "shape": "saga",
         "set": "AoS",
         "position": "81"
@@ -1576,7 +1576,7 @@
     },
     {
         "card_name": "Cornered Rats",
-        "number": 184,
+        "number": 183,
         "shape": "normal",
         "set": "AoS",
         "position": "9"
@@ -1604,7 +1604,7 @@
     },
     {
         "card_name": "Drain Vitality",
-        "number": 186,
+        "number": 185,
         "shape": "normal",
         "set": "AoS",
         "position": "207"
@@ -1624,8 +1624,8 @@
         "position": "178"
     },
     {
-        "card_name": "Bait and Trap",
-        "number": 177,
+        "card_name": "Freeguild Marshal on Griffon",
+        "number": 188,
         "shape": "normal",
         "set": "AoS",
         "position": "264"
