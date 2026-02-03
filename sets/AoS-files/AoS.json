@@ -216,7 +216,7 @@
             "number": 41,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "[i]Ruination \u2014[/i] At the beginning of your upkeep, choose one, if the total mana value among cards in your graveyard is greater than or equal to 13 you may choose one or more instead.\n\u2022 Surveil 2\n\u2022 Target creature you control connives.",
+            "rules_text": "[i]Ruination \u2014[/i] At the beginning of your upkeep, choose one, if the total mana value among cards in your graveyard is greater than or equal to 13 you may choose one or more instead.\n\u2022 Surveil 1.\n\u2022 Target creature you control connives.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5389,5 +5389,5 @@
             "notes": "Cities of Sigmar\nNaya Uncommons\nRegiment Synergy"
         }
     ],
-    "version": 51
+    "version": 52
 }

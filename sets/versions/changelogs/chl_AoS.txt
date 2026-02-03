@@ -1,4 +1,17 @@
-﻿VERSION 51 CHANGELOG
+﻿VERSION 52 CHANGELOG
+====================
+
+
+
+Always Three Clawsteps Ahead
+rules_text: [i]Ruination —[/i] At the beginning of your upkeep, choose one, if the total mana value among cards in your graveyard is greater than or equal to 13 you may choose one or more instead.
+• Surveil 2
+• Target creature you control connives. => [i]Ruination —[/i] At the beginning of your upkeep, choose one, if the total mana value among cards in your graveyard is greater than or equal to 13 you may choose one or more instead.
+• Surveil 1.
+• Target creature you control connives.
+
+
+VERSION 51 CHANGELOG
 ====================
 
 
