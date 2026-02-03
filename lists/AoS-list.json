@@ -1,28 +1,28 @@
 ﻿[
     {
         "card_name": "Lyrior Uthralle",
-        "number": 19,
+        "number": 18,
         "shape": "normal",
         "set": "AoS",
         "position": "256"
     },
     {
         "card_name": "Vokmortain, Voice of Nagash",
-        "number": 69,
+        "number": 70,
         "shape": "normal",
         "set": "AoS",
         "position": "255"
     },
     {
         "card_name": "Krittok Foulblade",
-        "number": 87,
+        "number": 86,
         "shape": "normal",
         "set": "AoS",
         "position": "257"
     },
     {
         "card_name": "Gorlok Blackpowder",
-        "number": 117,
+        "number": 116,
         "shape": "normal",
         "set": "AoS",
         "position": "258"
@@ -35,11 +35,11 @@
         "position": "259"
     },
     {
-        "card_name": "Discipline of Champions",
-        "number": 9,
+        "card_name": "Freeguild Garrison",
+        "number": 10,
         "shape": "normal",
         "set": "AoS",
-        "position": "199"
+        "position": "30"
     },
     {
         "card_name": "Agents of Fate",
@@ -49,11 +49,11 @@
         "position": "195"
     },
     {
-        "card_name": "Cunning of Champions",
-        "number": 77,
+        "card_name": "Hell Pit Abomination",
+        "number": 84,
         "shape": "normal",
         "set": "AoS",
-        "position": "200"
+        "position": "16"
     },
     {
         "card_name": "Always More Bodies",
@@ -70,11 +70,11 @@
         "position": "93"
     },
     {
-        "card_name": "Freeguild Garrison",
-        "number": 11,
+        "card_name": "Path to Glory: Lumineth Realm-Lords",
+        "number": 23,
         "shape": "normal",
         "set": "AoS",
-        "position": "30"
+        "position": "199"
     },
     {
         "card_name": "Always Three Clawsteps Ahead",
@@ -84,11 +84,11 @@
         "position": "10"
     },
     {
-        "card_name": "Hell Pit Abomination",
-        "number": 85,
+        "card_name": "Liege Kavalos",
+        "number": 87,
         "shape": "normal",
         "set": "AoS",
-        "position": "16"
+        "position": "44"
     },
     {
         "card_name": "Brood Terror",
@@ -119,18 +119,18 @@
         "position": "86"
     },
     {
-        "card_name": "Liege Kavalos",
-        "number": 88,
+        "card_name": "Morghast Harbinger",
+        "number": 90,
         "shape": "normal",
         "set": "AoS",
-        "position": "44"
+        "position": "87"
     },
     {
-        "card_name": "Fury of Champions",
-        "number": 116,
-        "shape": "normal",
+        "card_name": "Head-on Collision",
+        "number": 117,
+        "shape": "normal split",
         "set": "AoS",
-        "position": "201"
+        "position": "19"
     },
     {
         "card_name": "Avalenor, Ancient Aelementor",
@@ -147,25 +147,25 @@
         "position": "244"
     },
     {
-        "card_name": "Perfect Scheme",
+        "card_name": "Path to Glory: Ossiarch Bonereapers",
         "number": 55,
         "shape": "normal",
         "set": "AoS",
-        "position": "246"
+        "position": "198"
     },
     {
-        "card_name": "Morghast Harbinger",
+        "card_name": "Mortisan Reconstruction",
         "number": 91,
         "shape": "normal",
         "set": "AoS",
-        "position": "87"
+        "position": "139"
     },
     {
-        "card_name": "Head-on Collision",
-        "number": 118,
-        "shape": "normal split",
+        "card_name": "Ironweld Cogfort",
+        "number": 121,
+        "shape": "normal",
         "set": "AoS",
-        "position": "19"
+        "position": "107"
     },
     {
         "card_name": "Cyclic Shifts",
@@ -182,32 +182,32 @@
         "position": "61"
     },
     {
-        "card_name": "Vanari Lord Regent on Lightcourser",
-        "number": 67,
+        "card_name": "Perfect Scheme",
+        "number": 56,
         "shape": "normal",
         "set": "AoS",
-        "position": "130"
+        "position": "246"
     },
     {
-        "card_name": "Mortisan Reconstruction",
-        "number": 92,
+        "card_name": "Path to Glory: Skaven",
+        "number": 96,
         "shape": "normal",
         "set": "AoS",
-        "position": "139"
+        "position": "200"
     },
     {
-        "card_name": "Ironweld Cogfort",
-        "number": 122,
+        "card_name": "Path to Glory: Ogor Mawtribes",
+        "number": 129,
         "shape": "normal",
         "set": "AoS",
-        "position": "107"
+        "position": "201"
     },
     {
-        "card_name": "Scourging of Ghyran",
-        "number": 165,
+        "card_name": "Path to Glory: Cities of Sigmar",
+        "number": 162,
         "shape": "normal",
         "set": "AoS",
-        "position": "247"
+        "position": "192"
     },
     {
         "card_name": "Shining Company",
@@ -217,11 +217,11 @@
         "position": "121"
     },
     {
-        "card_name": "Wisdom of Champions",
-        "number": 70,
+        "card_name": "Vanari Lord Regent on Lightcourser",
+        "number": 68,
         "shape": "normal",
         "set": "AoS",
-        "position": "198"
+        "position": "130"
     },
     {
         "card_name": "Power Struggle",
@@ -238,11 +238,11 @@
         "position": "190"
     },
     {
-        "card_name": "Vigor of Champions",
-        "number": 169,
+        "card_name": "Scourging of Ghyran",
+        "number": 166,
         "shape": "normal",
         "set": "AoS",
-        "position": "192"
+        "position": "247"
     },
     {
         "card_name": "Celestial Battlemage",
@@ -281,7 +281,7 @@
     },
     {
         "card_name": "Freeguild Marshal",
-        "number": 12,
+        "number": 11,
         "shape": "normal",
         "set": "AoS",
         "position": "29"
@@ -316,7 +316,7 @@
     },
     {
         "card_name": "Hurakan Windcharger",
-        "number": 14,
+        "number": 13,
         "shape": "normal",
         "set": "AoS",
         "position": "90"
@@ -330,7 +330,7 @@
     },
     {
         "card_name": "Endless Tides of Vermin",
-        "number": 80,
+        "number": 79,
         "shape": "normal",
         "set": "AoS",
         "position": "232"
@@ -351,7 +351,7 @@
     },
     {
         "card_name": "Hurakan Windmage",
-        "number": 15,
+        "number": 14,
         "shape": "normal",
         "set": "AoS",
         "position": "100"
@@ -365,7 +365,7 @@
     },
     {
         "card_name": "Gothizzar Harvester",
-        "number": 83,
+        "number": 82,
         "shape": "normal",
         "set": "AoS",
         "position": "23"
@@ -386,7 +386,7 @@
     },
     {
         "card_name": "Light of the True Moon",
-        "number": 17,
+        "number": 16,
         "shape": "normal",
         "set": "AoS",
         "position": "99"
@@ -400,7 +400,7 @@
     },
     {
         "card_name": "Grisly Repast",
-        "number": 84,
+        "number": 83,
         "shape": "normal",
         "set": "AoS",
         "position": "182"
@@ -421,7 +421,7 @@
     },
     {
         "card_name": "Lines of Communication",
-        "number": 18,
+        "number": 17,
         "shape": "normal split",
         "set": "AoS",
         "position": "235"
@@ -435,7 +435,7 @@
     },
     {
         "card_name": "Lode of Saturation",
-        "number": 89,
+        "number": 88,
         "shape": "normal",
         "set": "AoS",
         "position": "181"
@@ -456,7 +456,7 @@
     },
     {
         "card_name": "Marrowpact",
-        "number": 20,
+        "number": 19,
         "shape": "normal",
         "set": "AoS",
         "position": "45"
@@ -470,14 +470,14 @@
     },
     {
         "card_name": "The Lurkers Below",
-        "number": 90,
+        "number": 89,
         "shape": "normal split",
         "set": "AoS",
         "position": "233"
     },
     {
         "card_name": "Icebrow Hunter",
-        "number": 120,
+        "number": 119,
         "shape": "normal",
         "set": "AoS",
         "position": "226"
@@ -491,7 +491,7 @@
     },
     {
         "card_name": "Mortisan Boneshaper",
-        "number": 22,
+        "number": 21,
         "shape": "normal",
         "set": "AoS",
         "position": "46"
@@ -505,14 +505,14 @@
     },
     {
         "card_name": "Mortisan Soulreaper",
-        "number": 93,
+        "number": 92,
         "shape": "normal",
         "set": "AoS",
         "position": "47"
     },
     {
         "card_name": "Ironweld Great Cannon",
-        "number": 123,
+        "number": 122,
         "shape": "normal",
         "set": "AoS",
         "position": "112"
@@ -526,28 +526,28 @@
     },
     {
         "card_name": "Move Like the Wind",
-        "number": 23,
+        "number": 22,
         "shape": "normal",
         "set": "AoS",
         "position": "71"
     },
     {
         "card_name": "Scinari Brilliance",
-        "number": 57,
+        "number": 58,
         "shape": "normal",
         "set": "AoS",
         "position": "75"
     },
     {
         "card_name": "Offering to the Horned Rat",
-        "number": 94,
+        "number": 93,
         "shape": "normal",
         "set": "AoS",
         "position": "231"
     },
     {
         "card_name": "March of the Dawners",
-        "number": 124,
+        "number": 123,
         "shape": "normal",
         "set": "AoS",
         "position": "117"
@@ -568,7 +568,7 @@
     },
     {
         "card_name": "Scinari Enlightener",
-        "number": 58,
+        "number": 59,
         "shape": "normal",
         "set": "AoS",
         "position": "59"
@@ -582,14 +582,14 @@
     },
     {
         "card_name": "Meeting of Marshals",
-        "number": 125,
+        "number": 124,
         "shape": "normal",
         "set": "AoS",
         "position": "205"
     },
     {
         "card_name": "Roiling Roots",
-        "number": 164,
+        "number": 165,
         "shape": "normal split",
         "set": "AoS",
         "position": "124"
@@ -603,7 +603,7 @@
     },
     {
         "card_name": "Total Eclipse",
-        "number": 63,
+        "number": 64,
         "shape": "normal",
         "set": "AoS",
         "position": "142"
@@ -617,14 +617,14 @@
     },
     {
         "card_name": "Ogor Firebelly",
-        "number": 127,
+        "number": 126,
         "shape": "normal",
         "set": "AoS",
         "position": "214"
     },
     {
         "card_name": "Stonehorn Beastrider",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "AoS",
         "position": "184"
@@ -638,7 +638,7 @@
     },
     {
         "card_name": "Travel the Waterways",
-        "number": 64,
+        "number": 65,
         "shape": "normal",
         "set": "AoS",
         "position": "91"
@@ -659,7 +659,7 @@
     },
     {
         "card_name": "Trampling Charge",
-        "number": 167,
+        "number": 168,
         "shape": "normal",
         "set": "AoS",
         "position": "221"
@@ -771,7 +771,7 @@
     },
     {
         "card_name": "Excelsior Warpriest",
-        "number": 10,
+        "number": 9,
         "shape": "normal",
         "set": "AoS",
         "position": "236"
@@ -806,7 +806,7 @@
     },
     {
         "card_name": "Freeguild Steelhelm",
-        "number": 13,
+        "number": 12,
         "shape": "normal",
         "set": "AoS",
         "position": "24"
@@ -820,7 +820,7 @@
     },
     {
         "card_name": "Devious Schemes",
-        "number": 78,
+        "number": 77,
         "shape": "normal",
         "set": "AoS",
         "position": "5"
@@ -841,7 +841,7 @@
     },
     {
         "card_name": "Kavalos Lance",
-        "number": 16,
+        "number": 15,
         "shape": "normal",
         "set": "AoS",
         "position": "54"
@@ -855,14 +855,14 @@
     },
     {
         "card_name": "Eat your Fill!",
-        "number": 79,
+        "number": 78,
         "shape": "normal",
         "set": "AoS",
         "position": "238"
     },
     {
         "card_name": "Hire Muscle",
-        "number": 119,
+        "number": 118,
         "shape": "normal",
         "set": "AoS",
         "position": "242"
@@ -876,7 +876,7 @@
     },
     {
         "card_name": "Mortek Guard",
-        "number": 21,
+        "number": 20,
         "shape": "normal",
         "set": "AoS",
         "position": "22"
@@ -890,14 +890,14 @@
     },
     {
         "card_name": "Eshin Surprise",
-        "number": 81,
+        "number": 80,
         "shape": "normal",
         "set": "AoS",
         "position": "7"
     },
     {
         "card_name": "Ironblaster's Hail Shot",
-        "number": 121,
+        "number": 120,
         "shape": "normal",
         "set": "AoS",
         "position": "194"
@@ -918,21 +918,21 @@
     },
     {
         "card_name": "Reform Ranks",
-        "number": 56,
+        "number": 57,
         "shape": "normal",
         "set": "AoS",
         "position": "38"
     },
     {
         "card_name": "Gnoblar",
-        "number": 82,
+        "number": 81,
         "shape": "normal",
         "set": "AoS",
         "position": "186"
     },
     {
         "card_name": "Officer's Stratagem",
-        "number": 126,
+        "number": 125,
         "shape": "normal",
         "set": "AoS",
         "position": "240"
@@ -953,21 +953,21 @@
     },
     {
         "card_name": "Skilled Manipulation",
-        "number": 59,
+        "number": 60,
         "shape": "normal",
         "set": "AoS",
         "position": "228"
     },
     {
         "card_name": "Kavalos Deathrider",
-        "number": 86,
+        "number": 85,
         "shape": "normal",
         "set": "AoS",
         "position": "43"
     },
     {
         "card_name": "Ogor Ironblaster",
-        "number": 128,
+        "number": 127,
         "shape": "normal",
         "set": "AoS",
         "position": "179"
@@ -988,21 +988,21 @@
     },
     {
         "card_name": "Teclian Meditation",
-        "number": 60,
+        "number": 61,
         "shape": "normal",
         "set": "AoS",
         "position": "189"
     },
     {
         "card_name": "Ogor Glutton",
-        "number": 95,
+        "number": 94,
         "shape": "normal",
         "set": "AoS",
         "position": "20"
     },
     {
         "card_name": "Ogor Leadbelcher",
-        "number": 129,
+        "number": 128,
         "shape": "normal",
         "set": "AoS",
         "position": "109"
@@ -1023,14 +1023,14 @@
     },
     {
         "card_name": "Tetratic Cohort",
-        "number": 61,
+        "number": 62,
         "shape": "normal",
         "set": "AoS",
         "position": "35"
     },
     {
         "card_name": "On the Mawpath",
-        "number": 96,
+        "number": 95,
         "shape": "normal",
         "set": "AoS",
         "position": "193"
@@ -1058,7 +1058,7 @@
     },
     {
         "card_name": "Too Quick to Hit-Hit",
-        "number": 62,
+        "number": 63,
         "shape": "normal",
         "set": "AoS",
         "position": "204"
@@ -1079,7 +1079,7 @@
     },
     {
         "card_name": "Realmscribe's Mark",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "AoS",
         "position": "73"
@@ -1093,7 +1093,7 @@
     },
     {
         "card_name": "Unbind",
-        "number": 65,
+        "number": 66,
         "shape": "normal",
         "set": "AoS",
         "position": "140"
@@ -1114,7 +1114,7 @@
     },
     {
         "card_name": "Ribcracker",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "AoS",
         "position": "218"
@@ -1128,7 +1128,7 @@
     },
     {
         "card_name": "Vanari Dawnrider",
-        "number": 66,
+        "number": 67,
         "shape": "normal",
         "set": "AoS",
         "position": "57"
@@ -1149,7 +1149,7 @@
     },
     {
         "card_name": "Vanari Auralan Sentinel",
-        "number": 168,
+        "number": 169,
         "shape": "normal",
         "set": "AoS",
         "position": "56"
@@ -1163,7 +1163,7 @@
     },
     {
         "card_name": "Vermin's Cunning",
-        "number": 68,
+        "number": 69,
         "shape": "normal",
         "set": "AoS",
         "position": "227"

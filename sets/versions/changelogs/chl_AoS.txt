@@ -1,4 +1,153 @@
-﻿VERSION 48 CHANGELOG
+﻿VERSION 49 CHANGELOG
+====================
+
+Path to Glory: Cities of Sigmar added.
+Path to Glory: Ossiarch Bonereapers added.
+Path to Glory: Lumineth Realm-Lords added.
+Path to Glory: Skaven added.
+Path to Glory: Ogor Mawtribes added.
+
+Vigor of Champions removed.
+Wisdom of Champions removed.
+Discipline of Champions removed.
+Cunning of Champions removed.
+Fury of Champions removed.
+
+Hell Pit Abomination
+rules_text: Menace
+When this creature dies, create X 1/1 black Rat creature tokens with “This token can't block,” where X half this creature's power, rounded up.
+Sacrifice a nonland permanent: Monstrosity X, where X is the sacrificed permanent's mana value. X can't be 0. => Menace
+When this creature dies, create X 1/1 black Rat creature tokens with “This token can't block,” where X half this creature's power, rounded up.
+Sacrifice a nonland permanent: Monstrosity X, where X is the sacrificed permanent's mana value.
+
+Ogor Glutton
+rules_text: Squad {3}{B}
+Menace
+Engorge — {3}{B}: This creature gets +2/+2 until end of turn. Activate only during your turn and only once each turn. [i](You may activate this ability by sacrificing another permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i] => Squad {3}{B}
+Menace
+Engorge — {3}{B}: This creature gets +2/+2 until end of turn. Activate only during your turn and only once each turn. [i](While paying an engorge cost, you can sacrifice a permanent to help. If you do, pay the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]
+
+Scinari Enlightener
+
+Sevireth, Wind Lord
+cost: {6}{W}{W} => {5}{W}{W}
+pt: 5/4 => 4/4
+
+Amber Battlemage
+pt: 5/5 => 4/4
+
+Celestial Battlemage
+rules_text: When this creature enters, exile up to two target cards from a single graveyard.
+Regiment {2}{W}: Tap target creature. Activate only once each turn. => When this creature enters, exile up to two target cards from a single graveyard.
+Regiment {1}{W}: Tap target creature. Activate only once each turn.
+
+Hurakan Wind Spirit
+pt: 4/3 => 4/4
+
+Hurakan Windcharger
+rules_text: Squad {2}{W}
+Whenever this creature becomes tapped, target creature you control gains flying until end of turn. => Squad {3}{W}
+Convoke
+Flying
+
+Ocari Dara, Spirefall
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token with vigilance.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token with vigilance.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke.
+
+Ogor Leadbelcher
+rules_text: Squad {2}{R}
+Reach
+Engorge — {3}{R}: This creature deals 2 damage to each opponent. Activate only during your turn and only once each turn. [i](You may activate this ability by sacrificing another permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i] => Squad {2}{R}
+Reach
+Engorge — {3}{R}: This creature deals 2 damage to each opponent. Activate only during your turn and only once each turn. [i](While paying an engorge cost, you can sacrifice a permanent to help. If you do, pay the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]
+
+Mournfang Rider
+rules_text: Trample
+Engorge — {3}{G}: Put two +1/+1 counters on this creature. [i](You may activate this ability by sacrificing another permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i] => Trample
+Engorge — {3}{G}: Put two +1/+1 counters on this creature. [i](While paying an engorge cost, you can sacrifice a permanent to help. If you do, pay the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]
+
+Coin Malleus
+rules_text: Coin Malleus enters tapped.
+{T}, Sacrifice Coin Malleus: Add one mana of any color.
+{3}, {T}, Sacrifice Coin Malleus: Search your library for a land card, reveal it, put it into your hand, then shuffle. => {T}, Sacrifice Coin Malleus: Create a tapped Treasure token.
+{3}, {T}, Sacrifice Coin Malleus: Search your library for a land card, reveal it, put it into your hand, then shuffle.
+
+Lumineth Sanctuary
+rules_text: When this artifact enters, search your library for a basic Forest, Plains, or Island card, reveal it, put it into your hand, then shuffle.
+{3}{G}{W}{U}, {T}, Sacrifice this artifact: Create a 5/5 green Elemental Spirit creature token with vigilance. Activate only as a sorcery. => When this artifact enters, search your library for a basic Forest, Plains, or Island card, reveal it, put it into your hand, then shuffle.
+{3}{G}{W}{U}, {T}, Sacrifice this artifact: Create a 4/4 blue and green Elemental Spirit creature token with flying. Activate only as a sorcery.
+
+Mortisan Reconstruction
+rules_text: As an additional cost to cast this spell, sacrifice a permanent.
+Return target nonlegendary creature or artifact card from your graveyard to the battlefield. => As an additional cost to cast this spell, sacrifice a nonland permanent.
+Return target nonlegendary creature or artifact card from your graveyard to the battlefield.
+
+Globb Glittermaw
+rules_text: Trample
+Whenever you sacrifice a permanent with mana value 1 or greater, you may return target permanent card with lesser mana value from your graveyard to the battlefield tapped. This ability triggers only once each turn.
+Engorge — {1}{B}{R}{G}: Draw a card and put two +1/+1 counters on this creature. Activate only once each turn. => Trample
+Whenever you sacrifice a permanent, you may return target permanent card with lesser mana value from your graveyard to the battlefield tapped. This ability triggers only once each turn.
+Engorge — {1}{B}{R}{G}: Draw a card and put two +1/+1 counters on this creature. Activate only once each turn.
+
+Fusil-cannon
+rules_text: Equipped creature gets +2/+2.
+Whenever equipped creature attacks, if you control a battle, untap it at end of turn.
+Equip {1}{G} => Equipped creature gets +1/+1.
+At the end of combat on your turn, untap equipped creature if you control a battle.
+Equip {1}{G}
+
+Deflect Blame
+rules_text: As an additional cost to cast this spell, discard a card or pay {3}.
+Change the target of target spell or ability with a single target. => As an additional cost to cast this spell, discard a card or pay {3}.
+Change the target of target spell or ability.
+
+Better Part of Valor
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters on it.)[/i]
+Whenever you attack, you may exile target nontoken creature you control, if you do, exile target nontoken creature you don't control. Return those cards to the battlefield under their owner's control at the beginning of the next end step. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters on it.)[/i]
+Whenever you attack, you may exile target nontoken creature you control, if you do, exile target creature you don't control. Return those cards to the battlefield under their owner's control at the beginning of the next end step.
+
+A Clash of Gods
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Lumineth or Ossiarch.
+Lumineth — Creatures you control have ward {2}.
+Ossiarch — Whenever a creature you control leaves the battlefield during your turn, tap up to one target creature you don't control. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Lumineth or Ossiarch.
+Lumineth — Whenever one or more creatures you control with mana value 1 or greater enter, create a 2/2 blue Elf Knight creature token with vigilance.
+Ossiarch — Whenever a creature you control leaves the battlefield during your turn, tap up to one target creature you don't control.
+
+Lyrior Uthralle
+rules_text: First strike, flanking [i](Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)[/i]
+Whenever Lyrior deals combat damage to a payer or battle create that many 1/1 white Elf Soldier creature tokens.
+[i]Voice of Tyrion[/i] — Whenever this creature enters or becomes tapped, creatures you control gain flanking until end of turn. => First strike, flanking [i](Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)[/i]
+Whenever Lyrior deals combat damage to a player or battle create that many 1/1 white Elf Soldier creature tokens.
+[i]Voice of Tyrion[/i] — Whenever this creature enters or becomes tapped, creatures you control gain flanking until end of turn.
+
+Teclian Ladder
+rules_text: Whenever you cast a spell that has convoke, put an enlightenment counter on this enchantment.
+Remove two enlightenment counters from this enchantment: Create a 5/5 green Elemental Spirit creature token with vigilance. Activate only once each turn. => Whenever you cast a spell that has convoke, put an enlightenment counter on this enchantment.
+Remove two enlightenment counters from this enchantment: Create a 4/4 blue and green Elemental Spirit creature token with flying. Activate only during your turn and only once each turn.
+
+Mantle of Command
+rules_text: Enchant creature
+Enchanted creature has Battle Cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Enchanted creature has “Whenever this creature attacks, create two 1/1 red Human Soldier creature tokens that are tapped and attacking.” => Enchant creature
+Enchanted creature has Battle cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Enchanted creature has “Whenever this creature attacks, create two 1/1 red Human Soldier creature tokens that are tapped and attacking.”
+
+
+VERSION 48 CHANGELOG
 ====================
 
 
