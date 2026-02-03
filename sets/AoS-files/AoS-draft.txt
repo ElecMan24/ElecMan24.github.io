@@ -2641,23 +2641,13 @@
 			}
 		},
 		{
-			"name": "Freeguild Marshal on Griffon",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{G}{W}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "188",
-			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/264.png"
-			}
-		},
-		{
 			"name": "Plague Priest",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Creature — Rat Cleric",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/265.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/264.png"
 			}
 		},
 		{
@@ -2667,7 +2657,7 @@
 			"type": "Sorcery",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/266.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/265.png"
 			}
 		},
 		{
@@ -2677,7 +2667,7 @@
 			"type": "Land",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/267.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/266.png"
 			}
 		},
 		{
@@ -2686,6 +2676,16 @@
 			"mana_cost": "{1}{B}",
 			"type": "Artifact",
 			"collector_number": "72",
+			"image_uris": {
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/267.png"
+			}
+		},
+		{
+			"name": "Freeguild Marshal on Griffon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/268.png"
 			}
@@ -2873,8 +2873,8 @@
 	4 Curse of Years
 	4 Teclian Ladder
 	4 Mantle of Command
-	4 Freeguild Marshal on Griffon
 	4 Fragile Peace
+	4 Freeguild Marshal on Griffon
 [common(7)]
 	8 Skaven Clanrat
 	8 Stormvermin
@@ -3219,11 +3219,11 @@
 	6 Curse of Years
 	6 Teclian Ladder
 	6 Mantle of Command
-	6 Freeguild Marshal on Griffon
 	2 Plague Priest
 	6 Fragile Peace
 	12 Terramorphic Expanse
 	12 Balefire Brazier
+	6 Freeguild Marshal on Griffon
 [wildcard(1)]
 	6 Skaven Clanrat
 	6 Stormvermin
@@ -3484,8 +3484,8 @@
 	15 Curse of Years
 	15 Teclian Ladder
 	15 Mantle of Command
-	15 Freeguild Marshal on Griffon
 	7 Plague Priest
 	15 Fragile Peace
 	6 Terramorphic Expanse
 	6 Balefire Brazier
+	15 Freeguild Marshal on Griffon

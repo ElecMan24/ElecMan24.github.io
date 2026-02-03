@@ -1,4 +1,58 @@
-﻿VERSION 46 CHANGELOG
+﻿VERSION 47 CHANGELOG
+====================
+
+
+
+Dawnbringer Crusade
+rules_text: 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+special_text: 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+
+Ocari Dara, Spirefall
+rules_text: 
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token with vigilance.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token with vigilance.
+III — Permanent spells you cast this turn have convoke.
+special_text: 
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token with vigilance.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 5/5 green Elemental Spirit creature token with vigilance.
+III — Permanent spells you cast this turn have convoke.
+
+Plague Priest
+
+Fragile Peace
+
+Terramorphic Expanse
+
+Balefire Brazier
+
+Freeguild Marshal on Griffon
+rules_text: Flying
+Battle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+[i]Tactical Acumen[/i] — Regiment {2}{R}: Target creature can't block this turn. => Flying
+Battle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i] [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Tactical Acumen — Regiment {2}{R}: Target creature can't block this turn.
+pt: 4/4 => 
+
+
+VERSION 46 CHANGELOG
 ====================
 
 
