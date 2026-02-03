@@ -1,4 +1,12 @@
-﻿VERSION 47 CHANGELOG
+﻿VERSION 48 CHANGELOG
+====================
+
+
+
+Freeguild Marshal on Griffon
+
+
+VERSION 47 CHANGELOG
 ====================
 
 
