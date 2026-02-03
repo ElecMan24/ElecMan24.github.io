@@ -1,4 +1,20 @@
-﻿VERSION 49 CHANGELOG
+﻿VERSION 50 CHANGELOG
+====================
+
+
+
+Skaven Warren
+rules_text: When this artifact enters, search your library for a basic Island, Swamp, or Mountain card, reveal it, put it into your hand, then shuffle.
+{2}{U}{B}{R}, {T}, Sacrifice this artifact: Create four 1/1 black Rat creature tokens with “This token can't block.” They gain menace and haste until end of turn. Activate only as a sorcery. => When this artifact enters, search your library for a basic Island, Swamp, or Mountain card, reveal it, put it into your hand, then shuffle.
+{2}{U}{B}{R}, {T}, Sacrifice this artifact: Create four 1/1 black Rat Peasant creature tokens with “This token can't block.” They gain menace and haste until end of turn. Activate only as a sorcery.
+
+Ghur's Truth
+rules_text: Target creature fights target creature you don't control.
+Create a Food token. => Target creature you control fights target creature you don't control.
+Create a Food token.
+
+
+VERSION 49 CHANGELOG
 ====================
 
 Path to Glory: Cities of Sigmar added.
