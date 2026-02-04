@@ -1,4 +1,16 @@
-﻿VERSION 52 CHANGELOG
+﻿VERSION 53 CHANGELOG
+====================
+
+
+
+Katakros, Mortarch of the Necropolis
+rules_text: First strike, vigilance
+[i]Supreme Commander of the Bonereaper Legions[/i] — Whenever Katakros attacks, you may sacrifice a creature or artifact you control, if you do, return up to two artifact and/or creature cards from your graveyard to the battlefield with total mana value X or less, where X is 1 plus the sacrificed permanent's mana value. => First strike, vigilance
+[i]Supreme Commander of the Bonereaper Legions[/i] — Whenever Katakros enters or attacks, you may sacrifice a creature or artifact you control, if you do, return up to two artifact and/or creature cards from your graveyard to the battlefield with total mana value X or less, where X is 1 plus the sacrificed permanent's mana value.
+pt: 5/6 => 5/5
+
+
+VERSION 52 CHANGELOG
 ====================
 
 
