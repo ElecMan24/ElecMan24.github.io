@@ -1,4 +1,12 @@
-﻿VERSION 55 CHANGELOG
+﻿VERSION 56 CHANGELOG
+====================
+
+
+
+Unleash the Great Plagues!
+
+
+VERSION 55 CHANGELOG
 ====================
 
 Unleash the Great Plagues! added.
