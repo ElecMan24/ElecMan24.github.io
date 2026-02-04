@@ -33,7 +33,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Rat Soldier",
-            "number": 102,
+            "number": 101,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Squad {2}{B}\n[i]Ruination[/i] \u2014 This creature has +1/+1 and menace if the total mana value among cards in your graveyard is greater than or equal to 13.",
@@ -173,7 +173,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Rat Warrior",
-            "number": 99,
+            "number": 98,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "[i]Ruination[/i] \u2014 Whenever you sacrifice another permanent with mana value 1 or greater, create a 1/1 black Rat Peasant creature token with \u201cThis token can't block.\u201d If the total mana value among cards in your graveyard is greater than or equal to 13, create two of those tokens instead.",
@@ -413,7 +413,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Ogre Mercenary",
-            "number": 94,
+            "number": 93,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Squad {3}{B}\nMenace\nEngorge \u2014 {3}{B}: This creature gets +2/+2 until end of turn. Activate only during your turn and only once each turn. [i](As you activate this ability, you may sacrifice another nonland permanent and pay the engorge cost reduced by that permanent's mana cost. Mana cost includes color.)[/i]",
@@ -986,7 +986,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "48",
-            "notes": "Ossiarch Bonereapers\nDiscard/Graveyard Synergy\nFlicker Synergy"
+            "notes": "Ossiarch Bonereapers\nFlicker Synergy\nEchoing Removal"
         },
         {
             "card_name": "Counter Strike",
@@ -1706,7 +1706,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "84",
-            "notes": "Cities of Sigmar"
+            "notes": "Cities of Sigmar\nEchoing Removal\nRegiment Synergy"
         },
         {
             "card_name": "Bone-Tithe Nexus",
@@ -1766,7 +1766,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "87",
-            "notes": "Ossiarch Bonereapers"
+            "notes": "Ossiarch Bonereapers\nEchoing Removal"
         },
         {
             "card_name": "Alarith Mountain Spirit",
@@ -2453,7 +2453,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Battle \u2014 Control Point",
-            "number": 97,
+            "number": 96,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "[i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters on it.)[/i]\nWhenever you attack, you may sacrifice a permanent with mana value 1 or greater, if you do, put two +1/+1 counters on target creature you control.",
@@ -2753,7 +2753,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Rat Monk",
-            "number": 101,
+            "number": 100,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]\n[i]Ruination[/i] \u2014 This creature has deathtouch if the total mana value among cards in your graveyard is greater than or equal to 13.",
@@ -3453,7 +3453,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Rat Assassin",
-            "number": 100,
+            "number": 99,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "[i]Ruination[/i] \u2014 This spell has flash as long as the total mana value among cards in your graveyard is greater than or equal to 13.\nWhen this creature enters, destroy target creature an opponent controls.",
@@ -3533,7 +3533,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 98,
+            "number": 97,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Until end of turn, target creature gets +2/+0 and gains \u201cWhen this creature dies, return it to the battlefield tapped under its owner's control and you create a Food token.\u201d",
@@ -3586,7 +3586,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "178",
-            "notes": "Ogor Mawtribes\nEngorge Synergy"
+            "notes": "Ogor Mawtribes\nEchoing Removal\nEngorge Synergy"
         },
         {
             "card_name": "Mortis Reapers",
@@ -3853,7 +3853,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 95,
+            "number": 94,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature or artifact.\nYou gain life equal to the sacrificed permanent's mana value. Draw two cards.",
@@ -3993,7 +3993,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 96,
+            "number": 95,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Whenever you sacrifice one or more permanents with mana value 1 or greater, put a quest counter on this enchantment.\nAt the beginning of your end step, if this enchantment has three or more quest counters on it, return target nonland permanent card from your graveyard to your hand.",
@@ -4609,26 +4609,6 @@
             "notes": "Battles"
         },
         {
-            "card_name": "Offering to the Horned Rat",
-            "color": "B",
-            "rarity": "uncommon",
-            "type": "Sorcery",
-            "number": 93,
-            "color_identity": "B",
-            "cost": "{4}{B}",
-            "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nTarget creature you control connives X times, where X is one plus the sacrificed creature's mana value.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AoS",
-            "loyalty": "",
-            "artist": "Games Workshop",
-            "alias": "",
-            "position": "230",
-            "notes": "Skaven"
-        },
-        {
             "card_name": "Endless Tides of Vermin",
             "color": "B",
             "rarity": "uncommon",
@@ -4645,7 +4625,7 @@
             "loyalty": "",
             "artist": "Max FitzGerald",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "notes": "Skaven\nDiscard/Graveyard Synergy"
         },
         {
@@ -4665,7 +4645,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "notes": "Battles"
         },
         {
@@ -4685,7 +4665,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "233",
+            "position": "232",
             "notes": "Battles"
         },
         {
@@ -4705,7 +4685,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "notes": "Battles"
         },
         {
@@ -4725,7 +4705,7 @@
             "loyalty": "",
             "artist": "Rafater",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "notes": "Cities of Sigmar\nTap/Untap Synergy"
         },
         {
@@ -4745,7 +4725,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -4765,7 +4745,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "notes": "Ogor Mawtribes"
         },
         {
@@ -4785,7 +4765,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "notes": "Cities of Sigmar"
         },
         {
@@ -4805,7 +4785,7 @@
             "loyalty": "",
             "artist": "Andrew Lowry",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "notes": "Cities of Sigmar"
         },
         {
@@ -4825,7 +4805,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "notes": "Skaven\nDiscard/Graveyard Synergy\nSacrifice Synergy(Kinda)"
         },
         {
@@ -4845,7 +4825,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "241",
+            "position": "240",
             "notes": "Faction Agnostic Cards(Kinda)"
         },
         {
@@ -4865,7 +4845,7 @@
             "loyalty": "",
             "artist": "Andrew Lowry",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "notes": "Cities of Sigmar\nMana Value Matters Synergy"
         },
         {
@@ -4885,7 +4865,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "243",
+            "position": "242",
             "notes": "Lumineth Realm-Lords"
         },
         {
@@ -4905,7 +4885,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -4925,7 +4905,7 @@
             "loyalty": "",
             "artist": "Tze Kun Chin \u9648\u5fd7\u5803",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "notes": "Skaven"
         },
         {
@@ -4945,7 +4925,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "notes": "Cities of Sigmar\nActivated Ability Synergy"
         },
         {
@@ -4965,7 +4945,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "247",
+            "position": "246",
             "notes": "Cities of Sigmar\nActivated Ability Synergy\nTap/Untap Synergy"
         },
         {
@@ -4975,8 +4955,8 @@
             "type": "Sorcery",
             "number": 144,
             "color_identity": "G",
-            "cost": "{2}{G}",
-            "rules_text": "Target creature you control gets +X/+X until end of turn, where X is its mana value. It deals damage equal to its power to target creature you don't control.",
+            "cost": "{3}{G}",
+            "rules_text": "Target creature you control gets +3/+3 until end of turn. It deals damage equal to its power to target creature you don't control and all other creatures with the same name as that creature.",
             "flavor_text": "[i]Some Ogors cursed by the Everwinter have learned to make its ceaseless chill into a deadly weapon. [/i]",
             "pt": "",
             "special_text": "",
@@ -4985,8 +4965,8 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "248",
-            "notes": "Ogor Mawtribes\nMana Value Matters Synergy"
+            "position": "247",
+            "notes": "Ogor Mawtribes\nEchoing Removal\nMana Value Matters Synergy"
         },
         {
             "card_name": "A Clash of Gods",
@@ -5005,7 +4985,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "notes": "Battles\nAzorius Rare"
         },
         {
@@ -5025,7 +5005,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "notes": "Battles\nDimir Rare"
         },
         {
@@ -5045,7 +5025,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "notes": "Battles\nRakdos Rare"
         },
         {
@@ -5065,7 +5045,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "notes": "Battles\nGruul Rare"
         },
         {
@@ -5085,7 +5065,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "notes": "Battles\nSylesnea Rare"
         },
         {
@@ -5105,7 +5085,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -5125,7 +5105,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "notes": "Lumineth Realm-Lords"
         },
         {
@@ -5145,7 +5125,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "notes": "Skaven"
         },
         {
@@ -5165,7 +5145,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "notes": ""
         },
         {
@@ -5185,7 +5165,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "notes": "Cities of Sigmar"
         },
         {
@@ -5205,7 +5185,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -5225,7 +5205,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -5245,7 +5225,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "notes": "Lumineth Realm-Lords\nBant Uncommons"
         },
         {
@@ -5265,7 +5245,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "notes": "Cities of Sigmar\nNaya Uncommons"
         },
         {
@@ -5285,7 +5265,7 @@
             "loyalty": "",
             "artist": "Jon Cave",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "notes": "Skaven"
         },
         {
@@ -5305,7 +5285,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "notes": "Faction Agnostic Cards\nBattle Hate"
         },
         {
@@ -5325,7 +5305,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "notes": ""
         },
         {
@@ -5345,7 +5325,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "notes": "Ossiarch Bonereapers\nReconstruct Synergy\nSacrifice Synergy"
         },
         {
@@ -5365,7 +5345,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "notes": "Cities of Sigmar\nNaya Uncommons\nRegiment Synergy"
         },
         {
@@ -5385,9 +5365,29 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "notes": "Cities of Sigmar"
+        },
+        {
+            "card_name": "Unleash the Great Plagues!",
+            "color": "B",
+            "rarity": "uncommon",
+            "type": "Instant",
+            "number": 102,
+            "color_identity": "B",
+            "cost": "{3}{B}",
+            "rules_text": "Target creature and all other creatures with the same name as that creature get -4/-4 until end of turn.",
+            "flavor_text": "[i]\u201cIt is now moment-time! Soon feeble man-things will crumble before Pestilens' might-strength!\u201d[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AoS",
+            "loyalty": "",
+            "artist": "Games Workshop",
+            "alias": "",
+            "position": "268",
+            "notes": "Skaven\nEchoing Removal"
         }
     ],
-    "version": 54
+    "version": 55
 }

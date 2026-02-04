@@ -1,4 +1,98 @@
-﻿VERSION 54 CHANGELOG
+﻿VERSION 55 CHANGELOG
+====================
+
+Unleash the Great Plagues! added.
+
+Offering to the Horned Rat removed.
+
+Mortisan Ossifector
+
+Celestial Battlemage
+
+Morghast Harbinger
+
+Ogor Ironblaster
+
+Endless Tides of Vermin
+
+The Lurkers Below
+
+Power in Numbers
+
+Lines of Communication
+
+Excelsior Warpriest
+
+Protection of Nagash
+
+Eat your Fill!
+
+Freeguild Command Corps
+
+Officer's Stratagem
+
+Skryre Inginuity
+
+Hire Muscle
+
+Grizzled Veteran
+
+Scouring Light of Teclis
+
+Diversionary Tactic
+
+Perfect Scheme
+
+Scourging of Ghyran
+
+Aqua Ghyranis
+
+Call of the Blizzard
+cost: {2}{G} => {3}{G}
+rules_text: Target creature you control gets +X/+X until end of turn, where X is its mana value. It deals damage equal to its power to target creature you don't control. => Target creature you control gets +3/+3 until end of turn. It deals damage equal to its power to target creature you don't control and all other creatures with the same name as that creature.
+
+A Clash of Gods
+
+They Came from Below
+
+Wreck and Ruin
+
+The Place that Hungers
+
+Across the Plains
+
+Vokmortain, Voice of Nagash
+
+Lyrior Uthralle
+
+Krittok Foulblade
+
+Gorlok Blackpowder
+
+Iscilla Thorian
+
+Kavalos War Chariot
+
+Curse of Years
+
+Teclian Ladder
+
+Mantle of Command
+
+Plague Priest
+
+Fragile Peace
+
+Terramorphic Expanse
+
+Balefire Brazier
+
+Freeguild Marshal on Griffon
+
+Draw Steel!
+
+
+VERSION 54 CHANGELOG
 ====================
 
 Draw Steel! added.

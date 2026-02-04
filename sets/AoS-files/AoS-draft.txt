@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Rat Soldier",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/1.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Rat Warrior",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/8.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Ogre Mercenary",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/20.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Battle — Control Point",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/122.png"
 			}
@@ -1375,7 +1375,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Rat Monk",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/137.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Rat Assassin",
-			"collector_number": "100",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/172.png"
 			}
@@ -1765,7 +1765,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/176.png"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/192.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/199.png"
 			}
@@ -2301,23 +2301,13 @@
 			}
 		},
 		{
-			"name": "Offering to the Horned Rat",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{B}",
-			"type": "Sorcery",
-			"collector_number": "93",
-			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/230.png"
-			}
-		},
-		{
 			"name": "Endless Tides of Vermin",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/231.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/230.png"
 			}
 		},
 		{
@@ -2327,7 +2317,7 @@
 			"type": "Battle — Control Point",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/232.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/231.png"
 			}
 		},
 		{
@@ -2337,7 +2327,7 @@
 			"type": "Battle — Control Point",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/233.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/232.png"
 			}
 		},
 		{
@@ -2347,7 +2337,7 @@
 			"type": "Battle — Control Point",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/234.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/233.png"
 			}
 		},
 		{
@@ -2357,7 +2347,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/235.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/234.png"
 			}
 		},
 		{
@@ -2367,7 +2357,7 @@
 			"type": "Instant",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/236.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/235.png"
 			}
 		},
 		{
@@ -2377,7 +2367,7 @@
 			"type": "Sorcery",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/237.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/236.png"
 			}
 		},
 		{
@@ -2387,7 +2377,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/238.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/237.png"
 			}
 		},
 		{
@@ -2397,7 +2387,7 @@
 			"type": "Instant",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/239.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/238.png"
 			}
 		},
 		{
@@ -2407,7 +2397,7 @@
 			"type": "Instant",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/240.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/239.png"
 			}
 		},
 		{
@@ -2417,7 +2407,7 @@
 			"type": "Sorcery",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/241.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/240.png"
 			}
 		},
 		{
@@ -2427,7 +2417,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/242.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/241.png"
 			}
 		},
 		{
@@ -2437,7 +2427,7 @@
 			"type": "Sorcery",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/243.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/242.png"
 			}
 		},
 		{
@@ -2447,7 +2437,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/244.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/243.png"
 			}
 		},
 		{
@@ -2457,7 +2447,7 @@
 			"type": "Sorcery",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/245.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/244.png"
 			}
 		},
 		{
@@ -2467,7 +2457,7 @@
 			"type": "Enchantment",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/246.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/245.png"
 			}
 		},
 		{
@@ -2477,17 +2467,17 @@
 			"type": "Artifact",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/247.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/246.png"
 			}
 		},
 		{
 			"name": "Call of the Blizzard",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/248.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/247.png"
 			}
 		},
 		{
@@ -2497,7 +2487,7 @@
 			"type": "Battle — Control Point",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/249.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/248.png"
 			}
 		},
 		{
@@ -2507,7 +2497,7 @@
 			"type": "Battle — Control Point",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/250.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/249.png"
 			}
 		},
 		{
@@ -2517,7 +2507,7 @@
 			"type": "Battle — Control Point",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/251.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/250.png"
 			}
 		},
 		{
@@ -2527,7 +2517,7 @@
 			"type": "Battle — Control Point",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/252.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/251.png"
 			}
 		},
 		{
@@ -2537,7 +2527,7 @@
 			"type": "Battle — Control Point",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/253.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/252.png"
 			}
 		},
 		{
@@ -2547,7 +2537,7 @@
 			"type": "Legendary Creature — Skeleton Wizard",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/254.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/253.png"
 			}
 		},
 		{
@@ -2557,7 +2547,7 @@
 			"type": "Legendary Creature — Elf Knight Noble",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/255.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/254.png"
 			}
 		},
 		{
@@ -2567,7 +2557,7 @@
 			"type": "Legendary Creature — Rat Soldier",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/256.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/255.png"
 			}
 		},
 		{
@@ -2577,7 +2567,7 @@
 			"type": "Legendary Creature — Ogre Pirate",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/257.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/256.png"
 			}
 		},
 		{
@@ -2587,7 +2577,7 @@
 			"type": "Legendary Creature — Human Soldier Wizard",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/258.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/257.png"
 			}
 		},
 		{
@@ -2597,7 +2587,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/259.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/258.png"
 			}
 		},
 		{
@@ -2607,7 +2597,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/260.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/259.png"
 			}
 		},
 		{
@@ -2617,7 +2607,7 @@
 			"type": "Enchantment",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/261.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/260.png"
 			}
 		},
 		{
@@ -2627,7 +2617,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/262.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/261.png"
 			}
 		},
 		{
@@ -2637,7 +2627,7 @@
 			"type": "Creature — Rat Cleric",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/263.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/262.png"
 			}
 		},
 		{
@@ -2647,7 +2637,7 @@
 			"type": "Sorcery",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/264.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/263.png"
 			}
 		},
 		{
@@ -2657,7 +2647,7 @@
 			"type": "Land",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/265.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/264.png"
 			}
 		},
 		{
@@ -2667,7 +2657,7 @@
 			"type": "Artifact",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/266.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/265.png"
 			}
 		},
 		{
@@ -2677,7 +2667,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/267.png"
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/266.png"
 			}
 		},
 		{
@@ -2686,6 +2676,16 @@
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "112",
+			"image_uris": {
+				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/267.png"
+			}
+		},
+		{
+			"name": "Unleash the Great Plagues!",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/268.png"
 			}
@@ -2863,7 +2863,6 @@
 	4 First Blood
 	4 Icebrow Hunter
 	4 Better Part of Valor
-	4 Offering to the Horned Rat
 	4 Endless Tides of Vermin
 	4 The Lurkers Below
 	4 Lines of Communication
@@ -2875,6 +2874,7 @@
 	4 Mantle of Command
 	4 Fragile Peace
 	4 Freeguild Marshal on Griffon
+	4 Unleash the Great Plagues!
 [common(7)]
 	8 Skaven Clanrat
 	8 Stormvermin
@@ -3185,7 +3185,6 @@
 	12 Skilled Manipulation
 	12 Realigned Formation
 	6 Better Part of Valor
-	6 Offering to the Horned Rat
 	6 Endless Tides of Vermin
 	6 The Lurkers Below
 	2 Power in Numbers
@@ -3224,6 +3223,7 @@
 	12 Balefire Brazier
 	6 Freeguild Marshal on Griffon
 	12 Draw Steel!
+	6 Unleash the Great Plagues!
 [wildcard(1)]
 	6 Skaven Clanrat
 	6 Stormvermin
@@ -3450,7 +3450,6 @@
 	6 Skilled Manipulation
 	6 Realigned Formation
 	15 Better Part of Valor
-	15 Offering to the Horned Rat
 	15 Endless Tides of Vermin
 	15 The Lurkers Below
 	7 Power in Numbers
@@ -3489,3 +3488,4 @@
 	6 Balefire Brazier
 	15 Freeguild Marshal on Griffon
 	6 Draw Steel!
+	15 Unleash the Great Plagues!
