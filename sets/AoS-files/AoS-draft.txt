@@ -2273,7 +2273,7 @@
 		{
 			"name": "Skilled Manipulation",
 			"rarity": "common",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "60",
 			"image_uris": {
