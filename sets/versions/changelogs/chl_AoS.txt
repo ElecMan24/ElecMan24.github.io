@@ -1,4 +1,77 @@
-﻿VERSION 57 CHANGELOG
+﻿VERSION 59 CHANGELOG
+====================
+
+
+
+Freeguild Garrison
+rules_text: At the beginning of your end step, if you control one or more tapped creatures, put a recruitment counter on this artifact.
+Remove a recruitment counter from this enchantment: Create a 1/1 red Human Soldier creature token. Activate only as a sorcery and only once each turn.
+Remove two recruitment counters from this enchantment: Create three 1/1 red Human Soldier creature tokens. Activate only as a sorcery and only once each turn. => At the beginning of your end step, if you control one or more tapped creatures, put a recruitment counter on this enchantment.
+Remove a recruitment counter from this enchantment: Create a 1/1 red Human Soldier creature token. Activate only as a sorcery and only once each turn.
+Remove two recruitment counters from this enchantment: Create three 1/1 red Human Soldier creature tokens. Activate only as a sorcery and only once each turn.
+
+Dawnbringer Crusade
+rules_text: 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+special_text: 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+
+Ocari Dara, Spirefall
+rules_text: 
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke.
+special_text: 
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke.
+
+
+VERSION 58 CHANGELOG
+====================
+
+
+
+Freeguild Garrison
+rules_text: At the beginning of your end step, if you control one or more tapped creatures, put a recruitment counter on this artifact.
+Remove a recruitment counter from this enchantment: Create a 1/1 red Human Soldier creature token. Activate only once each turn and only as a sorcery.
+Remove two recruitment counters from this enchantment: Create three 1/1 red Human Soldier creature tokens. Activate only once each turn and only as a sorcery. => At the beginning of your end step, if you control one or more tapped creatures, put a recruitment counter on this artifact.
+Remove a recruitment counter from this enchantment: Create a 1/1 red Human Soldier creature token. Activate only as a sorcery and only once each turn.
+Remove two recruitment counters from this enchantment: Create three 1/1 red Human Soldier creature tokens. Activate only as a sorcery and only once each turn.
+
+Brood Terror
+rules_text: Menace
+[i]Lend a Claw —[/i] {3}{R}: Discard your hand, draw X cards, where X is the greatest mana value among cards discarded this way. Activate only once per turn and only as a sorcery. => Menace
+[i]Lend a Claw —[/i] {3}{R}: Discard your hand, draw X cards, where X is the greatest mana value among cards discarded this way. Activate only as a sorcery and only once each turn.
+
+Clawlord on Gnaw-beast
+rules_text: Menace
+[i]Cruel Captain —[/i] Sacrifice a creature: Creatures you control get +X/+0 until end of turn, where X is one plus the sacrificed creature's mana value. Activate only during your turn and only once each turn. => Menace
+[i]Cruel Captain —[/i] Sacrifice a creature: Creatures you control get +X/+0 until end of turn, where X is one plus the sacrificed creature's mana value. Activate only as a sorcery and only once each turn.
+
+Ogor Slaughtermaster
+rules_text: Trample
+Engorge — {2}{B}{R}{G}: Distribute three +1/+1 counters among one, two, or three target creatures you control. Activate only once each turn, and only as a sorcery. => Trample
+Engorge — {2}{B}{R}{G}: Distribute three +1/+1 counters among one, two, or three target creatures you control. Activate only as a sorcery and only once each turn.
+
+
+VERSION 57 CHANGELOG
 ====================
 
 
