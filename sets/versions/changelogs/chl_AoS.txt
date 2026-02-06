@@ -1,4 +1,162 @@
-﻿VERSION 59 CHANGELOG
+﻿VERSION 60 CHANGELOG
+====================
+
+Vanari Lord Regent added.
+Liege Kavalos on War Chariot added.
+
+Master Crafted Soul Gem removed.
+Teclian Ladder removed.
+
+Dawnbringer Crusade
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+
+Ocari Dara, Spirefall
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke. => 
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke. => 
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke.
+
+Scinari Loreseeker
+
+Gulping Bite
+
+Huskard on Thundertusk
+
+Ogor Firebelly
+
+Ghur's Truth
+
+Blood Vulture Reconnisance
+
+Collect the Bone-Tithe
+
+Ribcracker
+
+Raze to Ruin
+
+Chaintrap's Grip
+
+Trampling Charge
+
+Feral Foray
+
+Expand the Mawpath
+
+First Blood
+
+Mortek Triax
+
+Icebrow Hunter
+
+Vermin's Cunning
+
+Skilled Manipulation
+
+Realigned Formation
+
+Better Part of Valor
+
+Endless Tides of Vermin
+
+The Lurkers Below
+
+Power in Numbers
+
+Lines of Communication
+
+Excelsior Warpriest
+
+Protection of Nagash
+
+Eat your Fill!
+
+Freeguild Command Corps
+
+Officer's Stratagem
+
+Skryre Inginuity
+
+Hire Muscle
+
+Grizzled Veteran
+
+Scouring Light of Teclis
+
+Diversionary Tactic
+
+Perfect Scheme
+
+Scourging of Ghyran
+
+Aqua Ghyranis
+
+Call of the Blizzard
+
+A Clash of Gods
+
+They Came from Below
+
+Wreck and Ruin
+
+The Place that Hungers
+
+Across the Plains
+
+Vokmortain, Voice of Nagash
+
+Lyrior Uthralle
+
+Krittok Foulblade
+
+Gorlok Blackpowder
+
+Iscilla Thorian
+
+Kavalos War Chariot
+
+Curse of Years
+
+Mantle of Command
+
+Plague Priest
+
+Fragile Peace
+
+Terramorphic Expanse
+
+Balefire Brazier
+
+Freeguild Marshal on Griffon
+
+Draw Steel!
+
+Unleash the Great Plagues!
+
+
+VERSION 59 CHANGELOG
 ====================
 
 

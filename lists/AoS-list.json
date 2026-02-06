@@ -4,35 +4,35 @@
         "number": 18,
         "shape": "normal",
         "set": "AoS",
-        "position": "254"
+        "position": "253"
     },
     {
         "card_name": "Vokmortain, Voice of Nagash",
         "number": 70,
         "shape": "normal",
         "set": "AoS",
-        "position": "253"
+        "position": "252"
     },
     {
         "card_name": "Krittok Foulblade",
         "number": 86,
         "shape": "normal",
         "set": "AoS",
-        "position": "255"
+        "position": "254"
     },
     {
         "card_name": "Gorlok Blackpowder",
         "number": 117,
         "shape": "normal",
         "set": "AoS",
-        "position": "256"
+        "position": "255"
     },
     {
         "card_name": "Iscilla Thorian",
         "number": 158,
         "shape": "normal",
         "set": "AoS",
-        "position": "257"
+        "position": "256"
     },
     {
         "card_name": "Freeguild Garrison",
@@ -102,14 +102,14 @@
         "number": 142,
         "shape": "normal",
         "set": "AoS",
-        "position": "246"
+        "position": "245"
     },
     {
         "card_name": "Power in Numbers",
         "number": 24,
         "shape": "normal split",
         "set": "AoS",
-        "position": "232"
+        "position": "231"
     },
     {
         "card_name": "Morghast Archai",
@@ -144,7 +144,7 @@
         "number": 29,
         "shape": "normal",
         "set": "AoS",
-        "position": "242"
+        "position": "241"
     },
     {
         "card_name": "Path to Glory: Ossiarch Bonereapers",
@@ -186,7 +186,7 @@
         "number": 56,
         "shape": "normal",
         "set": "AoS",
-        "position": "244"
+        "position": "243"
     },
     {
         "card_name": "Path to Glory: Skaven",
@@ -242,7 +242,7 @@
         "number": 166,
         "shape": "normal",
         "set": "AoS",
-        "position": "245"
+        "position": "244"
     },
     {
         "card_name": "Celestial Battlemage",
@@ -291,14 +291,14 @@
         "number": 43,
         "shape": "normal split",
         "set": "AoS",
-        "position": "229"
+        "position": "228"
     },
     {
         "card_name": "Collect the Bone-Tithe",
         "number": 75,
         "shape": "normal",
         "set": "AoS",
-        "position": "216"
+        "position": "215"
     },
     {
         "card_name": "Bright Battlemage",
@@ -326,21 +326,21 @@
         "number": 44,
         "shape": "normal",
         "set": "AoS",
-        "position": "259"
+        "position": "258"
     },
     {
         "card_name": "Endless Tides of Vermin",
         "number": 79,
         "shape": "normal",
         "set": "AoS",
-        "position": "230"
+        "position": "229"
     },
     {
         "card_name": "Chaintrap's Grip",
         "number": 109,
         "shape": "normal",
         "set": "AoS",
-        "position": "219"
+        "position": "218"
     },
     {
         "card_name": "Amber Battlemage",
@@ -382,7 +382,7 @@
         "number": 144,
         "shape": "normal",
         "set": "AoS",
-        "position": "247"
+        "position": "246"
     },
     {
         "card_name": "Light of the True Moon",
@@ -396,7 +396,7 @@
         "number": 48,
         "shape": "normal",
         "set": "AoS",
-        "position": "258"
+        "position": "257"
     },
     {
         "card_name": "Grisly Repast",
@@ -410,7 +410,7 @@
         "number": 113,
         "shape": "normal split",
         "set": "AoS",
-        "position": "221"
+        "position": "220"
     },
     {
         "card_name": "City's Heraldry",
@@ -424,7 +424,7 @@
         "number": 17,
         "shape": "normal split",
         "set": "AoS",
-        "position": "233"
+        "position": "232"
     },
     {
         "card_name": "Knife to the Heart",
@@ -445,7 +445,7 @@
         "number": 114,
         "shape": "normal split",
         "set": "AoS",
-        "position": "223"
+        "position": "222"
     },
     {
         "card_name": "Enduring as Rock",
@@ -473,21 +473,21 @@
         "number": 89,
         "shape": "normal split",
         "set": "AoS",
-        "position": "231"
+        "position": "230"
     },
     {
         "card_name": "Icebrow Hunter",
         "number": 120,
         "shape": "normal",
         "set": "AoS",
-        "position": "225"
+        "position": "224"
     },
     {
         "card_name": "Grizzled Veteran",
         "number": 155,
         "shape": "normal",
         "set": "AoS",
-        "position": "241"
+        "position": "240"
     },
     {
         "card_name": "Mortisan Boneshaper",
@@ -522,7 +522,7 @@
         "number": 157,
         "shape": "normal",
         "set": "AoS",
-        "position": "212"
+        "position": "211"
     },
     {
         "card_name": "Move Like the Wind",
@@ -585,7 +585,7 @@
         "number": 126,
         "shape": "normal",
         "set": "AoS",
-        "position": "213"
+        "position": "212"
     },
     {
         "card_name": "Roiling Roots",
@@ -613,7 +613,7 @@
         "number": 102,
         "shape": "normal",
         "set": "AoS",
-        "position": "268"
+        "position": "266"
     },
     {
         "card_name": "Ogor Ironblaster",
@@ -655,14 +655,14 @@
         "number": 131,
         "shape": "normal",
         "set": "AoS",
-        "position": "218"
+        "position": "217"
     },
     {
         "card_name": "Trampling Charge",
         "number": 168,
         "shape": "normal",
         "set": "AoS",
-        "position": "220"
+        "position": "219"
     },
     {
         "card_name": "Vanguard of Light",
@@ -718,7 +718,7 @@
         "number": 72,
         "shape": "normal",
         "set": "AoS",
-        "position": "265"
+        "position": "263"
     },
     {
         "card_name": "Acolyte Globadier",
@@ -753,7 +753,7 @@
         "number": 73,
         "shape": "normal",
         "set": "AoS",
-        "position": "215"
+        "position": "214"
     },
     {
         "card_name": "Cracks Call",
@@ -767,21 +767,21 @@
         "number": 149,
         "shape": "normal",
         "set": "AoS",
-        "position": "222"
+        "position": "221"
     },
     {
         "card_name": "Excelsior Warpriest",
         "number": 9,
         "shape": "normal",
         "set": "AoS",
-        "position": "234"
+        "position": "233"
     },
     {
         "card_name": "Diversionary Tactic",
         "number": 46,
         "shape": "normal",
         "set": "AoS",
-        "position": "243"
+        "position": "242"
     },
     {
         "card_name": "Counter Strike",
@@ -795,7 +795,7 @@
         "number": 112,
         "shape": "normal",
         "set": "AoS",
-        "position": "267"
+        "position": "265"
     },
     {
         "card_name": "Freeguild Cavalier",
@@ -830,7 +830,7 @@
         "number": 115,
         "shape": "normal",
         "set": "AoS",
-        "position": "237"
+        "position": "236"
     },
     {
         "card_name": "Freeguild Storehouse",
@@ -858,7 +858,7 @@
         "number": 78,
         "shape": "normal",
         "set": "AoS",
-        "position": "236"
+        "position": "235"
     },
     {
         "card_name": "Freeguild Fusilier",
@@ -886,7 +886,7 @@
         "number": 52,
         "shape": "normal",
         "set": "AoS",
-        "position": "224"
+        "position": "223"
     },
     {
         "card_name": "Eshin Surprise",
@@ -900,7 +900,7 @@
         "number": 119,
         "shape": "normal",
         "set": "AoS",
-        "position": "240"
+        "position": "239"
     },
     {
         "card_name": "Fusil-cannon",
@@ -914,7 +914,7 @@
         "number": 25,
         "shape": "normal",
         "set": "AoS",
-        "position": "235"
+        "position": "234"
     },
     {
         "card_name": "Reform Ranks",
@@ -942,21 +942,21 @@
         "number": 154,
         "shape": "normal",
         "set": "AoS",
-        "position": "214"
+        "position": "213"
     },
     {
         "card_name": "Realigned Formation",
         "number": 26,
         "shape": "normal",
         "set": "AoS",
-        "position": "228"
+        "position": "227"
     },
     {
         "card_name": "Skilled Manipulation",
         "number": 60,
         "shape": "normal",
         "set": "AoS",
-        "position": "227"
+        "position": "226"
     },
     {
         "card_name": "Kavalos Deathrider",
@@ -970,7 +970,7 @@
         "number": 125,
         "shape": "normal",
         "set": "AoS",
-        "position": "238"
+        "position": "237"
     },
     {
         "card_name": "Hold Fast",
@@ -1075,7 +1075,7 @@
         "number": 133,
         "shape": "normal",
         "set": "AoS",
-        "position": "239"
+        "position": "238"
     },
     {
         "card_name": "Realmscribe's Mark",
@@ -1117,7 +1117,7 @@
         "number": 164,
         "shape": "normal",
         "set": "AoS",
-        "position": "217"
+        "position": "216"
     },
     {
         "card_name": "Vanari Auralan Warden",
@@ -1166,7 +1166,7 @@
         "number": 69,
         "shape": "normal",
         "set": "AoS",
-        "position": "226"
+        "position": "225"
     },
     {
         "card_name": "Weeping Blade",
@@ -1207,35 +1207,35 @@
         "number": 182,
         "shape": "normal split",
         "set": "AoS",
-        "position": "248"
+        "position": "247"
     },
     {
         "card_name": "They Came from Below",
-        "number": 227,
+        "number": 226,
         "shape": "normal split",
         "set": "AoS",
-        "position": "249"
+        "position": "248"
     },
     {
         "card_name": "Wreck and Ruin",
         "number": 236,
         "shape": "normal split",
         "set": "AoS",
-        "position": "250"
+        "position": "249"
     },
     {
         "card_name": "The Place that Hungers",
         "number": 215,
         "shape": "normal split",
         "set": "AoS",
-        "position": "251"
+        "position": "250"
     },
     {
         "card_name": "Across the Plains",
         "number": 172,
         "shape": "normal split",
         "set": "AoS",
-        "position": "252"
+        "position": "251"
     },
     {
         "card_name": "Hurakan Wind Spirit",
@@ -1274,7 +1274,7 @@
     },
     {
         "card_name": "Liege Mortek",
-        "number": 200,
+        "number": 201,
         "shape": "normal",
         "set": "AoS",
         "position": "205"
@@ -1366,7 +1366,7 @@
     },
     {
         "card_name": "Thanquol and Boneripper",
-        "number": 226,
+        "number": 225,
         "shape": "normal",
         "set": "AoS",
         "position": "14"
@@ -1387,7 +1387,7 @@
     },
     {
         "card_name": "Teclis and Celennar, Enlighened",
-        "number": 225,
+        "number": 224,
         "shape": "normal",
         "set": "AoS",
         "position": "69"
@@ -1422,7 +1422,7 @@
     },
     {
         "card_name": "Vanari Bladelord",
-        "number": 229,
+        "number": 228,
         "shape": "normal",
         "set": "AoS",
         "position": "67"
@@ -1474,7 +1474,7 @@
         "number": 216,
         "shape": "normal",
         "set": "AoS",
-        "position": "262"
+        "position": "260"
     },
     {
         "card_name": "Frostlord on Stonehorn",
@@ -1562,7 +1562,7 @@
     },
     {
         "card_name": "Vanari Bannerblade",
-        "number": 228,
+        "number": 227,
         "shape": "normal",
         "set": "AoS",
         "position": "98"
@@ -1586,7 +1586,7 @@
         "number": 194,
         "shape": "normal",
         "set": "AoS",
-        "position": "211"
+        "position": "210"
     },
     {
         "card_name": "Alchemite Warforger",
@@ -1597,7 +1597,7 @@
     },
     {
         "card_name": "Lightning Reactions",
-        "number": 201,
+        "number": 202,
         "shape": "normal",
         "set": "AoS",
         "position": "160"
@@ -1628,7 +1628,7 @@
         "number": 188,
         "shape": "normal",
         "set": "AoS",
-        "position": "266"
+        "position": "264"
     },
     {
         "card_name": "Scinari Calligrave",
@@ -1638,11 +1638,11 @@
         "position": "159"
     },
     {
-        "card_name": "Master Crafted Soul Gem",
-        "number": 203,
+        "card_name": "Liege Kavalos on War Chariot",
+        "number": 200,
         "shape": "normal",
         "set": "AoS",
-        "position": "210"
+        "position": "268"
     },
     {
         "card_name": "Warpgale",
@@ -1660,17 +1660,17 @@
     },
     {
         "card_name": "Mantle of Command",
-        "number": 202,
+        "number": 203,
         "shape": "normal",
         "set": "AoS",
-        "position": "261"
+        "position": "259"
     },
     {
-        "card_name": "Teclian Ladder",
-        "number": 224,
+        "card_name": "Vanari Lord Regent",
+        "number": 229,
         "shape": "normal",
         "set": "AoS",
-        "position": "260"
+        "position": "267"
     },
     {
         "card_name": "er"
@@ -1690,7 +1690,7 @@
         "number": 5,
         "shape": "normal",
         "set": "AoS",
-        "position": "263"
+        "position": "261"
     },
     {
         "card_name": "Lumineth Sanctuary",
@@ -1953,7 +1953,7 @@
         "number": 261,
         "shape": "normal",
         "set": "AoS",
-        "position": "264"
+        "position": "262"
     },
     {
         "card_name": "e"

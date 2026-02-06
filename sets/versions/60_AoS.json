@@ -293,7 +293,7 @@
             "color": "UBR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Rat Wizard Mutant",
-            "number": 226,
+            "number": 225,
             "color_identity": "UBR",
             "cost": "{1}{U}{B}{R}",
             "rules_text": "Trample\nWhenever you sacrifice a creature, choose one that hasn't been chosen this turn \u2014\n\u2022 This creature connives.\n\u2022 You may cast an instant or sorcery spell with mana value X or less from your graveyard, where X is one plus the sacrificed creature's mana value. If that spell would be put into your graveyard, exile it instead.",
@@ -1353,7 +1353,7 @@
             "color": "WUG",
             "rarity": "mythic",
             "type": "Creature \u2014 Elf Samurai",
-            "number": 229,
+            "number": 228,
             "color_identity": "WUG",
             "cost": "{3}{G}{W}{U}",
             "rules_text": "Convoke\nSquad {G}{W}{U}\nDouble strike, vigilance\nWhen this creature enters, put X +1/+1 counters on it, where X is the number of tapped creature you control.",
@@ -1393,7 +1393,7 @@
             "color": "WUG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elf God Elemental",
-            "number": 225,
+            "number": 224,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
             "rules_text": "Flying, vigilance, ward {2}\nWhenever you cast a spell that has convoke, you may exile up to X other target creatures you control, where X is the amount of mana spent to cast that spell. Then, return those cards to the battlefield under their owner's control tapped.",
@@ -1636,10 +1636,10 @@
             "number": 184,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
+            "rules_text": "\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
+            "special_text": "\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
             "shape": "saga",
             "set": "AoS",
             "loyalty": "",
@@ -1936,10 +1936,10 @@
             "number": 210,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy all other nonland permanents.\nII \u2014 Create a 4/4 blue and green Elemental Spirit creature token with flying.\nIII \u2014 Permanent spells you cast this turn have convoke.",
+            "rules_text": "\nI \u2014 Destroy all other nonland permanents.\nII \u2014 Create a 4/4 blue and green Elemental Spirit creature token with flying.\nIII \u2014 Permanent spells you cast this turn have convoke.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy all other nonland permanents.\nII \u2014 Create a 4/4 blue and green Elemental Spirit creature token with flying.\nIII \u2014 Permanent spells you cast this turn have convoke.",
+            "special_text": "\nI \u2014 Destroy all other nonland permanents.\nII \u2014 Create a 4/4 blue and green Elemental Spirit creature token with flying.\nIII \u2014 Permanent spells you cast this turn have convoke.",
             "shape": "saga",
             "set": "AoS",
             "loyalty": "",
@@ -1966,14 +1966,14 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "97",
-            "notes": "Lumineth Realm-Lords"
+            "notes": "Lumineth Realm-Lords\nBant Rares"
         },
         {
             "card_name": "Vanari Bannerblade",
             "color": "WUG",
             "rarity": "rare",
             "type": "Creature \u2014 Elf Warrior",
-            "number": 228,
+            "number": 227,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
             "rules_text": "Vigilance\nWhen this creature enters, create a 1/1 white Elf Soldier creature token.\n[i]Raise the World Banner \u2014 [/i]Untap all creatures you control during each other player's untap step.",
@@ -3213,7 +3213,7 @@
             "color": "WUG",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 201,
+            "number": 202,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
             "rules_text": "Exile target creature you control, then return it to the battlefield under its owner's control with a +1/+1 counter on it. When that creature enters, it deals damage equal to its power to up to one target creature you don't control.",
@@ -4113,7 +4113,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Creature \u2014 Skeleton Soldier Noble",
-            "number": 200,
+            "number": 201,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Whenever one or more other creatures and/or artifacts you control leave the battlefield without dying, surveil 1.\nAt the beginning of your end step, you may exile another target creature or artifact you control, then return that card to the battlefield under its owner's control.",
@@ -4209,26 +4209,6 @@
             "notes": "Battles"
         },
         {
-            "card_name": "Master Crafted Soul Gem",
-            "color": "WUB",
-            "rarity": "uncommon",
-            "type": "Artifact",
-            "number": 203,
-            "color_identity": "WUB",
-            "cost": "{W}{U}{B}",
-            "rules_text": "When this artifact enters, exile target creature card from a graveyard with a craft counter on it.\n{2}, {T}: Target creature you control becomes a copy of target card in exile with one or more craft counters on it. Activate only as a sorcery.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AoS",
-            "loyalty": "",
-            "artist": "Games Workshop",
-            "alias": "",
-            "position": "210",
-            "notes": "Cards to Keep an Eye On\nOssiarch Bonereapers\nEsper Uncommons"
-        },
-        {
             "card_name": "Gulping Bite",
             "color": "BRG",
             "rarity": "uncommon",
@@ -4245,7 +4225,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "211",
+            "position": "210",
             "notes": "Ogor Mawtribes\nJund Uncommons"
         },
         {
@@ -4265,7 +4245,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "notes": "Ogor Mawtribes\nActivated Ability Synergy\nEngorge Synergy"
         },
         {
@@ -4285,7 +4265,7 @@
             "loyalty": "",
             "artist": "Daniel Kovacs",
             "alias": "",
-            "position": "213",
+            "position": "212",
             "notes": "Ogor Mawtribes\nMana Value Matters Synergy\nSacrifice Synergy"
         },
         {
@@ -4305,7 +4285,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "214",
+            "position": "213",
             "notes": "Ogor Mawtribes"
         },
         {
@@ -4325,7 +4305,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "215",
+            "position": "214",
             "notes": "Ogor Mawtribes"
         },
         {
@@ -4345,7 +4325,7 @@
             "loyalty": "",
             "artist": "Jon Cave",
             "alias": "",
-            "position": "216",
+            "position": "215",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -4365,7 +4345,7 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
-            "position": "217",
+            "position": "216",
             "notes": "Ogor Mawtribes"
         },
         {
@@ -4385,7 +4365,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "218",
+            "position": "217",
             "notes": "Ogor Mawtribes"
         },
         {
@@ -4405,7 +4385,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "219",
+            "position": "218",
             "notes": "Ogor Mawtribes\nActivated Ability Synergy"
         },
         {
@@ -4425,7 +4405,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "220",
+            "position": "219",
             "notes": "Ogor Mawtribes"
         },
         {
@@ -4445,7 +4425,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "221",
+            "position": "220",
             "notes": "Battles"
         },
         {
@@ -4465,7 +4445,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "notes": "Ogor Mawtribes"
         },
         {
@@ -4485,7 +4465,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "223",
+            "position": "222",
             "notes": "Battles"
         },
         {
@@ -4505,7 +4485,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "224",
+            "position": "223",
             "notes": "Ossiarch Bonereapers\nDiscard/Graveyard Synergy\nReconstruct Synergy"
         },
         {
@@ -4525,7 +4505,7 @@
             "loyalty": "",
             "artist": "Jaime Mart\u00ednez/Dabanaworks",
             "alias": "",
-            "position": "225",
+            "position": "224",
             "notes": "Ogor Mawtribes\nMana Value Matters Synergy"
         },
         {
@@ -4545,7 +4525,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "226",
+            "position": "225",
             "notes": "Skaven\nDiscard/Gravyard Synergy"
         },
         {
@@ -4565,7 +4545,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "227",
+            "position": "226",
             "notes": "Skaven\nDiscard/Graveyard Synergy"
         },
         {
@@ -4585,7 +4565,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "notes": "Ossiarch Bonereapers\nFlicker Synergy"
         },
         {
@@ -4605,7 +4585,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "notes": "Battles"
         },
         {
@@ -4625,7 +4605,7 @@
             "loyalty": "",
             "artist": "Max FitzGerald",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "notes": "Skaven\nDiscard/Graveyard Synergy"
         },
         {
@@ -4645,7 +4625,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "notes": "Battles"
         },
         {
@@ -4665,7 +4645,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "notes": "Battles"
         },
         {
@@ -4685,7 +4665,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "233",
+            "position": "232",
             "notes": "Battles"
         },
         {
@@ -4705,7 +4685,7 @@
             "loyalty": "",
             "artist": "Rafater",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "notes": "Cities of Sigmar\nTap/Untap Synergy"
         },
         {
@@ -4725,7 +4705,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -4745,7 +4725,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "notes": "Ogor Mawtribes"
         },
         {
@@ -4765,7 +4745,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "notes": "Cities of Sigmar"
         },
         {
@@ -4785,7 +4765,7 @@
             "loyalty": "",
             "artist": "Andrew Lowry",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "notes": "Cities of Sigmar"
         },
         {
@@ -4805,7 +4785,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "notes": "Skaven\nDiscard/Graveyard Synergy\nSacrifice Synergy(Kinda)"
         },
         {
@@ -4825,7 +4805,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "notes": "Faction Agnostic Cards(Kinda)"
         },
         {
@@ -4845,7 +4825,7 @@
             "loyalty": "",
             "artist": "Andrew Lowry",
             "alias": "",
-            "position": "241",
+            "position": "240",
             "notes": "Cities of Sigmar\nMana Value Matters Synergy"
         },
         {
@@ -4865,7 +4845,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "notes": "Lumineth Realm-Lords"
         },
         {
@@ -4885,7 +4865,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "243",
+            "position": "242",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -4905,7 +4885,7 @@
             "loyalty": "",
             "artist": "Tze Kun Chin \u9648\u5fd7\u5803",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "notes": "Skaven"
         },
         {
@@ -4925,7 +4905,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "notes": "Cities of Sigmar\nActivated Ability Synergy"
         },
         {
@@ -4945,7 +4925,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "notes": "Cities of Sigmar\nActivated Ability Synergy\nTap/Untap Synergy"
         },
         {
@@ -4965,7 +4945,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "247",
+            "position": "246",
             "notes": "Ogor Mawtribes\nEchoing Removal\nMana Value Matters Synergy"
         },
         {
@@ -4985,7 +4965,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "248",
+            "position": "247",
             "notes": "Battles\nAzorius Rare"
         },
         {
@@ -4993,7 +4973,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Battle \u2014 Control Point",
-            "number": 227,
+            "number": 226,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
             "rules_text": "[i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]\nAs this battle enters, choose Ossiarch or Skaven.\nOssiarch \u2014 At the beginning of your end step, if an artifact or creature was put into a graveyard from the battlefield this turn, create a 1/1 white Skeleton Soldier creature token.\nSkaven \u2014 Whenever you sacrifice a permanent with mana value 1 or greater, target creature you control connives.",
@@ -5005,7 +4985,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "notes": "Battles\nDimir Rare"
         },
         {
@@ -5025,7 +5005,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "notes": "Battles\nRakdos Rare"
         },
         {
@@ -5045,7 +5025,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "notes": "Battles\nGruul Rare"
         },
         {
@@ -5065,7 +5045,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "notes": "Battles\nSylesnea Rare"
         },
         {
@@ -5085,7 +5065,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -5105,7 +5085,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "notes": "Lumineth Realm-Lords"
         },
         {
@@ -5125,7 +5105,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "notes": "Skaven"
         },
         {
@@ -5145,7 +5125,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "notes": ""
         },
         {
@@ -5165,7 +5145,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "notes": "Cities of Sigmar"
         },
         {
@@ -5185,7 +5165,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -5205,35 +5185,15 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "notes": "Ossiarch Bonereapers"
-        },
-        {
-            "card_name": "Teclian Ladder",
-            "color": "WUG",
-            "rarity": "uncommon",
-            "type": "Enchantment",
-            "number": 224,
-            "color_identity": "WUG",
-            "cost": "{G}{W}{U}",
-            "rules_text": "Whenever you cast a spell that has convoke, put an enlightenment counter on this enchantment.\nRemove two enlightenment counters from this enchantment: Create a 4/4 blue and green Elemental Spirit creature token with flying. Activate only during your turn and only once each turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AoS",
-            "loyalty": "",
-            "artist": "Games Workshop",
-            "alias": "",
-            "position": "260",
-            "notes": "Lumineth Realm-Lords\nBant Uncommons"
         },
         {
             "card_name": "Mantle of Command",
             "color": "WRG",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
-            "number": 202,
+            "number": 203,
             "color_identity": "WRG",
             "cost": "{R}{G}{W}",
             "rules_text": "Enchant creature\nEnchanted creature has Battle cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]\nEnchanted creature has \u201cWhenever this creature attacks, create two 1/1 red Human Soldier creature tokens that are tapped and attacking.\u201d",
@@ -5245,7 +5205,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "261",
+            "position": "259",
             "notes": "Cities of Sigmar\nNaya Uncommons"
         },
         {
@@ -5265,7 +5225,7 @@
             "loyalty": "",
             "artist": "Jon Cave",
             "alias": "",
-            "position": "262",
+            "position": "260",
             "notes": "Skaven"
         },
         {
@@ -5285,7 +5245,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "263",
+            "position": "261",
             "notes": "Faction Agnostic Cards\nBattle Hate"
         },
         {
@@ -5305,7 +5265,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "264",
+            "position": "262",
             "notes": ""
         },
         {
@@ -5325,7 +5285,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "265",
+            "position": "263",
             "notes": "Ossiarch Bonereapers\nReconstruct Synergy\nSacrifice Synergy"
         },
         {
@@ -5345,7 +5305,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "266",
+            "position": "264",
             "notes": "Cities of Sigmar\nNaya Uncommons\nRegiment Synergy"
         },
         {
@@ -5365,7 +5325,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "267",
+            "position": "265",
             "notes": "Cities of Sigmar"
         },
         {
@@ -5385,8 +5345,48 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "268",
+            "position": "266",
             "notes": "Skaven\nEchoing Removal"
+        },
+        {
+            "card_name": "Vanari Lord Regent",
+            "color": "WUG",
+            "rarity": "uncommon",
+            "type": "Creature \u2014 Elf Samurai",
+            "number": 229,
+            "color_identity": "WUG",
+            "cost": "{2}{G}{W}{U}",
+            "rules_text": "Flash\nConvoke\nFirst strike, vigilance",
+            "flavor_text": "[i][/i]",
+            "pt": "4/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AoS",
+            "loyalty": "",
+            "artist": "Eavy' Metal Team",
+            "alias": "",
+            "position": "267",
+            "notes": "Lumineth Realm-Lords\nConvoke Synergy"
+        },
+        {
+            "card_name": "Liege Kavalos on War Chariot",
+            "color": "WUB",
+            "rarity": "uncommon",
+            "type": "Creature \u2014 Skeleton Knight Noble",
+            "number": 200,
+            "color_identity": "WUB",
+            "cost": "{1}{W}{U}{B}",
+            "rules_text": "Menace\nDuring your turn this creature has flying.\n[i]Battlefield Overseer[/i] \u2014 Whenever this creature enters or attacks, you may discard a card. If you do, draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "4/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AoS",
+            "loyalty": "",
+            "artist": "Games Workshop",
+            "alias": "",
+            "position": "268",
+            "notes": "Ossiarch Bonereapers\nEsper Uncommons"
         }
     ]
 }
