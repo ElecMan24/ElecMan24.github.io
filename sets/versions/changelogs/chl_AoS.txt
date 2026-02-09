@@ -1,4 +1,53 @@
-﻿VERSION 61 CHANGELOG
+﻿VERSION 62 CHANGELOG
+====================
+
+
+
+Eshin Surprise
+rules_text: This spell costs {2} more to cast if it targets a creature that shares a name with any other creature on the battlefield.
+Destroy target creature. => This spell can't be countered by activated or triggered abilities.
+Destroy target creature.
+
+Realmscribe's Mark
+rules_text: Convoke
+Enchant land
+Whenever enchanted land is tapped for mana, you may untap target tapped permanent you control. This ability triggers only once each turn. => Convoke
+Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+
+Dawnbringer Crusade
+rules_text: 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+special_text: 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+
+Ocari Dara, Spirefall
+rules_text: 
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke.
+special_text: 
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke.
+
+
+VERSION 61 CHANGELOG
 ====================
 
 

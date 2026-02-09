@@ -156,7 +156,7 @@
             "number": 80,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "This spell costs {2} more to cast if it targets a creature that shares a name with any other creature on the battlefield.\nDestroy target creature.",
+            "rules_text": "This spell can't be countered by activated or triggered abilities.\nDestroy target creature.",
             "flavor_text": "[i]The clans Eshin of Skaven society are trained in stealth, espionage, and assassination. Sneaking past the rank-and-file to strike at the heart and mind of their enemies.[/i]",
             "pt": "",
             "special_text": "",
@@ -1476,8 +1476,8 @@
             "number": 163,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Convoke\nEnchant land\nWhenever enchanted land is tapped for mana, you may untap target tapped permanent you control. This ability triggers only once each turn.",
-            "flavor_text": "[i]\u201cRelax, I've blazed the rune into the land, stand strong as the strength of the aelements flows through you.\u201d[/i]",
+            "rules_text": "Convoke\nSearch your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+            "flavor_text": "[i]\u201cRelax, I've blazed the rune into the land, stand strong as the strength of the aelementors flow into you.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1486,7 +1486,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "73",
-            "notes": "Lumineth Realm-Lords\nTap/Untap Synergy"
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Mountain Stance",
@@ -1636,10 +1636,10 @@
             "number": 184,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
-            "rules_text": "\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
             "shape": "saga",
             "set": "AoS",
             "loyalty": "",
@@ -1936,10 +1936,10 @@
             "number": 210,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
-            "rules_text": "\nI \u2014 Destroy all other nonland permanents.\nII \u2014 Create a 4/4 blue and green Elemental Spirit creature token with flying.\nIII \u2014 Permanent spells you cast this turn have convoke.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy all other nonland permanents.\nII \u2014 Create a 4/4 blue and green Elemental Spirit creature token with flying.\nIII \u2014 Permanent spells you cast this turn have convoke.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Destroy all other nonland permanents.\nII \u2014 Create a 4/4 blue and green Elemental Spirit creature token with flying.\nIII \u2014 Permanent spells you cast this turn have convoke.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy all other nonland permanents.\nII \u2014 Create a 4/4 blue and green Elemental Spirit creature token with flying.\nIII \u2014 Permanent spells you cast this turn have convoke.",
             "shape": "saga",
             "set": "AoS",
             "loyalty": "",
@@ -5389,5 +5389,5 @@
             "notes": "Ossiarch Bonereapers\nEsper Uncommons"
         }
     ],
-    "version": 61
+    "version": 62
 }
