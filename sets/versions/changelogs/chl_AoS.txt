@@ -1,4 +1,16 @@
-﻿VERSION 63 CHANGELOG
+﻿VERSION 64 CHANGELOG
+====================
+
+
+
+Scinari Calligrave
+
+Scouring Light of Teclis
+
+Lyrior Uthralle
+
+
+VERSION 63 CHANGELOG
 ====================
 
 Liege Kavalos on Steed added.

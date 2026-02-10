@@ -3203,7 +3203,7 @@
             "shape": "normal",
             "set": "AoS",
             "loyalty": "",
-            "artist": "Eavy' Metal Team",
+            "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
             "position": "159",
             "notes": "Lumineth Realm-Lords\nBant Uncommons"
@@ -4843,7 +4843,7 @@
             "shape": "normal",
             "set": "AoS",
             "loyalty": "",
-            "artist": "Games Workshop",
+            "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
             "position": "241",
             "notes": "Lumineth Realm-Lords"
@@ -5083,7 +5083,7 @@
             "shape": "normal",
             "set": "AoS",
             "loyalty": "",
-            "artist": "Games Workshop",
+            "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
             "position": "253",
             "notes": "Lumineth Realm-Lords"
@@ -5389,5 +5389,5 @@
             "notes": "Ossiarch Bonereapers\nEsper Uncommons"
         }
     ],
-    "version": 63
+    "version": 64
 }
