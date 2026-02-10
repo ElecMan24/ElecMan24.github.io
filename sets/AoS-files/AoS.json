@@ -155,8 +155,8 @@
             "type": "Instant",
             "number": 80,
             "color_identity": "B",
-            "cost": "{2}{B}",
-            "rules_text": "This spell can't be countered by activated or triggered abilities.\nDestroy target creature.",
+            "cost": "{1}{B}",
+            "rules_text": "This spell costs {1} more to cast if your opponents controls a creature that shares a name with any other creature on the battlefield.\nDestroy target creature.",
             "flavor_text": "[i]The clans Eshin of Skaven society are trained in stealth, espionage, and assassination. Sneaking past the rank-and-file to strike at the heart and mind of their enemies.[/i]",
             "pt": "",
             "special_text": "",
@@ -889,7 +889,7 @@
             "notes": "Ossiarch Bonereapers\nReconstruct Synergy"
         },
         {
-            "card_name": "Liege Kavalos",
+            "card_name": "Liege Kavalos on Steed",
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Skeleton Knight Noble",
@@ -906,7 +906,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "44",
-            "notes": "Ossiarch Bonereapers"
+            "notes": "Ossiarch Bonereapers\nSacrifice Synergy"
         },
         {
             "card_name": "Marrowpact",
@@ -1495,8 +1495,8 @@
             "type": "Enchantment \u2014 Aura",
             "number": 159,
             "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "Flash\nEnchant creature.\nWhen this Aura enters, untap enchanted permanent.\nEnchanted creature gets +1/+2 and has vigilance.",
+            "cost": "{2}{G}",
+            "rules_text": "Flash\nEnchant creature.\nWhen this Aura enters, untap enchanted permanent.\nEnchanted creature gets +2/+2 and has vigilance.",
             "flavor_text": "[i]\u201cWell done young Stonguard. With each day of diligent training, you become more like the mountain. Stalwart and unbreakable.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1786,7 +1786,7 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "88",
-            "notes": "Lumineth Realm-Lords\nConvoke Synergy\nFlicker Synergy"
+            "notes": "Lumineth Realm-Lords\nConvoke Synergy\nFlicker Synergy\nSylesnea Uncommons"
         },
         {
             "card_name": "Hurakan Wind Spirit",
@@ -3796,7 +3796,7 @@
             "number": 136,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nWhenever you activate an ability of a creature you control that isn't a mana ability, target creature you control gets +2/+1 and gains haste until end of turn. This ability triggers only once each turn.",
+            "rules_text": "Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nWhenever you activate an ability of a creature you control that isn't a mana ability, that gets +2/+0 and gains menace until end of turn. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3806,7 +3806,7 @@
             "artist": "Alexandre Noyer",
             "alias": "",
             "position": "189",
-            "notes": "Cities of Sigmar"
+            "notes": "Cities of Sigmar\nActivated Ability Synergy"
         },
         {
             "card_name": "Sigmar's Thunder",
@@ -4155,8 +4155,8 @@
             "type": "Artifact",
             "number": 176,
             "color_identity": "WUB",
-            "cost": "{2}{W}{U}{B}",
-            "rules_text": "When this artifact enters or leaves the battlefield, return up to one target artifact or creature card with mana value 2 or less from your graveyard to the battlefield.\n{2}, {T}, Sacrifice this artifact: Exile target player's graveyard. Draw a card.",
+            "cost": "{1}{W}{U}{B}",
+            "rules_text": "When this artifact enters or leaves the battlefield, return up to one target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.\n{2}, {T}, Sacrifice this artifact: Draw two cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4835,8 +4835,8 @@
             "type": "Sorcery",
             "number": 29,
             "color_identity": "W",
-            "cost": "{2}{W}{W}",
-            "rules_text": "Target creature you control gains indestructible until end of turn. If it is tapped, destroy all untapped creatures. Otherwise, destroy all tapped creatures.",
+            "cost": "{3}{W}{W}",
+            "rules_text": "Target creature you control gains indestructible until end of turn. If it is untapped, destroy all untapped creatures. Otherwise, destroy all tapped creatures.",
             "flavor_text": "[i]Few can say that they've suffered wounds from the mage god of Hysh's arcane might and lived. Fewer still can say that such magic was used to protect them.[/i]",
             "pt": "",
             "special_text": "",
@@ -4896,7 +4896,7 @@
             "number": 166,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Whenever you activate the ability of a creature you control that isn't a mana ability, put a +1/+1 counter on each creature you control. This ability triggers only once each turn.",
+            "rules_text": "Whenever you activate the ability of a creature you control that isn't a mana ability, put a +1/+1 counter on each creature you control as it resolves. This ability triggers only once each turn.",
             "flavor_text": "[i]\u201cNurgle's corruption will not fester here while we still have breath in our lungs! For Sigmar, and Alarielle!\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -5366,7 +5366,7 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "267",
-            "notes": "Lumineth Realm-Lords\nConvoke Synergy"
+            "notes": "Lumineth Realm-Lords\nBant Uncommons\nConvoke Synergy"
         },
         {
             "card_name": "Liege Kavalos on War Chariot",
@@ -5376,7 +5376,7 @@
             "number": 200,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
-            "rules_text": "Menace\nDuring your turn this creature has flying.\n[i]Battlefield Overseer[/i] \u2014 Whenever this creature enters or attacks, you may discard a card. If you do, draw a card.",
+            "rules_text": "Menace\nDuring your turn this creature has flying.\n[i]Battlefield Overseer[/i] \u2014 Whenever this creature enters or attacks, you may draw a card. If you do, discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5389,5 +5389,5 @@
             "notes": "Ossiarch Bonereapers\nEsper Uncommons"
         }
     ],
-    "version": 62
+    "version": 63
 }

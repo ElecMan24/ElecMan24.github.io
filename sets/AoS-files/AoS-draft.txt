@@ -73,7 +73,7 @@
 		{
 			"name": "Eshin Surprise",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "80",
 			"image_uris": {
@@ -441,7 +441,7 @@
 			}
 		},
 		{
-			"name": "Liege Kavalos",
+			"name": "Liege Kavalos on Steed",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Skeleton Knight Noble",
@@ -743,7 +743,7 @@
 		{
 			"name": "Mountain Stance",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "159",
 			"image_uris": {
@@ -2073,7 +2073,7 @@
 		{
 			"name": "Artisan's Key",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}{B}",
+			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Artifact",
 			"collector_number": "176",
 			"image_uris": {
@@ -2413,7 +2413,7 @@
 		{
 			"name": "Scouring Light of Teclis",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "29",
 			"image_uris": {
@@ -2708,7 +2708,7 @@
 	1 Immortis Guard
 	1 Arkhan, Mortarch of Sacriment
 	2 Khenash-an, Staff of Spirits
-	2 Liege Kavalos
+	2 Liege Kavalos on Steed
 	1 Katakros, Mortarch of the Necropolis
 	2 Mortisan Soulmason
 	2 Sevireth, Wind Lord
@@ -3004,7 +3004,7 @@
 	2 Khenash-an, Staff of Spirits
 	12 Helm of Tyranny
 	12 Kavalos Deathrider
-	2 Liege Kavalos
+	2 Liege Kavalos on Steed
 	6 Marrowpact
 	6 Mortisan Boneshaper
 	6 Mortisan Soulreaper
@@ -3269,7 +3269,7 @@
 	7 Khenash-an, Staff of Spirits
 	6 Helm of Tyranny
 	6 Kavalos Deathrider
-	7 Liege Kavalos
+	7 Liege Kavalos on Steed
 	15 Marrowpact
 	15 Mortisan Boneshaper
 	15 Mortisan Soulreaper

@@ -1,4 +1,57 @@
-﻿VERSION 62 CHANGELOG
+﻿VERSION 63 CHANGELOG
+====================
+
+Liege Kavalos on Steed added.
+
+Liege Kavalos removed.
+
+Eshin Surprise
+cost: {2}{B} => {1}{B}
+rules_text: This spell can't be countered by activated or triggered abilities.
+Destroy target creature. => This spell costs {1} more to cast if your opponents controls a creature that shares a name with any other creature on the battlefield.
+Destroy target creature.
+
+Mountain Stance
+cost: {1}{G} => {2}{G}
+rules_text: Flash
+Enchant creature.
+When this Aura enters, untap enchanted permanent.
+Enchanted creature gets +1/+2 and has vigilance. => Flash
+Enchant creature.
+When this Aura enters, untap enchanted permanent.
+Enchanted creature gets +2/+2 and has vigilance.
+
+Alarith Mountain Spirit
+
+Training Arena
+rules_text: Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Whenever you activate an ability of a creature you control that isn't a mana ability, target creature you control gets +2/+1 and gains haste until end of turn. This ability triggers only once each turn. => Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Whenever you activate an ability of a creature you control that isn't a mana ability, that gets +2/+0 and gains menace until end of turn. This ability triggers only once each turn.
+
+Artisan's Key
+cost: {2}{W}{U}{B} => {1}{W}{U}{B}
+rules_text: When this artifact enters or leaves the battlefield, return up to one target artifact or creature card with mana value 2 or less from your graveyard to the battlefield.
+{2}, {T}, Sacrifice this artifact: Exile target player's graveyard. Draw a card. => When this artifact enters or leaves the battlefield, return up to one target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+{2}, {T}, Sacrifice this artifact: Draw two cards.
+
+Scouring Light of Teclis
+cost: {2}{W}{W} => {3}{W}{W}
+rules_text: Target creature you control gains indestructible until end of turn. If it is tapped, destroy all untapped creatures. Otherwise, destroy all tapped creatures. => Target creature you control gains indestructible until end of turn. If it is untapped, destroy all untapped creatures. Otherwise, destroy all tapped creatures.
+
+Scourging of Ghyran
+rules_text: Whenever you activate the ability of a creature you control that isn't a mana ability, put a +1/+1 counter on each creature you control. This ability triggers only once each turn. => Whenever you activate the ability of a creature you control that isn't a mana ability, put a +1/+1 counter on each creature you control as it resolves. This ability triggers only once each turn.
+
+Vanari Lord Regent
+
+Liege Kavalos on War Chariot
+rules_text: Menace
+During your turn this creature has flying.
+[i]Battlefield Overseer[/i] — Whenever this creature enters or attacks, you may discard a card. If you do, draw a card. => Menace
+During your turn this creature has flying.
+[i]Battlefield Overseer[/i] — Whenever this creature enters or attacks, you may draw a card. If you do, discard a card.
+
+
+VERSION 62 CHANGELOG
 ====================
 
 
