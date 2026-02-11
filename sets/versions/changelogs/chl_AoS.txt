@@ -1,4 +1,98 @@
-﻿VERSION 64 CHANGELOG
+﻿VERSION 65 CHANGELOG
+====================
+
+Fields of Fire added.
+
+Call of the Blizzard removed.
+
+Scinari Cathallar
+cost: {1}{W} => {2}{W}
+rules_text: [i]Absorb Despair[/i] — At the beginning of your end step, untap another target creature you control. => Flash
+[i]Emotional Transference[/i] — When this creature enters, tap target creature and all other creatures with the same name as that creature.
+
+Dawnbringer Crusade
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+
+Celestial Battlemage
+rules_text: When this creature enters, exile up to two target cards from a single graveyard.
+[i]Storm of Shemtek[/i] — Regiment {3}{W}: Tap target creature and all other creatures with the same name as that creature. Activate only once each turn. => When this creature enters, exile up to two target cards from a single graveyard.
+Regiment {1}{W}: Tap target creature. Activate only once each turn.
+
+Ocari Dara, Spirefall
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke. => 
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke. => 
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke.
+
+A Clash of Gods
+
+They Came from Below
+
+Wreck and Ruin
+
+The Place that Hungers
+
+Across the Plains
+
+Vokmortain, Voice of Nagash
+
+Lyrior Uthralle
+
+Krittok Foulblade
+
+Gorlok Blackpowder
+
+Iscilla Thorian
+
+Kavalos War Chariot
+
+Curse of Years
+
+Mantle of Command
+
+Plague Priest
+
+Fragile Peace
+
+Terramorphic Expanse
+
+Balefire Brazier
+
+Freeguild Marshal on Griffon
+
+Draw Steel!
+
+Unleash the Great Plagues!
+
+Vanari Lord Regent
+
+Liege Kavalos on War Chariot
+
+
+VERSION 64 CHANGELOG
 ====================
 
 

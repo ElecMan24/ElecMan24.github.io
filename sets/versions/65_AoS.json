@@ -1175,8 +1175,8 @@
             "type": "Creature \u2014 Elf Wizard",
             "number": 28,
             "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "[i]Absorb Despair[/i] \u2014 At the beginning of your end step, untap another target creature you control.",
+            "cost": "{2}{W}",
+            "rules_text": "Flash\n[i]Emotional Transference[/i] \u2014 When this creature enters, tap target creature and all other creatures with the same name as that creature.",
             "flavor_text": "[i]\u201cHow is it that she can bear the weight of all our sadness, our fear, our pain? Truly, she is stronger than any of us.\u201d [/i]",
             "pt": "0/4",
             "special_text": "",
@@ -1186,7 +1186,7 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "58",
-            "notes": "Lumineth Realm-Lords\nFlicker Synergy"
+            "notes": "Lumineth Realm-Lords\nEchoing Removal\nFlicker Synergy"
         },
         {
             "card_name": "Scinari Enlightener",
@@ -1293,7 +1293,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 145,
+            "number": 144,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Convoke\nTarget creature you control gets +2/+0 until end of turn. It deals damage equal to its power to target creature you don't control.",
@@ -1636,10 +1636,10 @@
             "number": 184,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
+            "rules_text": "\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
+            "special_text": "\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
             "shape": "saga",
             "set": "AoS",
             "loyalty": "",
@@ -1696,7 +1696,7 @@
             "number": 8,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "When this creature enters, exile up to two target cards from a single graveyard.\n[i]Storm of Shemtek[/i] \u2014 Regiment {3}{W}: Tap target creature and all other creatures with the same name as that creature. Activate only once each turn.",
+            "rules_text": "When this creature enters, exile up to two target cards from a single graveyard.\nRegiment {1}{W}: Tap target creature. Activate only once each turn.",
             "flavor_text": "[i]\u201cAzyr's power is a gift.\u201d[/i]",
             "pt": "2/5",
             "special_text": "",
@@ -1706,7 +1706,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "84",
-            "notes": "Cities of Sigmar\nEchoing Removal\nRegiment Synergy"
+            "notes": "Cities of Sigmar\nRegiment Synergy"
         },
         {
             "card_name": "Bone-Tithe Nexus",
@@ -1893,7 +1893,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 148,
+            "number": 147,
             "color_identity": "G",
             "cost": "{X}{2}{G}",
             "rules_text": "Convoke\nPut a shield counter on X target creatures and/or battles you control.",
@@ -1936,10 +1936,10 @@
             "number": 210,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy all other nonland permanents.\nII \u2014 Create a 4/4 blue and green Elemental Spirit creature token with flying.\nIII \u2014 Permanent spells you cast this turn have convoke.",
+            "rules_text": "\nI \u2014 Destroy all other nonland permanents.\nII \u2014 Create a 4/4 blue and green Elemental Spirit creature token with flying.\nIII \u2014 Permanent spells you cast this turn have convoke.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy all other nonland permanents.\nII \u2014 Create a 4/4 blue and green Elemental Spirit creature token with flying.\nIII \u2014 Permanent spells you cast this turn have convoke.",
+            "special_text": "\nI \u2014 Destroy all other nonland permanents.\nII \u2014 Create a 4/4 blue and green Elemental Spirit creature token with flying.\nIII \u2014 Permanent spells you cast this turn have convoke.",
             "shape": "saga",
             "set": "AoS",
             "loyalty": "",
@@ -2353,7 +2353,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
-            "number": 146,
+            "number": 145,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Enchant land.\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.",
@@ -3913,7 +3913,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Battle \u2014 Control Point",
-            "number": 147,
+            "number": 146,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "[i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 5 defense counters on it.)[/i]\nAt the beginning of your end step, if you control two or more tapped creatures, reveal cards from the top of your library until you reveal a land card. Put that card into your hand and the rest on the bottom of your library in a random order.",
@@ -4433,7 +4433,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 149,
+            "number": 148,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Look at the top five cards of your library. You may reveal a creature, land, or battle card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
@@ -4929,26 +4929,6 @@
             "notes": "Cities of Sigmar\nActivated Ability Synergy\nTap/Untap Synergy"
         },
         {
-            "card_name": "Call of the Blizzard",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "Sorcery",
-            "number": 144,
-            "color_identity": "G",
-            "cost": "{3}{G}",
-            "rules_text": "Target creature you control gets +3/+3 until end of turn. It deals damage equal to its power to target creature you don't control and all other creatures with the same name as that creature.",
-            "flavor_text": "[i]Some Ogors cursed by the Everwinter have learned to make its ceaseless chill into a deadly weapon. [/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AoS",
-            "loyalty": "",
-            "artist": "Games Workshop",
-            "alias": "",
-            "position": "246",
-            "notes": "Ogor Mawtribes\nEchoing Removal\nMana Value Matters Synergy"
-        },
-        {
             "card_name": "A Clash of Gods",
             "color": "WU",
             "rarity": "rare",
@@ -4965,7 +4945,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "247",
+            "position": "246",
             "notes": "Battles\nAzorius Rare"
         },
         {
@@ -4985,7 +4965,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "248",
+            "position": "247",
             "notes": "Battles\nDimir Rare"
         },
         {
@@ -5005,7 +4985,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "notes": "Battles\nRakdos Rare"
         },
         {
@@ -5025,7 +5005,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "notes": "Battles\nGruul Rare"
         },
         {
@@ -5045,7 +5025,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "notes": "Battles\nSylesnea Rare"
         },
         {
@@ -5065,7 +5045,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -5085,7 +5065,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "notes": "Lumineth Realm-Lords"
         },
         {
@@ -5105,7 +5085,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "notes": "Skaven"
         },
         {
@@ -5125,7 +5105,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "notes": ""
         },
         {
@@ -5145,7 +5125,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "notes": "Cities of Sigmar"
         },
         {
@@ -5165,7 +5145,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -5185,7 +5165,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "notes": "Ossiarch Bonereapers"
         },
         {
@@ -5205,7 +5185,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "notes": "Cities of Sigmar\nNaya Uncommons"
         },
         {
@@ -5225,7 +5205,7 @@
             "loyalty": "",
             "artist": "Jon Cave",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "notes": "Skaven"
         },
         {
@@ -5245,7 +5225,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "notes": "Faction Agnostic Cards\nBattle Hate"
         },
         {
@@ -5265,7 +5245,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "notes": ""
         },
         {
@@ -5285,7 +5265,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "notes": "Ossiarch Bonereapers\nReconstruct Synergy\nSacrifice Synergy"
         },
         {
@@ -5305,7 +5285,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "notes": "Cities of Sigmar\nNaya Uncommons\nRegiment Synergy"
         },
         {
@@ -5325,7 +5305,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "notes": "Cities of Sigmar"
         },
         {
@@ -5345,7 +5325,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "notes": "Skaven\nEchoing Removal"
         },
         {
@@ -5365,7 +5345,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "notes": "Lumineth Realm-Lords\nBant Uncommons\nConvoke Synergy"
         },
         {
@@ -5385,8 +5365,28 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "notes": "Ossiarch Bonereapers\nEsper Uncommons"
+        },
+        {
+            "card_name": "Fields of Fire",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "Sorcery",
+            "number": 149,
+            "color_identity": "G",
+            "cost": "{3}{G}",
+            "rules_text": "Target creature you control gets +3/+3 until end of turn. It deals damage equal to its power to target creature you don't control and all other creatures with the same name as that creature.",
+            "flavor_text": "[i]\u201cFirst company, open fire! Second company, advance on their position.\u201d[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AoS",
+            "loyalty": "",
+            "artist": "Games Workshop",
+            "alias": "",
+            "position": "268",
+            "notes": "Cities of Sigmar\nEchoing Removal"
         }
     ]
 }

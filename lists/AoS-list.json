@@ -4,35 +4,35 @@
         "number": 18,
         "shape": "normal",
         "set": "AoS",
-        "position": "253"
+        "position": "252"
     },
     {
         "card_name": "Vokmortain, Voice of Nagash",
         "number": 70,
         "shape": "normal",
         "set": "AoS",
-        "position": "252"
+        "position": "251"
     },
     {
         "card_name": "Krittok Foulblade",
         "number": 86,
         "shape": "normal",
         "set": "AoS",
-        "position": "254"
+        "position": "253"
     },
     {
         "card_name": "Gorlok Blackpowder",
         "number": 117,
         "shape": "normal",
         "set": "AoS",
-        "position": "255"
+        "position": "254"
     },
     {
         "card_name": "Iscilla Thorian",
         "number": 158,
         "shape": "normal",
         "set": "AoS",
-        "position": "256"
+        "position": "255"
     },
     {
         "card_name": "Freeguild Garrison",
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Cyclic Shifts",
-        "number": 147,
+        "number": 146,
         "shape": "normal split",
         "set": "AoS",
         "position": "195"
@@ -326,7 +326,7 @@
         "number": 44,
         "shape": "normal",
         "set": "AoS",
-        "position": "258"
+        "position": "257"
     },
     {
         "card_name": "Endless Tides of Vermin",
@@ -378,11 +378,11 @@
         "position": "196"
     },
     {
-        "card_name": "Call of the Blizzard",
-        "number": 144,
+        "card_name": "City's Heraldry",
+        "number": 145,
         "shape": "normal",
         "set": "AoS",
-        "position": "246"
+        "position": "117"
     },
     {
         "card_name": "Light of the True Moon",
@@ -396,7 +396,7 @@
         "number": 48,
         "shape": "normal",
         "set": "AoS",
-        "position": "257"
+        "position": "256"
     },
     {
         "card_name": "Grisly Repast",
@@ -413,11 +413,11 @@
         "position": "220"
     },
     {
-        "card_name": "City's Heraldry",
-        "number": 146,
+        "card_name": "Enduring as Rock",
+        "number": 147,
         "shape": "normal",
         "set": "AoS",
-        "position": "117"
+        "position": "94"
     },
     {
         "card_name": "Lines of Communication",
@@ -448,11 +448,11 @@
         "position": "222"
     },
     {
-        "card_name": "Enduring as Rock",
-        "number": 148,
+        "card_name": "Fields of Fire",
+        "number": 149,
         "shape": "normal",
         "set": "AoS",
-        "position": "94"
+        "position": "268"
     },
     {
         "card_name": "Marrowpact",
@@ -613,7 +613,7 @@
         "number": 102,
         "shape": "normal",
         "set": "AoS",
-        "position": "266"
+        "position": "265"
     },
     {
         "card_name": "Ogor Ironblaster",
@@ -718,7 +718,7 @@
         "number": 72,
         "shape": "normal",
         "set": "AoS",
-        "position": "263"
+        "position": "262"
     },
     {
         "card_name": "Acolyte Globadier",
@@ -729,7 +729,7 @@
     },
     {
         "card_name": "Charge of the Lumineth",
-        "number": 145,
+        "number": 144,
         "shape": "normal",
         "set": "AoS",
         "position": "64"
@@ -764,7 +764,7 @@
     },
     {
         "card_name": "Expand the Mawpath",
-        "number": 149,
+        "number": 148,
         "shape": "normal",
         "set": "AoS",
         "position": "221"
@@ -795,7 +795,7 @@
         "number": 112,
         "shape": "normal",
         "set": "AoS",
-        "position": "265"
+        "position": "264"
     },
     {
         "card_name": "Freeguild Cavalier",
@@ -1207,35 +1207,35 @@
         "number": 182,
         "shape": "normal split",
         "set": "AoS",
-        "position": "247"
+        "position": "246"
     },
     {
         "card_name": "They Came from Below",
         "number": 226,
         "shape": "normal split",
         "set": "AoS",
-        "position": "248"
+        "position": "247"
     },
     {
         "card_name": "Wreck and Ruin",
         "number": 236,
         "shape": "normal split",
         "set": "AoS",
-        "position": "249"
+        "position": "248"
     },
     {
         "card_name": "The Place that Hungers",
         "number": 215,
         "shape": "normal split",
         "set": "AoS",
-        "position": "250"
+        "position": "249"
     },
     {
         "card_name": "Across the Plains",
         "number": 172,
         "shape": "normal split",
         "set": "AoS",
-        "position": "251"
+        "position": "250"
     },
     {
         "card_name": "Hurakan Wind Spirit",
@@ -1474,7 +1474,7 @@
         "number": 216,
         "shape": "normal",
         "set": "AoS",
-        "position": "260"
+        "position": "259"
     },
     {
         "card_name": "Frostlord on Stonehorn",
@@ -1628,7 +1628,7 @@
         "number": 188,
         "shape": "normal",
         "set": "AoS",
-        "position": "264"
+        "position": "263"
     },
     {
         "card_name": "Scinari Calligrave",
@@ -1642,7 +1642,7 @@
         "number": 200,
         "shape": "normal",
         "set": "AoS",
-        "position": "268"
+        "position": "267"
     },
     {
         "card_name": "Warpgale",
@@ -1663,14 +1663,14 @@
         "number": 203,
         "shape": "normal",
         "set": "AoS",
-        "position": "259"
+        "position": "258"
     },
     {
         "card_name": "Vanari Lord Regent",
         "number": 229,
         "shape": "normal",
         "set": "AoS",
-        "position": "267"
+        "position": "266"
     },
     {
         "card_name": "er"
@@ -1690,7 +1690,7 @@
         "number": 5,
         "shape": "normal",
         "set": "AoS",
-        "position": "261"
+        "position": "260"
     },
     {
         "card_name": "Lumineth Sanctuary",
@@ -1953,7 +1953,7 @@
         "number": 261,
         "shape": "normal",
         "set": "AoS",
-        "position": "262"
+        "position": "261"
     },
     {
         "card_name": "e"
