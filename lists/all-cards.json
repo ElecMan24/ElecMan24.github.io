@@ -401,7 +401,7 @@
             "color": "UBR",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 205,
+            "number": 204,
             "color_identity": "UBR",
             "cost": "{X}{X}{U}{B}{R}",
             "rules_text": "Discard any number of cards, then draw that many cards plus one.\nMORE-MORE DOOM!!! deals three times X damage to each creature.",
@@ -810,7 +810,7 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "36",
-            "notes": "Ossiarch Bonereapers",
+            "notes": "Ossiarch Bonereapers\nEsper Rares",
             "image_type": "png",
             "v_mana": ""
         },
@@ -832,7 +832,7 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "37",
-            "notes": "Ossiarch Bonereapers",
+            "notes": "Ossiarch Bonereapers\nEsper Mythics",
             "image_type": "png",
             "v_mana": ""
         },
@@ -898,29 +898,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "40",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
-        },
-        {
-            "card_name": "Khenash-an, Staff of Spirits",
-            "color": "WUB",
-            "rarity": "rare",
-            "type": "Legendary Artifact \u2013 Equipment",
-            "number": 199,
-            "color_identity": "WUB",
-            "cost": "{W}{U}{B}",
-            "rules_text": "Equipped creature has lifelink and deathtouch.\nWhenever equipped creature deals combat damage to a player or battle, you may return target creature or artifact card with mana value X or less from your graveyard to the battlefield, where X is the amount of damage equipped creature dealt to that player or battle.\nEquip Wizard: {2}\nEquip {3}{W}{U}{B}",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AoS",
-            "loyalty": "",
-            "artist": "Eavy' Metal Team",
-            "alias": "",
-            "position": "41",
-            "notes": "Ossiarch Bonereapers",
+            "notes": "Ossiarch Bonereapers\nEsper Mythics",
             "image_type": "png",
             "v_mana": ""
         },
@@ -941,7 +919,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "42",
+            "position": "41",
             "notes": "Ossiarch Bonereapers\nBattles Matter Equipment Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -963,7 +941,7 @@
             "loyalty": "",
             "artist": "Cubicle 7",
             "alias": "",
-            "position": "43",
+            "position": "42",
             "notes": "Ossiarch Bonereapers\nReconstruct Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -985,7 +963,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "44",
+            "position": "43",
             "notes": "Ossiarch Bonereapers\nSacrifice Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1007,7 +985,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "45",
+            "position": "44",
             "notes": "Ossiarch Bonereapers\nFlicker Synergy\nReconstruct Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1029,7 +1007,7 @@
             "loyalty": "",
             "artist": "Cubicle 7",
             "alias": "",
-            "position": "46",
+            "position": "45",
             "notes": "Ossiarch Bonereapers\nRecursion Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1051,7 +1029,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "47",
+            "position": "46",
             "notes": "Ossiarch Bonereapers\nSacrifice Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1073,7 +1051,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "48",
+            "position": "47",
             "notes": "Ossiarch Bonereapers\nFlicker Synergy\nEchoing Removal",
             "image_type": "png",
             "v_mana": ""
@@ -1095,7 +1073,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "49",
+            "position": "48",
             "notes": "Ossiarch Bonereapers",
             "image_type": "png",
             "v_mana": ""
@@ -1117,8 +1095,8 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "50",
-            "notes": "Ossiarch Bonereapers",
+            "position": "49",
+            "notes": "Ossiarch Bonereapers\nEsper Mythics",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1139,7 +1117,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "51",
+            "position": "50",
             "notes": "Ossiarch Bonereapers\nDiscard/Graveyard Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1161,7 +1139,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "52",
+            "position": "51",
             "notes": "Ossiarch Bonereapers\nFlicker Synergy\nReconstruct Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1171,7 +1149,7 @@
             "color": "WUB",
             "rarity": "rare",
             "type": "Creature \u2013 Skeleton Wizard Noble",
-            "number": 207,
+            "number": 206,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
             "rules_text": "[i]Soul Guide[/i] \u2013 Discard a nonland card: Exile another target creature or artifact you control, then return that card to the battlefield under its owner's control. Activate only during your turn and only once each turn.",
@@ -1183,8 +1161,8 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "53",
-            "notes": "Ossiarch Bonereapers",
+            "position": "52",
+            "notes": "Ossiarch Bonereapers\nEsper Rares",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1205,7 +1183,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "54",
+            "position": "53",
             "notes": "Ossiarch Bonereapers",
             "image_type": "png",
             "v_mana": ""
@@ -1227,7 +1205,7 @@
             "loyalty": "",
             "artist": "Cubicle 7",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -1249,7 +1227,7 @@
             "loyalty": "",
             "artist": "Denis Sarbashev",
             "alias": "",
-            "position": "56",
+            "position": "55",
             "notes": "Lumineth Realm-Lords\nTap/Untap Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1271,7 +1249,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "57",
+            "position": "56",
             "notes": "Lumineth Realm-Lords\nFlicker Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1293,7 +1271,7 @@
             "loyalty": "",
             "artist": "Cubicle 7",
             "alias": "",
-            "position": "58",
+            "position": "57",
             "notes": "Lumineth Realm-Lords\nEchoing Removal\nFlicker Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1315,7 +1293,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "59",
+            "position": "58",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -1337,7 +1315,7 @@
             "loyalty": "",
             "artist": "Cubicle 7",
             "alias": "",
-            "position": "60",
+            "position": "59",
             "notes": "Lumineth Realm-Lords\nTap/Untap Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1359,7 +1337,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "61",
+            "position": "60",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -1381,7 +1359,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "62",
+            "position": "61",
             "notes": "Lumineth Realm-Lords\nConvoke Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1403,7 +1381,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "63",
+            "position": "62",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -1425,7 +1403,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "64",
+            "position": "63",
             "notes": "Lumineth Realm-Lords\nConvoke Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1447,7 +1425,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "65",
+            "position": "64",
             "notes": "Lumineth Realm-Lords\nConvoke Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1469,7 +1447,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "66",
+            "position": "65",
             "notes": "Lumineth Realm-Lords\nConvoke Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1491,7 +1469,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "67",
+            "position": "66",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -1513,7 +1491,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "68",
+            "position": "67",
             "notes": "Lumineth Realm-Lords\nTap/Untap Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1535,7 +1513,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "69",
+            "position": "68",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -1557,7 +1535,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "70",
+            "position": "69",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -1579,7 +1557,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "71",
+            "position": "70",
             "notes": "Lumineth Realm-Lords\nFlicker Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1601,7 +1579,7 @@
             "loyalty": "",
             "artist": "Regina S.",
             "alias": "",
-            "position": "72",
+            "position": "71",
             "notes": "Lumineth Realm-Lords\nTap/Untap Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1623,7 +1601,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "73",
+            "position": "72",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -1645,7 +1623,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "74",
+            "position": "73",
             "notes": "Lumineth Realm-Lords\nTap/Untap Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1667,7 +1645,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "75",
+            "position": "74",
             "notes": "Lumineth Realm-Lords\nConvoke Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1689,7 +1667,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "76",
+            "position": "75",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -1711,7 +1689,7 @@
             "loyalty": "",
             "artist": "Anna Lakisova",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -1733,7 +1711,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "78",
+            "position": "77",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -1755,7 +1733,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -1777,7 +1755,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "80",
+            "position": "79",
             "notes": "Cities of Sigmar\nTap/Untap Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1799,7 +1777,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -1821,7 +1799,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -1843,7 +1821,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "notes": "Cities of Sigmar\nActivated ability synergy\nRegiment Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1865,7 +1843,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "84",
+            "position": "83",
             "notes": "Cities of Sigmar\nRegiment Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1887,8 +1865,8 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "85",
-            "notes": "Faction Terrain Cycle\nOssiarch Bonereapers",
+            "position": "84",
+            "notes": "Faction Terrain Cycle\nOssiarch Bonereapers\nEsper Rares",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1909,7 +1887,7 @@
             "loyalty": "",
             "artist": "Cubicle 7",
             "alias": "",
-            "position": "86",
+            "position": "85",
             "notes": "Ossiarch Bonereapers",
             "image_type": "png",
             "v_mana": ""
@@ -1931,7 +1909,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "notes": "Ossiarch Bonereapers\nEchoing Removal",
             "image_type": "png",
             "v_mana": ""
@@ -1944,8 +1922,8 @@
             "number": 173,
             "color_identity": "WG",
             "cost": "{5}{G}{W}",
-            "rules_text": "Convoke\nVigilance, trample\nThis creature enters with a shield counter on it.",
-            "flavor_text": "[i]After years of training, meditation and study, Illuwen was deemed worthy of calling the spirit of their temple's holy mountain to aid in their defense.[/i]",
+            "rules_text": "Convoke\nVigilance, trample\nWhenever this creature enters or becomes tapped, put a shield counter on target creature or battle you control.",
+            "flavor_text": "[i]After years of training, meditation and study, Illuwen was deemed worthy of calling the spirit of their temple's holy mountain to aid in their defense. [/i]",
             "pt": "5/5",
             "special_text": "",
             "shape": "normal",
@@ -1953,7 +1931,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "notes": "Lumineth Realm-Lords\nConvoke Synergy\nFlicker Synergy\nSylesnea Uncommons",
             "image_type": "png",
             "v_mana": ""
@@ -1975,7 +1953,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "89",
+            "position": "88",
             "notes": "Lumineth Realm-Lords\nAzorius Uncommons\nFlicker Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -1997,7 +1975,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "90",
+            "position": "89",
             "notes": "Lumineth Realm-Lords\nConvoke Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2019,7 +1997,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "91",
+            "position": "90",
             "notes": "Lumineth Realm-Lords\nConvoke Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2041,7 +2019,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "92",
+            "position": "91",
             "notes": "Lumineth Realm-Lords\nFlicker Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2063,7 +2041,7 @@
             "loyalty": "",
             "artist": "Vladimir Krisetskiy",
             "alias": "",
-            "position": "93",
+            "position": "92",
             "notes": "Lumineth Realm-Lords\nTap/Untap Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2085,7 +2063,7 @@
             "loyalty": "",
             "artist": "Cubicle 7",
             "alias": "",
-            "position": "94",
+            "position": "93",
             "notes": "Lumineth Realm-Lords\nConvoke Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2107,7 +2085,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "95",
+            "position": "94",
             "notes": "Battles Matter Equipment\nLumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -2129,7 +2107,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "96",
+            "position": "95",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -2151,7 +2129,7 @@
             "loyalty": "",
             "artist": "Cubicle 7",
             "alias": "",
-            "position": "97",
+            "position": "96",
             "notes": "Lumineth Realm-Lords\nBant Rares",
             "image_type": "png",
             "v_mana": ""
@@ -2173,7 +2151,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "98",
+            "position": "97",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -2195,7 +2173,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "99",
+            "position": "98",
             "notes": "Lumineth Realm-Lords\nFlicker Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2217,7 +2195,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "100",
+            "position": "99",
             "notes": "Lumineth Realm-Lords\nFlicker Synergy\nTap/Untap Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2239,7 +2217,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "101",
+            "position": "100",
             "notes": "Agnostic Card(s)\nFixing Land",
             "image_type": "png",
             "v_mana": ""
@@ -2261,7 +2239,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "102",
+            "position": "101",
             "notes": "Fixing Land\nOgor Mawtribes",
             "image_type": "png",
             "v_mana": ""
@@ -2283,7 +2261,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "103",
+            "position": "102",
             "notes": "Fixing Land\nSkaven",
             "image_type": "png",
             "v_mana": ""
@@ -2305,7 +2283,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "104",
+            "position": "103",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -2327,7 +2305,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "105",
+            "position": "104",
             "notes": "Fixing Land\nLumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -2349,7 +2327,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "106",
+            "position": "105",
             "notes": "Fixing Land\nOssiarch Bonereapers",
             "image_type": "png",
             "v_mana": ""
@@ -2371,7 +2349,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "107",
+            "position": "106",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -2393,7 +2371,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "notes": "Cities of Sigmar\nGruul Uncommons\nActivated Ability Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2415,7 +2393,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "notes": "Ogor Mawtribes\nEngorge Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2437,7 +2415,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "110",
+            "position": "109",
             "notes": "Ogor Mawtribes\nEngorge Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2459,7 +2437,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "111",
+            "position": "110",
             "notes": "Ogor Mawtribes\nRakdos Uncommons\nSacrifice Synergy\nMana Value Matters Synergy\nEngorge Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2481,7 +2459,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "112",
+            "position": "111",
             "notes": "Cities of Sigmar\nRegiment Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2503,7 +2481,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "113",
+            "position": "112",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -2525,7 +2503,7 @@
             "loyalty": "",
             "artist": "Tze Kun Chin \u9648\u5fd7\u5803",
             "alias": "",
-            "position": "114",
+            "position": "113",
             "notes": "Ogor Mawtribes\nActivated Ability Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -2547,7 +2525,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "115",
+            "position": "114",
             "notes": "Ogor Mawtribes\nGruul Uncommons",
             "image_type": "png",
             "v_mana": ""
@@ -2569,7 +2547,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "116",
+            "position": "115",
             "notes": "Ogor Mawtribes\nJund Rares",
             "image_type": "png",
             "v_mana": ""
@@ -2591,7 +2569,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "117",
+            "position": "116",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -2613,7 +2591,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "118",
+            "position": "117",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -2635,7 +2613,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "119",
+            "position": "118",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -2657,7 +2635,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "120",
+            "position": "119",
             "notes": "Cards to Rework\nLumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -2679,7 +2657,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "121",
+            "position": "120",
             "notes": "Chopping Block Cards\nBattles",
             "image_type": "png",
             "v_mana": ""
@@ -2701,7 +2679,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "122",
+            "position": "121",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -2723,7 +2701,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "123",
+            "position": "122",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -2745,7 +2723,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "124",
+            "position": "123",
             "notes": "Lumineth Realm-Lords\nFixing Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -2767,7 +2745,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "125",
+            "position": "124",
             "notes": "Cities of Sigmar\nFixing Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -2789,7 +2767,7 @@
             "loyalty": "",
             "artist": "Alexandre Noyer",
             "alias": "",
-            "position": "126",
+            "position": "125",
             "notes": "Skaven\nFixing Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -2811,7 +2789,7 @@
             "loyalty": "",
             "artist": "Daniel Kovacs",
             "alias": "",
-            "position": "127",
+            "position": "126",
             "notes": "Ogor Mawtribes\nFixing Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -2833,7 +2811,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "128",
+            "position": "127",
             "notes": "Ossiarch Bonereapers\nFixing Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -2855,7 +2833,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "129",
+            "position": "128",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -2877,7 +2855,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "130",
+            "position": "129",
             "notes": "Lumineth Realm-Lords\nUtility Land Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -2899,7 +2877,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "131",
+            "position": "130",
             "notes": "Ossiarch Bonereapers\nUtility Land Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -2921,7 +2899,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "132",
+            "position": "131",
             "notes": "Skaven\nUtility Land Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -2943,7 +2921,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "133",
+            "position": "132",
             "notes": "Ogor Mawtribes\nUtility Land Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -2965,7 +2943,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "134",
+            "position": "133",
             "notes": "Cities of Sigmar\nUtility Land Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -2987,7 +2965,7 @@
             "loyalty": "",
             "artist": "Max FitzGerald",
             "alias": "",
-            "position": "135",
+            "position": "134",
             "notes": "Skaven\nRuination Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -3009,7 +2987,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "136",
+            "position": "135",
             "notes": "Skaven",
             "image_type": "png",
             "v_mana": ""
@@ -3031,7 +3009,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "137",
+            "position": "136",
             "notes": "Skaven\nRuination Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -3053,7 +3031,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "138",
+            "position": "137",
             "notes": "Ossiarch Bonereapers",
             "image_type": "png",
             "v_mana": ""
@@ -3075,7 +3053,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "139",
+            "position": "138",
             "notes": "Agnostic Card(s)",
             "image_type": "png",
             "v_mana": ""
@@ -3097,7 +3075,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "notes": "Skaven\nSacrifice Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -3119,7 +3097,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "141",
+            "position": "140",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -3141,7 +3119,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "142",
+            "position": "141",
             "notes": "Ogor Mawtribes\nJund Mythics",
             "image_type": "png",
             "v_mana": ""
@@ -3163,7 +3141,7 @@
             "loyalty": "",
             "artist": "Thomas Elliott",
             "alias": "",
-            "position": "143",
+            "position": "142",
             "notes": "Ogor Mawtribes\nJund Mythics",
             "image_type": "png",
             "v_mana": ""
@@ -3185,7 +3163,7 @@
             "loyalty": "",
             "artist": "Wonchun Choi (Doo)",
             "alias": "",
-            "position": "144",
+            "position": "143",
             "notes": "Ogor Mawtribes\nJund Mythics",
             "image_type": "png",
             "v_mana": ""
@@ -3207,7 +3185,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "145",
+            "position": "144",
             "notes": "Ogor Mawtribes\nFaction Terrain Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -3229,7 +3207,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "146",
+            "position": "145",
             "notes": "Lumineth Realm-Lords\nFaction Terrain Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -3251,7 +3229,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "147",
+            "position": "146",
             "notes": "Faction Terrain Cycle\nCities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -3273,7 +3251,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "148",
+            "position": "147",
             "notes": "Faction Terrain Cycle\nSkaven\nGrixis Rares",
             "image_type": "png",
             "v_mana": ""
@@ -3295,7 +3273,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "149",
+            "position": "148",
             "notes": "Gain Lands\nFixing Lands",
             "image_type": "png",
             "v_mana": ""
@@ -3317,7 +3295,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "150",
+            "position": "149",
             "notes": "Gain Lands\nFixing Lands",
             "image_type": "png",
             "v_mana": ""
@@ -3339,7 +3317,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "151",
+            "position": "150",
             "notes": "Gain Lands\nFixing Lands",
             "image_type": "png",
             "v_mana": ""
@@ -3361,7 +3339,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "152",
+            "position": "151",
             "notes": "Gain Lands\nFixing Lands",
             "image_type": "png",
             "v_mana": ""
@@ -3383,7 +3361,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "153",
+            "position": "152",
             "notes": "Gain Lands\nFixing Lands",
             "image_type": "png",
             "v_mana": ""
@@ -3405,7 +3383,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "154",
+            "position": "153",
             "notes": "Gain Lands\nFixing Lands",
             "image_type": "png",
             "v_mana": ""
@@ -3427,7 +3405,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "155",
+            "position": "154",
             "notes": "Gain Lands\nFixing Lands",
             "image_type": "png",
             "v_mana": ""
@@ -3449,7 +3427,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "156",
+            "position": "155",
             "notes": "Gain Lands\nFixing Lands",
             "image_type": "png",
             "v_mana": ""
@@ -3471,7 +3449,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "157",
+            "position": "156",
             "notes": "Gain Lands\nFixing Lands",
             "image_type": "png",
             "v_mana": ""
@@ -3493,7 +3471,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "158",
+            "position": "157",
             "notes": "Gain Lands\nFixing Lands",
             "image_type": "png",
             "v_mana": ""
@@ -3515,7 +3493,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "159",
+            "position": "158",
             "notes": "Lumineth Realm-Lords\nBant Uncommons",
             "image_type": "png",
             "v_mana": ""
@@ -3525,7 +3503,7 @@
             "color": "WUG",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 202,
+            "number": 201,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
             "rules_text": "Exile target creature you control, then return it to the battlefield under its owner's control with a +1/+1 counter on it. When that creature enters, it deals damage equal to its power to up to one target creature you don't control.",
@@ -3537,7 +3515,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "160",
+            "position": "159",
             "notes": "Lumineth Realm-Lords\nBant Uncommons",
             "image_type": "png",
             "v_mana": ""
@@ -3559,7 +3537,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "161",
+            "position": "160",
             "notes": "Skaven\nGrixis Uncommons",
             "image_type": "png",
             "v_mana": ""
@@ -3581,7 +3559,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "162",
+            "position": "161",
             "notes": "Cities of Sigmar\nBattles Matter Equipment Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -3603,7 +3581,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "163",
+            "position": "162",
             "notes": "Ogor Mawtribes\nBattles Matter Equipment",
             "image_type": "png",
             "v_mana": ""
@@ -3625,7 +3603,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "164",
+            "position": "163",
             "notes": "Battles Matter Equipment\nSkaven",
             "image_type": "png",
             "v_mana": ""
@@ -3647,7 +3625,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "165",
+            "position": "164",
             "notes": "Skaven",
             "image_type": "png",
             "v_mana": ""
@@ -3669,7 +3647,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "166",
+            "position": "165",
             "notes": "Cities of Sigmar\nNaya Uncommons",
             "image_type": "png",
             "v_mana": ""
@@ -3691,7 +3669,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "167",
+            "position": "166",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -3713,7 +3691,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "168",
+            "position": "167",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -3735,7 +3713,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "169",
+            "position": "168",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -3757,7 +3735,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "170",
+            "position": "169",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -3779,7 +3757,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "171",
+            "position": "170",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -3801,7 +3779,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "172",
+            "position": "171",
             "notes": "Skaven\nRuination Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -3811,7 +3789,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Creature \u2013 Rat Scientist",
-            "number": 204,
+            "number": 203,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
             "rules_text": "{T}: Draw a card, then discard a card.\n{2}{U}{B}, {T}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.",
@@ -3823,7 +3801,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "173",
+            "position": "172",
             "notes": "Cards to Rework\nSkaven\nDimir Uncommons\nDiscard/Graveyard Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -3845,7 +3823,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "174",
+            "position": "173",
             "notes": "Ogor Mawtribes\nActivated Ability Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -3867,7 +3845,7 @@
             "loyalty": "",
             "artist": "Daniel Kovacs",
             "alias": "",
-            "position": "175",
+            "position": "174",
             "notes": "Ogor Mawtribes\nJund Uncommons",
             "image_type": "png",
             "v_mana": ""
@@ -3889,7 +3867,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "176",
+            "position": "175",
             "notes": "Ogor Mawtribes\nSacrifice Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -3911,7 +3889,7 @@
             "loyalty": "",
             "artist": "Johan Grenier",
             "alias": "",
-            "position": "177",
+            "position": "176",
             "notes": "Ogor Mawtribes\nJund Uncommons",
             "image_type": "png",
             "v_mana": ""
@@ -3933,7 +3911,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "178",
+            "position": "177",
             "notes": "Ogor Mawtribes\nEchoing Removal\nEngorge Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -3943,10 +3921,10 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Creature \u2013 Skeleton Assassin",
-            "number": 206,
+            "number": 205,
             "color_identity": "UB",
-            "cost": "{1}{U}{B}",
-            "rules_text": "Deathtouch\nWhen this creature enters, draw a card. If this creature entered from a graveyard or was cast from a graveyard, draw two cards instead. Then discard a card.\nReconstruct",
+            "cost": "{2}{U}{B}",
+            "rules_text": "Deathtouch\nWhen this creature enters, draw a card. If this creature entered from a graveyard or was cast from a graveyard, draw two cards instead.\nReconstruct",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3955,7 +3933,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "179",
+            "position": "178",
             "notes": "Ossiarch Bonereapers\nDimir Uncommons\nDiscard/Graveyard Synergy\nReconstruct Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -3977,7 +3955,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "180",
+            "position": "179",
             "notes": "Ossiarch Bonereapers\nFlicker Synergy\nSacrifice Synergy\nReconstruct Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -3999,7 +3977,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "181",
+            "position": "180",
             "notes": "Ogor Mawtribes\nSacrifice Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4021,7 +3999,7 @@
             "loyalty": "",
             "artist": "Johan Grenier",
             "alias": "",
-            "position": "182",
+            "position": "181",
             "notes": "Ogor Mawtribes\nJund Rares",
             "image_type": "png",
             "v_mana": ""
@@ -4043,7 +4021,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "183",
+            "position": "182",
             "notes": "Ogor Mawtribes\nActivated Ability Synergy\nEngorge Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4065,7 +4043,7 @@
             "loyalty": "",
             "artist": "Johan Grenier",
             "alias": "",
-            "position": "184",
+            "position": "183",
             "notes": "Ogor Mawtribes\nSacrifice Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4087,7 +4065,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "185",
+            "position": "184",
             "notes": "Ogor Mawtribes\nSacrifice Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4109,7 +4087,7 @@
             "loyalty": "",
             "artist": "Tze Kun Chin \u9648\u5fd7\u5803",
             "alias": "",
-            "position": "186",
+            "position": "185",
             "notes": "Ogor Mawtribes\nJund Rares",
             "image_type": "png",
             "v_mana": ""
@@ -4131,7 +4109,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "187",
+            "position": "186",
             "notes": "Lumineth Realm-Lords\nConvoke Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4153,7 +4131,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "188",
+            "position": "187",
             "notes": "Lumineth Realm-Lords\nConvoke Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4175,7 +4153,7 @@
             "loyalty": "",
             "artist": "Alexandre Noyer",
             "alias": "",
-            "position": "189",
+            "position": "188",
             "notes": "Cities of Sigmar\nActivated Ability Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4197,7 +4175,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "190",
+            "position": "189",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -4219,7 +4197,7 @@
             "loyalty": "",
             "artist": "Games Workshop + White Dwarf",
             "alias": "",
-            "position": "191",
+            "position": "190",
             "notes": "Cities of Sigmar\nChampions Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -4241,7 +4219,7 @@
             "loyalty": "",
             "artist": "Igor Sid",
             "alias": "",
-            "position": "192",
+            "position": "191",
             "notes": "Ogor Mawtribes\nMana Value Matters Synergy\nSacrifice Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4263,7 +4241,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "193",
+            "position": "192",
             "notes": "Ogor Mawtribes",
             "image_type": "png",
             "v_mana": ""
@@ -4285,7 +4263,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "194",
+            "position": "193",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -4307,7 +4285,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "195",
+            "position": "194",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -4329,7 +4307,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "196",
+            "position": "195",
             "notes": "Skaven",
             "image_type": "png",
             "v_mana": ""
@@ -4351,7 +4329,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "197",
+            "position": "196",
             "notes": "Ossiarch Bonereapers\nChampions Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -4373,7 +4351,7 @@
             "loyalty": "",
             "artist": "Denis Sarbashev",
             "alias": "",
-            "position": "198",
+            "position": "197",
             "notes": "Lumineth Realm-Lords\nChampions Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -4395,7 +4373,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "199",
+            "position": "198",
             "notes": "Skaven\nChampions Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -4417,7 +4395,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "200",
+            "position": "199",
             "notes": "Ogor Mawtribes\nChampions Cycle",
             "image_type": "png",
             "v_mana": ""
@@ -4439,7 +4417,7 @@
             "loyalty": "",
             "artist": "Max FitzGerald",
             "alias": "",
-            "position": "201",
+            "position": "200",
             "notes": "Skaven\nMana Value Matters Synergy\nSacrifice Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4461,7 +4439,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "202",
+            "position": "201",
             "notes": "Skaven\nDiscard/Graveyard Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4483,7 +4461,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "203",
+            "position": "202",
             "notes": "Skaven\nDiscard/Graveyard Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4505,7 +4483,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "204",
+            "position": "203",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -4515,7 +4493,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Creature \u2013 Skeleton Soldier Noble",
-            "number": 201,
+            "number": 200,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Whenever one or more other creatures and/or artifacts you control leave the battlefield without dying, surveil 1.\nAt the beginning of your end step, you may exile another target creature or artifact you control, then return that card to the battlefield under its owner's control.",
@@ -4527,30 +4505,8 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "205",
+            "position": "204",
             "notes": "Ossiarch Bonereapers\nAzorius Uncommons\nFlicker Synergy",
-            "image_type": "png",
-            "v_mana": ""
-        },
-        {
-            "card_name": "Drain Vitality",
-            "color": "WUB",
-            "rarity": "uncommon",
-            "type": "Instant",
-            "number": 185,
-            "color_identity": "WUB",
-            "cost": "{W}{U}{B}",
-            "rules_text": "Counter target spell, activated ability, or triggered ability. Its controller loses X life, where X is the mana value of the countered source.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AoS",
-            "loyalty": "",
-            "artist": "Games Workshop",
-            "alias": "",
-            "position": "206",
-            "notes": "Ossiarch Bonereapers\nEsper Uncommons",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4561,8 +4517,8 @@
             "type": "Artifact",
             "number": 176,
             "color_identity": "WUB",
-            "cost": "{1}{W}{U}{B}",
-            "rules_text": "When this artifact enters or leaves the battlefield, return up to one target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.\n{2}, {T}, Sacrifice this artifact: Draw two cards.",
+            "cost": "{W}{U}{B}",
+            "rules_text": "When this artifact leaves the battlefield, return up to one other target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.\n{2}, {T}, Sacrifice this artifact: Draw two cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4571,7 +4527,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "207",
+            "position": "205",
             "notes": "Ossiarch Bonereapers\nEsper Uncommons",
             "image_type": "png",
             "v_mana": ""
@@ -4593,7 +4549,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "208",
+            "position": "206",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -4615,7 +4571,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "209",
+            "position": "207",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -4637,7 +4593,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "210",
+            "position": "208",
             "notes": "Ogor Mawtribes\nJund Uncommons",
             "image_type": "png",
             "v_mana": ""
@@ -4659,7 +4615,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "211",
+            "position": "209",
             "notes": "Ogor Mawtribes\nActivated Ability Synergy\nEngorge Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4681,7 +4637,7 @@
             "loyalty": "",
             "artist": "Daniel Kovacs",
             "alias": "",
-            "position": "212",
+            "position": "210",
             "notes": "Ogor Mawtribes\nMana Value Matters Synergy\nSacrifice Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4703,7 +4659,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "213",
+            "position": "211",
             "notes": "Ogor Mawtribes",
             "image_type": "png",
             "v_mana": ""
@@ -4725,7 +4681,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "214",
+            "position": "212",
             "notes": "Ogor Mawtribes",
             "image_type": "png",
             "v_mana": ""
@@ -4747,7 +4703,7 @@
             "loyalty": "",
             "artist": "Jon Cave",
             "alias": "",
-            "position": "215",
+            "position": "213",
             "notes": "Ossiarch Bonereapers",
             "image_type": "png",
             "v_mana": ""
@@ -4769,7 +4725,7 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
-            "position": "216",
+            "position": "214",
             "notes": "Ogor Mawtribes",
             "image_type": "png",
             "v_mana": ""
@@ -4791,7 +4747,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "217",
+            "position": "215",
             "notes": "Ogor Mawtribes",
             "image_type": "png",
             "v_mana": ""
@@ -4813,7 +4769,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "218",
+            "position": "216",
             "notes": "Ogor Mawtribes\nActivated Ability Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4835,7 +4791,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "219",
+            "position": "217",
             "notes": "Ogor Mawtribes",
             "image_type": "png",
             "v_mana": ""
@@ -4857,7 +4813,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "220",
+            "position": "218",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -4879,7 +4835,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "221",
+            "position": "219",
             "notes": "Ogor Mawtribes",
             "image_type": "png",
             "v_mana": ""
@@ -4901,7 +4857,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "222",
+            "position": "220",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -4923,7 +4879,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "223",
+            "position": "221",
             "notes": "Ossiarch Bonereapers\nDiscard/Graveyard Synergy\nReconstruct Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4945,7 +4901,7 @@
             "loyalty": "",
             "artist": "Jaime Mart\u00ednez/Dabanaworks",
             "alias": "",
-            "position": "224",
+            "position": "222",
             "notes": "Ogor Mawtribes\nMana Value Matters Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4967,7 +4923,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "225",
+            "position": "223",
             "notes": "Skaven\nDiscard/Gravyard Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -4989,7 +4945,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "226",
+            "position": "224",
             "notes": "Skaven\nDiscard/Graveyard Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -5011,7 +4967,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "227",
+            "position": "225",
             "notes": "Ossiarch Bonereapers\nFlicker Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -5033,7 +4989,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "228",
+            "position": "226",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -5055,7 +5011,7 @@
             "loyalty": "",
             "artist": "Max FitzGerald",
             "alias": "",
-            "position": "229",
+            "position": "227",
             "notes": "Skaven\nDiscard/Graveyard Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -5077,7 +5033,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "230",
+            "position": "228",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -5099,7 +5055,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "231",
+            "position": "229",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -5121,7 +5077,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "232",
+            "position": "230",
             "notes": "Battles",
             "image_type": "png",
             "v_mana": ""
@@ -5143,7 +5099,7 @@
             "loyalty": "",
             "artist": "Rafater",
             "alias": "",
-            "position": "233",
+            "position": "231",
             "notes": "Cities of Sigmar\nTap/Untap Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -5165,7 +5121,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "234",
+            "position": "232",
             "notes": "Ossiarch Bonereapers",
             "image_type": "png",
             "v_mana": ""
@@ -5187,7 +5143,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "235",
+            "position": "233",
             "notes": "Ogor Mawtribes",
             "image_type": "png",
             "v_mana": ""
@@ -5209,7 +5165,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "236",
+            "position": "234",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -5231,7 +5187,7 @@
             "loyalty": "",
             "artist": "Andrew Lowry",
             "alias": "",
-            "position": "237",
+            "position": "235",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -5253,7 +5209,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "238",
+            "position": "236",
             "notes": "Skaven\nDiscard/Graveyard Synergy\nSacrifice Synergy(Kinda)",
             "image_type": "png",
             "v_mana": ""
@@ -5275,7 +5231,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "239",
+            "position": "237",
             "notes": "Faction Agnostic Cards(Kinda)",
             "image_type": "png",
             "v_mana": ""
@@ -5297,7 +5253,7 @@
             "loyalty": "",
             "artist": "Andrew Lowry",
             "alias": "",
-            "position": "240",
+            "position": "238",
             "notes": "Cities of Sigmar\nMana Value Matters Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -5319,7 +5275,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "241",
+            "position": "239",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -5341,7 +5297,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "242",
+            "position": "240",
             "notes": "Ossiarch Bonereapers",
             "image_type": "png",
             "v_mana": ""
@@ -5363,7 +5319,7 @@
             "loyalty": "",
             "artist": "Tze Kun Chin \u9648\u5fd7\u5803",
             "alias": "",
-            "position": "243",
+            "position": "241",
             "notes": "Skaven",
             "image_type": "png",
             "v_mana": ""
@@ -5385,7 +5341,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "244",
+            "position": "242",
             "notes": "Cities of Sigmar\nActivated Ability Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -5407,7 +5363,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "245",
+            "position": "243",
             "notes": "Cities of Sigmar\nActivated Ability Synergy\nTap/Untap Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -5429,7 +5385,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "246",
+            "position": "244",
             "notes": "Battles\nAzorius Rare",
             "image_type": "png",
             "v_mana": ""
@@ -5451,7 +5407,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "247",
+            "position": "245",
             "notes": "Battles\nDimir Rare",
             "image_type": "png",
             "v_mana": ""
@@ -5473,7 +5429,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "248",
+            "position": "246",
             "notes": "Battles\nRakdos Rare",
             "image_type": "png",
             "v_mana": ""
@@ -5495,7 +5451,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "249",
+            "position": "247",
             "notes": "Battles\nGruul Rare",
             "image_type": "png",
             "v_mana": ""
@@ -5517,7 +5473,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "250",
+            "position": "248",
             "notes": "Battles\nSylesnea Rare",
             "image_type": "png",
             "v_mana": ""
@@ -5539,7 +5495,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "251",
+            "position": "249",
             "notes": "Ossiarch Bonereapers",
             "image_type": "png",
             "v_mana": ""
@@ -5561,7 +5517,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "252",
+            "position": "250",
             "notes": "Lumineth Realm-Lords",
             "image_type": "png",
             "v_mana": ""
@@ -5583,7 +5539,7 @@
             "loyalty": "",
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
-            "position": "253",
+            "position": "251",
             "notes": "Skaven",
             "image_type": "png",
             "v_mana": ""
@@ -5605,7 +5561,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "254",
+            "position": "252",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -5627,7 +5583,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "255",
+            "position": "253",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -5649,7 +5605,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "256",
+            "position": "254",
             "notes": "Ossiarch Bonereapers",
             "image_type": "png",
             "v_mana": ""
@@ -5671,7 +5627,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "257",
+            "position": "255",
             "notes": "Ossiarch Bonereapers",
             "image_type": "png",
             "v_mana": ""
@@ -5681,10 +5637,10 @@
             "color": "WRG",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Aura",
-            "number": 203,
+            "number": 202,
             "color_identity": "WRG",
             "cost": "{R}{G}{W}",
-            "rules_text": "Enchant creature\nEnchanted creature has Battle cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]\nEnchanted creature has \u201cWhenever this creature attacks, create two 1/1 red Human Soldier creature tokens that are tapped and attacking.\u201d",
+            "rules_text": "Enchant creature you control\nEnchanted creature has Battle cry and ward {2}. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]\nEnchanted creature has \u201cWhenever this creature attacks, create two 1/1 red Human Soldier creature tokens that are tapped and attacking.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5693,7 +5649,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "258",
+            "position": "256",
             "notes": "Cities of Sigmar\nNaya Uncommons",
             "image_type": "png",
             "v_mana": ""
@@ -5715,7 +5671,7 @@
             "loyalty": "",
             "artist": "Jon Cave",
             "alias": "",
-            "position": "259",
+            "position": "257",
             "notes": "Skaven",
             "image_type": "png",
             "v_mana": ""
@@ -5737,7 +5693,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "260",
+            "position": "258",
             "notes": "Faction Agnostic Cards\nBattle Hate",
             "image_type": "png",
             "v_mana": ""
@@ -5759,7 +5715,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "261",
+            "position": "259",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -5781,7 +5737,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "262",
+            "position": "260",
             "notes": "Ossiarch Bonereapers\nReconstruct Synergy\nSacrifice Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -5794,16 +5750,16 @@
             "number": 188,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
-            "rules_text": "Flying\nBattle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i] [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]\nTactical Acumen \u2013 Regiment {2}{R}: Target creature can't block this turn.",
+            "rules_text": "Flying\nBattle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]\n[i]Tactical Acumen[/i] \u2013 Regiment {2}{R}: Target creature can't block this turn.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "AoS",
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "263",
+            "position": "261",
             "notes": "Cities of Sigmar\nNaya Uncommons\nRegiment Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -5825,7 +5781,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "264",
+            "position": "262",
             "notes": "Cities of Sigmar",
             "image_type": "png",
             "v_mana": ""
@@ -5847,7 +5803,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "265",
+            "position": "263",
             "notes": "Skaven\nEchoing Removal",
             "image_type": "png",
             "v_mana": ""
@@ -5869,7 +5825,7 @@
             "loyalty": "",
             "artist": "Eavy' Metal Team",
             "alias": "",
-            "position": "266",
+            "position": "264",
             "notes": "Lumineth Realm-Lords\nBant Uncommons\nConvoke Synergy",
             "image_type": "png",
             "v_mana": ""
@@ -5879,10 +5835,10 @@
             "color": "WUB",
             "rarity": "uncommon",
             "type": "Creature \u2013 Skeleton Knight Noble",
-            "number": 200,
+            "number": 199,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
-            "rules_text": "Menace\nDuring your turn this creature has flying.\n[i]Battlefield Overseer[/i] \u2013 Whenever this creature enters or attacks, you may draw a card. If you do, discard a card.",
+            "rules_text": "Flash\nDuring your turn this creature has flying.\n[i]Battlefield Overseer[/i] \u2013 Whenever this creature enters or attacks, you may draw a card. If you do, discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5891,7 +5847,7 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "267",
+            "position": "265",
             "notes": "Ossiarch Bonereapers\nEsper Uncommons",
             "image_type": "png",
             "v_mana": ""
@@ -5913,8 +5869,52 @@
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
-            "position": "268",
+            "position": "266",
             "notes": "Cities of Sigmar\nEchoing Removal",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Nadirite Weapon",
+            "color": "WUB",
+            "rarity": "uncommon",
+            "type": "Artifact \u2013 Equipment",
+            "number": 207,
+            "color_identity": "WUB",
+            "cost": "{W}{U}{B}",
+            "rules_text": "When this Equipment enters, create a 1/1 white Skeleton Soldier creature token, then attach this to it.\nEquipped creature gets +2/+2 and has menace and lifelink.\nEquip {2}\nReconstruct",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AoS",
+            "loyalty": "",
+            "artist": "Games Workshop",
+            "alias": "",
+            "position": "267",
+            "notes": "Ossiarch Bonereapers\nEsper Uncommons",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Drain Vitality",
+            "color": "WUB",
+            "rarity": "rare",
+            "type": "Instant",
+            "number": 185,
+            "color_identity": "WUB",
+            "cost": "{W}{U}{B}",
+            "rules_text": "Counter target spell, activated ability, or triggered ability. Its controller loses X life and you gain X life, where X is the mana value of the countered source.",
+            "flavor_text": "[i]\u201cLife is a curse, let us relieve you of it.\u201d[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AoS",
+            "loyalty": "",
+            "artist": "Games Workshop",
+            "alias": "",
+            "position": "268",
+            "notes": "Ossiarch Bonereapers\nEsper Rares",
             "image_type": "png",
             "v_mana": ""
         }

@@ -1,4 +1,494 @@
-﻿VERSION 65 CHANGELOG
+﻿VERSION 66 CHANGELOG
+====================
+
+Nadirite Weapon added.
+
+Khenash-an, Staff of Spirits removed.
+
+Necropolis Stalker
+
+Immortis Guard
+
+Arkhan, Mortarch of Sacriment
+
+Helm of Tyranny
+
+Kavalos Deathrider
+
+Liege Kavalos on Steed
+
+Marrowpact
+
+Mortisan Boneshaper
+
+Mortisan Soulreaper
+
+Mortisan Ossifector
+
+Counter Strike
+
+Katakros, Mortarch of the Necropolis
+
+Mortisan Council
+
+Mortek Crawler
+
+Mortisan Soulmason
+
+Kavalos Lance
+
+Vanari Auralan Warden
+
+Vanari Auralan Sentinel
+
+Vanari Dawnrider
+
+Scinari Cathallar
+
+Scinari Enlightener
+
+Alarith Stonemage
+
+Sevireth, Wind Lord
+
+Avalenor, Ancient Aelementor
+
+Call the Warhost
+
+Charge of the Lumineth
+
+Darkness of the Soul
+
+Beam of Hysh
+
+Vanari Bladelord
+
+Vanari Starshard Ballista
+
+Teclis and Celennar, Enlighened
+
+Ellania and Ellathor, Warsages
+
+Move Like the Wind
+
+Aelementiri Pilgrimage
+
+Realmscribe's Mark
+
+Mountain Stance
+
+Scinari Brilliance
+
+Vandusian Guard
+
+Tahlia Vedra, First Marshal
+
+Pontifex Zenestra
+
+Hold Fast
+
+Stand Sentinel
+
+Dawnbringer Crusade
+
+Wildercorps Ambuscade
+
+Amber Battlemage
+
+Celestial Battlemage
+
+Bone-Tithe Nexus
+
+Morghast Archai
+
+Morghast Harbinger
+
+Alarith Mountain Spirit
+rules_text: Convoke
+Vigilance, trample
+This creature enters with a shield counter on it. => Convoke
+Vigilance, trample
+Whenever this creature enters or becomes tapped, put a shield counter on target creature or battle you control.
+
+Hurakan Wind Spirit
+
+Hurakan Windcharger
+
+Travel the Waterways
+
+Ydrilan Riverblade
+
+Alarith Stoneguard
+
+Enduring as Rock
+
+Sunmetal Weapons
+
+Ocari Dara, Spirefall
+
+Scinari Loreseeker
+
+Vanari Bannerblade
+
+Light of the True Moon
+
+Hurakan Windmage
+
+Realmgate
+
+Savage Lands
+
+Crumbling Necropolis
+
+Jungle Shrine
+
+Seaside Citadel
+
+Arcane Sanctum
+
+Ironweld Cogfort
+
+Wildercorps Hunter
+
+Ogor Leadbelcher
+
+Mournfang Rider
+
+Ogor Gorger
+
+Ironweld Great Cannon
+
+A Tool for Every Job
+
+Thundertusk Beastriders
+
+Bloodpelt Hunter
+
+Ogor Tyrant
+
+City's Heraldry
+
+Coin Malleus
+
+Vanguard of Light
+
+Shining Company
+
+Knife to the Heart
+
+Power Struggle
+
+Roiling Roots
+
+Lumineth Sanctuary
+
+Sigmarite Strongpoint
+
+Skaven Warren
+
+Ogor Glutthold
+
+Ossiarch Necropolis
+
+Vanari Lord Regent on Lightcourser
+
+Settler's Gain
+
+Gothizzar
+
+The Gnaw
+
+Great Gutfort
+
+Hammerhal
+
+Rat Ogor
+
+Brood Terror
+
+Skaven Plague Monk
+
+Mortisan Reconstruction
+
+Unbind
+
+Clawlord on Gnaw-beast
+
+Total Eclipse
+
+Ogor Irongut
+
+Globb Glittermaw
+
+Braggoth Vardruk
+
+Great Mawpot
+
+Shrine Luminor
+
+Nexus Siphon
+
+Skaven Gnawhole
+
+Bloodfell Caves
+
+Blossoming Sands
+
+Dismal Backwater
+
+Jungle Hollow
+
+Rugged Highlands
+
+Scoured Barrens
+
+Saltwater Cliffs
+
+Thornwood Falls
+
+Tranquil Cove
+
+Wind-Scarred Crag
+
+Scinari Calligrave
+
+Lightning Reactions
+
+Warpgale
+
+Fusil-cannon
+
+Splatter Cleaver
+
+Weeping Blade
+
+Always More Bodies
+
+Alchemite Warforger
+
+Skaven Deathmaster
+
+Master Moulder
+
+Ogor Butcher
+
+Ogor Slaughtermaster
+
+Ravenous Fortitude
+
+Icefall Yhetee
+
+Ogor Ironblaster
+
+Mortis Reapers
+cost: {1}{U}{B} => {2}{U}{B}
+rules_text: Deathtouch
+When this creature enters, draw a card. If this creature entered from a graveyard or was cast from a graveyard, draw two cards instead. Then discard a card.
+Reconstruct => Deathtouch
+When this creature enters, draw a card. If this creature entered from a graveyard or was cast from a graveyard, draw two cards instead.
+Reconstruct
+
+Lode of Saturation
+
+Grisly Repast
+
+Frostlord on Stonehorn
+
+Stonehorn Beastrider
+
+Frost Saber
+
+Gnoblar
+
+Blessing of the Gulping God
+
+Windleap
+
+Teclian Meditation
+
+Training Arena
+
+Sigmar's Thunder
+
+Path to Glory: Cities of Sigmar
+
+On the Mawpath
+
+Ironblaster's Hail Shot
+
+Agents of Fate
+
+Cyclic Shifts
+
+Deflect Blame
+
+Path to Glory: Ossiarch Bonereapers
+
+Path to Glory: Lumineth Realm-Lords
+
+Path to Glory: Skaven
+
+Path to Glory: Ogor Mawtribes
+
+Skaven Tactics
+
+Arch-Warlock
+
+Too Quick to Hit-Hit
+
+Meeting of Marshals
+
+Liege Mortek
+
+Artisan's Key
+cost: {1}{W}{U}{B} => {W}{U}{B}
+rules_text: When this artifact enters or leaves the battlefield, return up to one target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+{2}, {T}, Sacrifice this artifact: Draw two cards. => When this artifact leaves the battlefield, return up to one other target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+{2}, {T}, Sacrifice this artifact: Draw two cards.
+
+Vital Alignment
+
+The Vice
+
+Gulping Bite
+
+Huskard on Thundertusk
+
+Ogor Firebelly
+
+Ghur's Truth
+
+Blood Vulture Reconnisance
+
+Collect the Bone-Tithe
+
+Ribcracker
+
+Raze to Ruin
+
+Chaintrap's Grip
+
+Trampling Charge
+
+Feral Foray
+
+Expand the Mawpath
+
+First Blood
+
+Mortek Triax
+
+Icebrow Hunter
+
+Vermin's Cunning
+
+Skilled Manipulation
+
+Realigned Formation
+
+Better Part of Valor
+
+Endless Tides of Vermin
+
+The Lurkers Below
+
+Power in Numbers
+
+Lines of Communication
+
+Excelsior Warpriest
+
+Protection of Nagash
+
+Eat your Fill!
+
+Freeguild Command Corps
+
+Officer's Stratagem
+
+Skryre Inginuity
+
+Hire Muscle
+
+Grizzled Veteran
+
+Scouring Light of Teclis
+
+Diversionary Tactic
+
+Perfect Scheme
+
+Scourging of Ghyran
+
+Aqua Ghyranis
+
+A Clash of Gods
+
+They Came from Below
+
+Wreck and Ruin
+
+The Place that Hungers
+
+Across the Plains
+
+Vokmortain, Voice of Nagash
+
+Lyrior Uthralle
+
+Krittok Foulblade
+
+Gorlok Blackpowder
+
+Iscilla Thorian
+
+Kavalos War Chariot
+
+Curse of Years
+
+Mantle of Command
+rules_text: Enchant creature
+Enchanted creature has Battle cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Enchanted creature has “Whenever this creature attacks, create two 1/1 red Human Soldier creature tokens that are tapped and attacking.” => Enchant creature you control
+Enchanted creature has Battle cry and ward {2}. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Enchanted creature has “Whenever this creature attacks, create two 1/1 red Human Soldier creature tokens that are tapped and attacking.”
+
+Plague Priest
+
+Fragile Peace
+
+Terramorphic Expanse
+
+Balefire Brazier
+
+Freeguild Marshal on Griffon
+rules_text: Flying
+Battle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i] [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Tactical Acumen — Regiment {2}{R}: Target creature can't block this turn. => Flying
+Battle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+[i]Tactical Acumen[/i] — Regiment {2}{R}: Target creature can't block this turn.
+pt:  => 4/4
+
+Draw Steel!
+
+Unleash the Great Plagues!
+
+Vanari Lord Regent
+
+Liege Kavalos on War Chariot
+rules_text: Menace
+During your turn this creature has flying.
+[i]Battlefield Overseer[/i] — Whenever this creature enters or attacks, you may draw a card. If you do, discard a card. => Flash
+During your turn this creature has flying.
+[i]Battlefield Overseer[/i] — Whenever this creature enters or attacks, you may draw a card. If you do, discard a card.
+
+Fields of Fire
+
+Drain Vitality
+rules_text: Counter target spell, activated ability, or triggered ability. Its controller loses X life, where X is the mana value of the countered source. => Counter target spell, activated ability, or triggered ability. Its controller loses X life and you gain X life, where X is the mana value of the countered source.
+
+
+VERSION 65 CHANGELOG
 ====================
 
 Fields of Fire added.
