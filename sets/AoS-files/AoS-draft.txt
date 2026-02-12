@@ -1602,8 +1602,8 @@
 		},
 		{
 			"name": "Warpgale",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{B}{R}",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Sorcery",
 			"collector_number": "234",
 			"image_uris": {
@@ -2572,8 +2572,8 @@
 		},
 		{
 			"name": "Plague Priest",
-			"rarity": "rare",
-			"mana_cost": "{U}{B}{R}",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Creature — Rat Cleric",
 			"collector_number": "216",
 			"image_uris": {
@@ -2746,6 +2746,7 @@
 	2 Shrine Luminor
 	2 Nexus Siphon
 	2 Skaven Gnawhole
+	2 Warpgale
 	2 Always More Bodies
 	2 Frostlord on Stonehorn
 	2 Blessing of the Gulping God
@@ -2772,7 +2773,6 @@
 	1 Krittok Foulblade
 	1 Gorlok Blackpowder
 	1 Iscilla Thorian
-	2 Plague Priest
 	2 Drain Vitality
 [uncommon(3)]
 	4 Warplock Jezzail
@@ -2830,7 +2830,6 @@
 	4 Total Eclipse
 	4 Scinari Calligrave
 	4 Lightning Reactions
-	4 Warpgale
 	4 Alchemite Warforger
 	4 Skaven Deathmaster
 	4 Master Moulder
@@ -2868,6 +2867,7 @@
 	4 Kavalos War Chariot
 	4 Curse of Years
 	4 Mantle of Command
+	4 Plague Priest
 	4 Fragile Peace
 	4 Freeguild Marshal on Griffon
 	4 Unleash the Great Plagues!
@@ -3120,7 +3120,7 @@
 	12 Wind-Scarred Crag
 	6 Scinari Calligrave
 	6 Lightning Reactions
-	6 Warpgale
+	2 Warpgale
 	12 Fusil-cannon
 	12 Splatter Cleaver
 	12 Weeping Blade
@@ -3212,7 +3212,7 @@
 	6 Kavalos War Chariot
 	6 Curse of Years
 	6 Mantle of Command
-	2 Plague Priest
+	6 Plague Priest
 	6 Fragile Peace
 	12 Terramorphic Expanse
 	12 Balefire Brazier
@@ -3385,7 +3385,7 @@
 	6 Wind-Scarred Crag
 	15 Scinari Calligrave
 	15 Lightning Reactions
-	15 Warpgale
+	7 Warpgale
 	6 Fusil-cannon
 	6 Splatter Cleaver
 	6 Weeping Blade
@@ -3477,7 +3477,7 @@
 	15 Kavalos War Chariot
 	15 Curse of Years
 	15 Mantle of Command
-	7 Plague Priest
+	15 Plague Priest
 	15 Fragile Peace
 	6 Terramorphic Expanse
 	6 Balefire Brazier

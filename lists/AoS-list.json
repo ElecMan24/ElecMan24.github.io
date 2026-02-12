@@ -1470,11 +1470,11 @@
         "position": "268"
     },
     {
-        "card_name": "Plague Priest",
-        "number": 216,
+        "card_name": "Skaven Gnawhole",
+        "number": 221,
         "shape": "normal",
         "set": "AoS",
-        "position": "257"
+        "position": "147"
     },
     {
         "card_name": "Frostlord on Stonehorn",
@@ -1505,11 +1505,11 @@
         "position": "52"
     },
     {
-        "card_name": "Skaven Gnawhole",
-        "number": 221,
+        "card_name": "Verminlord Warpseer",
+        "number": 231,
         "shape": "normal",
         "set": "AoS",
-        "position": "147"
+        "position": "17"
     },
     {
         "card_name": "Great Mawpot",
@@ -1540,11 +1540,11 @@
         "position": "36"
     },
     {
-        "card_name": "Verminlord Warpseer",
-        "number": 231,
+        "card_name": "Warpgale",
+        "number": 234,
         "shape": "normal",
         "set": "AoS",
-        "position": "17"
+        "position": "160"
     },
     {
         "card_name": "Ogor Tyrant",
@@ -1645,11 +1645,11 @@
         "position": "267"
     },
     {
-        "card_name": "Warpgale",
-        "number": 234,
+        "card_name": "Plague Priest",
+        "number": 216,
         "shape": "normal",
         "set": "AoS",
-        "position": "160"
+        "position": "257"
     },
     {
         "card_name": "Ogor Slaughtermaster",
