@@ -22,7 +22,7 @@
     },
     {
         "card_name": "Gorlok Blackpowder",
-        "number": 117,
+        "number": 118,
         "shape": "normal",
         "set": "AoS",
         "position": "252"
@@ -84,7 +84,7 @@
         "position": "10"
     },
     {
-        "card_name": "Liege Kavalos on Steed",
+        "card_name": "Liege Kavalos",
         "number": 87,
         "shape": "normal",
         "set": "AoS",
@@ -126,8 +126,8 @@
         "position": "86"
     },
     {
-        "card_name": "Head-on Collision",
-        "number": 118,
+        "card_name": "Every Step is Forward",
+        "number": 113,
         "shape": "normal split",
         "set": "AoS",
         "position": "19"
@@ -407,7 +407,7 @@
     },
     {
         "card_name": "Feral Foray",
-        "number": 113,
+        "number": 114,
         "shape": "normal split",
         "set": "AoS",
         "position": "218"
@@ -442,7 +442,7 @@
     },
     {
         "card_name": "First Blood",
-        "number": 114,
+        "number": 115,
         "shape": "normal split",
         "set": "AoS",
         "position": "220"
@@ -827,7 +827,7 @@
     },
     {
         "card_name": "Freeguild Command Corps",
-        "number": 115,
+        "number": 116,
         "shape": "normal",
         "set": "AoS",
         "position": "234"
@@ -862,7 +862,7 @@
     },
     {
         "card_name": "Freeguild Fusilier",
-        "number": 116,
+        "number": 117,
         "shape": "normal",
         "set": "AoS",
         "position": "25"

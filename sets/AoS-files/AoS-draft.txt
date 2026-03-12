@@ -191,11 +191,11 @@
 			}
 		},
 		{
-			"name": "Head-on Collision",
+			"name": "Every Step is Forward",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Battle — Control Point",
-			"collector_number": "118",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/19.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/25.png"
 			}
@@ -423,7 +423,7 @@
 		{
 			"name": "Kavalos Deathrider",
 			"rarity": "common",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Skeleton Knight",
 			"collector_number": "85",
 			"image_uris": {
@@ -431,7 +431,7 @@
 			}
 		},
 		{
-			"name": "Liege Kavalos on Steed",
+			"name": "Liege Kavalos",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Skeleton Knight Noble",
@@ -724,7 +724,7 @@
 			"name": "Realmscribe's Mark",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Sorcery",
 			"collector_number": "163",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/72.png"
@@ -1174,7 +1174,7 @@
 			"name": "Coin Malleus",
 			"rarity": "common",
 			"mana_cost": "{1}",
-			"type": "Artifact — Treasure",
+			"type": "Artifact",
 			"collector_number": "237",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/117.png"
@@ -2185,7 +2185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Battle — Control Point",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/218.png"
 			}
@@ -2193,7 +2193,7 @@
 		{
 			"name": "Expand the Mawpath",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{G}",
 			"type": "Sorcery",
 			"collector_number": "148",
 			"image_uris": {
@@ -2205,7 +2205,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Battle — Control Point",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/220.png"
 			}
@@ -2345,7 +2345,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/234.png"
 			}
@@ -2525,7 +2525,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Ogre Pirate",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://-your-github-username-.github.io/sets/AoS-files/img/252.png"
 			}
@@ -2700,14 +2700,14 @@
 	2 Hell Pit Abomination
 	2 Verminlord Warpseer
 	2 MORE-MORE DOOM!!!
-	2 Head-on Collision
+	2 Every Step is Forward
 	2 Fusil Major
 	2 Freeguild Garrison
 	2 Castelite Formation
 	2 Necropolis Stalker
 	1 Immortis Guard
 	1 Arkhan, Mortarch of Sacriment
-	2 Liege Kavalos on Steed
+	2 Liege Kavalos
 	1 Katakros, Mortarch of the Necropolis
 	2 Mortisan Soulmason
 	2 Sevireth, Wind Lord
@@ -2979,7 +2979,7 @@
 	2 Hell Pit Abomination
 	2 Verminlord Warpseer
 	2 MORE-MORE DOOM!!!
-	2 Head-on Collision
+	2 Every Step is Forward
 	12 Ogor Glutton
 	12 Cracks Call
 	12 Mortek Guard
@@ -3003,7 +3003,7 @@
 	1 Arkhan, Mortarch of Sacriment
 	12 Helm of Tyranny
 	12 Kavalos Deathrider
-	2 Liege Kavalos on Steed
+	2 Liege Kavalos
 	6 Marrowpact
 	6 Mortisan Boneshaper
 	6 Mortisan Soulreaper
@@ -3244,7 +3244,7 @@
 	7 Hell Pit Abomination
 	7 Verminlord Warpseer
 	7 MORE-MORE DOOM!!!
-	7 Head-on Collision
+	7 Every Step is Forward
 	6 Ogor Glutton
 	6 Cracks Call
 	6 Mortek Guard
@@ -3268,7 +3268,7 @@
 	4 Arkhan, Mortarch of Sacriment
 	6 Helm of Tyranny
 	6 Kavalos Deathrider
-	7 Liege Kavalos on Steed
+	7 Liege Kavalos
 	15 Marrowpact
 	15 Mortisan Boneshaper
 	15 Mortisan Soulreaper

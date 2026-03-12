@@ -1,4 +1,164 @@
-﻿VERSION 67 CHANGELOG
+﻿VERSION 68 CHANGELOG
+====================
+
+Every Step is Forward added.
+Liege Kavalos added.
+
+Head-on Collision removed.
+Liege Kavalos on Steed removed.
+
+Skaven Clanrat
+rules_text: Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Seething Swarm — [/i]When this creature dies, create a 1/1 black Rat Peasant creature token with “This token can't block.” => Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Seething Swarm — [/i]When this creature dies, create a 1/1 black Rat Peasant creature token with “This creature can't block.”
+
+Skaven Clawlord
+rules_text: [i]Ruination[/i] — Whenever you sacrifice another permanent with mana value 1 or greater, create a 1/1 black Rat Peasant creature token with “This token can't block.” If the total mana value among cards in your graveyard is greater than or equal to 13, create two of those tokens instead. => [i]Ruination[/i] — Whenever you sacrifice another permanent with mana value 1 or greater, create a 1/1 black Rat Peasant creature token with “This creature can't block.” If the total mana value among cards in your graveyard is greater than or equal to 13, create two of those tokens instead.
+
+Cornered Rats
+rules_text: As an additional cost to cast this spell, discard a card.
+Destroy target creature. Create X 1/1 black Rat Peasant creature tokens with “This token can't block.”, where X is the discarded card's mana value. => As an additional cost to cast this spell, discard a card.
+Destroy target creature. Create X 1/1 black Rat Peasant creature tokens with “This creature can't block.”, where X is the discarded card's mana value.
+
+Warlock Bombardier
+rules_text: Whenever you sacrifice another permanent with mana value 1 or greater, this creature deals 3 damage to each opponent. This ability triggers only once each turn. => {2}, Sacrifice another creature or artifact: Put a +1/+1 counter on this creature and draw a card. Activate only as a sorcery and only once each turn. If the sacrificed permanent's mana value was 3 or greater, this creature deals 2 damage to each opponent.
+
+Vizzik Skour
+rules_text: Ward {2}
+Whenever Vizzik Skour attacks, you may discard a card. If you do, create X 1/1 black Rat Peasant creature tokens with “this token can't block” that are tapped and attacking, where X is the mana value of the discarded card.
+[i]Ruination[/i] — If the total mana value among cards in your graveyard is greater than or equal to 13 Rats you control have “Whenever this creature dies, it deals damage equal to its power to any target.” => Ward {2}
+Whenever Vizzik Skour attacks, you may discard a card. If you do, create X 1/1 black Rat Peasant creature tokens with “This creature can't block” that are tapped and attacking, where X is the mana value of the discarded card.
+[i]Ruination[/i] — If the total mana value among cards in your graveyard is greater than or equal to 13 other Rats you control have “Whenever this creature dies, it deals damage equal to its power to any target.”
+
+Thanquol and Boneripper
+rules_text: Trample
+Whenever you sacrifice a creature, choose one that hasn't been chosen this turn —
+• This creature connives.
+• You may cast an instant or sorcery spell with mana value X or less from your graveyard, where X is one plus the sacrificed creature's mana value. If that spell would be put into your graveyard, exile it instead. => Trample
+At the start of combat on your turn, you may sacrifice a creature. If you do, target creature you control connives X times, where X is one plus the sacrificed creature's mana value.
+
+Mortek Guard
+rules_text: Squad {2}{W}
+When this creature enters choose one —
+• Put a +1/+1 counter on target creature you control.
+• Create a 1/1 white Skeleton Soldier creature token. => Squad {2}{W}
+When this creature enters, create a 1/1 white Skeleton Soldier creature token.
+Reconstruct
+
+Kavalos Deathrider
+cost: {3}{B} => {2}{B}
+rules_text: Squad {1}{B}
+[i]Deathrider Wedge —[/i] During your turn, this creature has first strike.
+Reconstruct [i](You may cast this card from your graveyard by sacrificing a permanent in addition to paying its other costs. If you do, it enters with a finality counter on it.)[/i] => Squad {2}{B}
+[i]Deathrider Wedge —[/i] During your turn, this creature has first strike.
+Reconstruct [i](You may cast this card from your graveyard by sacrificing a permanent in addition to paying its other costs. If you do, it enters with a finality counter on it.)[/i]
+
+Realmscribe's Mark
+type: Enchantment — Aura => Sorcery
+
+Dawnbringer Crusade
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control.” [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control.” [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+
+Ocari Dara, Spirefall
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke. => 
+I — Destroy all other nonland permanents.
+II — Create a 4/4 green and blue Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all other nonland permanents.
+II — Create a 4/4 blue and green Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke. => 
+I — Destroy all other nonland permanents.
+II — Create a 4/4 green and blue Elemental Spirit creature token with flying.
+III — Permanent spells you cast this turn have convoke.
+
+Coin Malleus
+type: Artifact — Treasure => Artifact
+rules_text: {T}, Sacrifice Coin Malleus: Create a tapped Treasure token.
+{3}, {T}, Sacrifice Coin Malleus: Search your library for a land card, reveal it, put it into your hand, then shuffle. => {T}, Sacrifice Coin Malleus: Create a tapped Treasure token. Activate only during your turn.
+{3}, {T}, Sacrifice Coin Malleus: Search your library for a land card, reveal it, put it into your hand, then shuffle.
+
+Skaven Warren
+rules_text: When this artifact enters, search your library for a basic Island, Swamp, or Mountain card, reveal it, put it into your hand, then shuffle.
+{U}{B}{R}, {T}, Sacrifice this artifact: Create three 1/1 black Rat Peasant creature tokens with “This token can't block.” Activate only as a sorcery. => When this artifact enters, search your library for a basic Island, Swamp, or Mountain card, reveal it, put it into your hand, then shuffle.
+{U}{B}{R}, {T}, Sacrifice this artifact: Create three 1/1 black Rat Peasant creature tokens with “This creature can't block.” Activate only as a sorcery.
+
+Skaven Gnawhole
+rules_text: [i]Ruination —[/i] {T}: Draw a card, then discard a card. If the total mana value among cards in your graveyard is greater than or equal to 13, for each opponent, create a 1/1 black Rat Peasant creature token with “This token can't block.” => [i]Ruination —[/i] {T}: Draw a card, then discard a card. If the total mana value among cards in your graveyard is greater than or equal to 13, for each opponent, create a 1/1 black Rat Peasant creature token with “This creature can't block.”
+
+Expand the Mawpath
+cost: {1}{G} => {G}
+
+The Lurkers Below
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters on it.)[/i]
+Whenever you attack, create a 1/1 black Rat Peasant creature token with “This token can't block.” that's tapped and attacking. => [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 4 defense counters on it.)[/i]
+Whenever you attack, create a 1/1 black Rat Peasant creature token with “This creature can't block.” that's tapped and attacking.
+
+A Clash of Gods
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Lumineth or Ossiarch.
+Lumineth — Whenever one or more creatures you control with mana value 1 or greater enter, create a 2/2 blue Elf Knight creature token with vigilance.
+Ossiarch — Whenever a creature you control leaves the battlefield during your turn, tap up to one target creature you don't control. => As this battle enters, choose Lumineth or Ossiarch.
+Lumineth — Whenever one or more creatures and/or artifacts you control with mana value 1 or greater enter, create a 2/2 blue Elf Knight creature token with vigilance.
+Ossiarch — Whenever a creature or artifact you control leaves the battlefield during your turn, tap up to one target creature you don't control.
+
+They Came from Below
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Ossiarch or Skaven.
+Ossiarch — At the beginning of your end step, if an artifact or creature was put into a graveyard from the battlefield this turn, create a 1/1 white Skeleton Soldier creature token.
+Skaven — Whenever you sacrifice a permanent with mana value 1 or greater, target creature you control connives. => As this battle enters, choose Ossiarch or Skaven.
+Ossiarch — Whenever you discard one or more cards, each opponent loses 1 life.
+Skaven — Whenever you discard one or more cards, create that many tapped black 1/1 Rat Peasant creature tokens with “This creature can't block.”
+
+Wreck and Ruin
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Ogors or Skaven.
+Ogors — At the start of combat on your turn, put X +1/+1 counters on target creature you control, where X is the greatest mana value among permanents you've sacrificed this turn.
+Skaven — At the start of combat on your turn, you may sacrifice a permanent or discard a card, if you do, target creature you control connives X times, where X is its mana value. => As this battle enters, choose Ogors or Skaven.
+Ogors — At the beginning of your end step, if you sacrificed a permanent with mana value 3 or greater this turn, create three tapped Treasure tokens.
+Skaven — Whenever you sacrifice a permanent, with mana value 1 or greater, this battle deals 3 damage to each opponent. This ability triggers only once each turn.
+
+The Place that Hungers
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Cities or Ogors.
+Cities — Whenever one or more creatures you control deal combat damage to a player or battle, create a tapped treasure token.
+Ogors — Whenever you activate the ability of a creature you control that isn't a mana ability, return target land card from your graveyard to the battlefield tapped, this ability triggers only once each turn. => As this battle enters, choose Cities or Ogors.
+Cities — Whenever you activate the ability of a creature you control that isn't a mana ability, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Ogors — Whenever you activate the ability of a creature you control that isn't a mana ability, return target land card from your graveyard to the battlefield tapped, this ability triggers only once each turn.
+
+Across the Plains
+rules_text: [i](A Control Point enters under your control. Any opponent may attack it. When an opponent defeats this, exile it, then put it onto the battlefield under that player's control with 6 defense counters on it.)[/i]
+As this battle enters, choose Cities or Lumineth.
+Cities — Creatures you control have +1/+1 and vigilance.
+Lumineth — At the beginning of your end step, if you control two or more tapped creatures, draw a card. => As this battle enters, choose Cities or Lumineth.
+Cities — Creatures you control get +1/+1 and have vigilance.
+Lumineth — At the beginning of your end step, if you control two or more tapped creatures, draw a card.
+
+Iscilla Thorian
+rules_text: Whenever you activate the ability of a creature you control that isn't a mana ability, you may put a creature card and/or a land card from your hand onto the battlefield. This ability triggers only once each turn.
+Regiment {6}{G}{G}: Creatures you control get +X/+X and gain trample until end of turn, where X is the number of lands you control. => Whenever you activate the ability of a creature you control that isn't a mana ability, you may put a creature card or a land card from your hand onto the battlefield. This ability triggers only once each turn.
+Regiment {6}{G}{G}: Creatures you control get +X/+X and gain trample until end of turn, where X is the number of lands you control.
+
+Plague Priest
+
+
+VERSION 67 CHANGELOG
 ====================
 
 
